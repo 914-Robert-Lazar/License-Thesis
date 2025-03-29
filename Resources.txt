@@ -1,0 +1,7 @@
+Stefan Jensen. Hands-On Machine Learning for Algorithmic Trading, https://books.google.co.in/books?id=tx2CDwAAQBAJ&lpg=PA38&dq=Nasdaq%20binary%20file%20parser&pg=PA37%23v=onepage&q&f=false#v=onepage&q=Nasdaq%20binary%20file%20parser&f=false
+
+Paween Pongthong and Sukumal Kitisin. Improving Web service Performance on Resource-Constraint Devices with FIX Protocol and Dynamic Data Compression, http://www.inceb2015.sit.kmutt.ac.th/Proceedings/2006/Proceedings/1_eBus_75%20paper_final.pdf
+
+Danqing	Hua, Junkang Ren, Chang	Liu, Raghavan Santhanam. Hardware Accelerated Decoding of FIX/FAST and Book Building of Market Data, https://www.cs.columbia.edu/~sedwards/classes/2013/4840/reports/FIX-FAST.pdf
+
+
