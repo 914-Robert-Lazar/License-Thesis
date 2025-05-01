@@ -1,52 +1,56 @@
+#pragma once
 #include <unordered_map>
 #include <functional>
 #include "BookBuilder.h"
 
-using func = std::function<bool(std::vector<char>&)>;
+using func = std::function<void(std::vector<char>&)>;
 
 class MessageHandler {
 private:
 	std::unordered_map<char, func> handlerChooser;
-	BookBuilder& bookBuilder;
+	/*BookBuilder& bookBuilder;*/
 
-	bool HandleSystemEventMessage(std::vector<char>& message);
-	bool HandleStockDirectoryMessage(std::vector<char>& message);
-	bool HandleStockTradingActionMessage(std::vector<char>& message);
-	bool HandleRegSHORestrictionMessage(std::vector<char>& message);
-	bool HandleMarketParticipantPositionMessage(std::vector<char>& message);
-	bool HandleMWCBDeclineLevelMessage(std::vector<char>& message);
-	bool HandleMWCBStatusMessage(std::vector<char>& message);
-	bool HandleQuotingPeriodUpdateMessage(std::vector<char>& message);
-	bool HandleLimitUpDownAuctionCollarMessage(std::vector<char>& message);
-	bool HandleOperationalHaltMessage(std::vector<char>& message);
-	bool HandleAddOrderMessage(std::vector<char>& message);
-	bool HandleAddOrderWithMPIDMessage(std::vector<char>& message);
-	bool HandleAddOrderExecutedMessage(std::vector<char>& message);
-	bool HandleAddOrderExecutedWithPriceMessage(std::vector<char>& message);
-	bool HandleOrderCancelMessage(std::vector<char>& message);
-	bool HandleOrderDeleteMessage(std::vector<char>& message);
-	bool HandleOrderReplaceMessage(std::vector<char>& message);
-	bool HandleTradeMessage(std::vector<char>& message);
-	bool HandleCrossTradeMessage(std::vector<char>& message);
-	bool HandleBrokenTradeMessage(std::vector<char>& message);
-	bool HandleNetOrderImbalanceIndicatorMessage(std::vector<char>& message);
-	bool HandleRetailInterestMessage(std::vector<char>& message);
-	bool HandleDirectListingWithCapitalRaiseMessage(std::vector<char>& message);
-
+	/*void HandleSystemEventMessage(std::vector<char>& message);*/
+	virtual void HandleStockDirectoryMessage(std::vector<char>& message) {}
+	/*void HandleStockTradingActionMessage(std::vector<char>& message);
+	void HandleRegSHORestrictionMessage(std::vector<char>& message);
+	void HandleMarketParticipantPositionMessage(std::vector<char>& message);
+	void HandleMWCBDeclineLevelMessage(std::vector<char>& message);
+	void HandleMWCBStatusMessage(std::vector<char>& message);
+	void HandleQuotingPeriodUpdateMessage(std::vector<char>& message);
+	void HandleLimitUpDownAuctionCollarMessage(std::vector<char>& message);
+	void HandleOperationalHaltMessage(std::vector<char>& message);*/
+	
+	/*void HandleTradeMessage(std::vector<char>& message);
+	void HandleCrossTradeMessage(std::vector<char>& message);
+	void HandleBrokenTradeMessage(std::vector<char>& message);
+	void HandleNetOrderImbalanceIndicatorMessage(std::vector<char>& message);
+	void HandleRetailInterestMessage(std::vector<char>& message);
+	void HandleDirectListingWithCapitalRaiseMessage(std::vector<char>& message);*/
+protected:
+	virtual void HandleAddOrderMessage(std::vector<char>& message) { orderRelatedMessageCounter++; }
+	virtual void HandleAddOrderWithMPIDMessage(std::vector<char>& message) { orderRelatedMessageCounter++; }
+	virtual void HandleAddOrderExecutedMessage(std::vector<char>& message) { orderRelatedMessageCounter++; }
+	virtual void HandleAddOrderExecutedWithPriceMessage(std::vector<char>& message) { orderRelatedMessageCounter++; }
+	virtual void HandleOrderCancelMessage(std::vector<char>& message) { orderRelatedMessageCounter++; }
+	virtual void HandleOrderDeleteMessage(std::vector<char>& message) { orderRelatedMessageCounter++; }
+	virtual void HandleOrderReplaceMessage(std::vector<char>& message) { orderRelatedMessageCounter++; }
 	uint16_t get2byteIntFromChars(unsigned char b1, unsigned char b0);
 	uint32_t get4byteIntFromChars(unsigned char b3, unsigned char b2, unsigned char b1, unsigned char b0);
 	uint64_t get6byteIntFromChars(unsigned char b5, unsigned char b4, unsigned char b3, unsigned char b2, unsigned char b1, unsigned char b0);
 	uint64_t get8byteIntFromChars(unsigned char b7, unsigned char b6, unsigned char b5, unsigned char b4, unsigned char b3, unsigned char b2, unsigned char b1, unsigned char b0);
-
+	double convertToPriceWith4Decimals(uint64_t number);
+	double convertToPriceWith8Decimals(uint64_t number);
 public:
-	MessageHandler(BookBuilder& bookBuilder) : bookBuilder(bookBuilder){
-		handlerChooser['S'] = [this](std::vector<char>& message) {
+	int orderRelatedMessageCounter = 0;
+	MessageHandler() /*: bookBuilder(bookBuilder)*/{
+		/*handlerChooser['S'] = [this](std::vector<char>& message) {
 			return this->HandleSystemEventMessage(message);
-			};
+			};*/
 		handlerChooser['R'] = [this](std::vector<char>& message) {
 			return HandleStockDirectoryMessage(message);
 			};
-		handlerChooser['H'] = [this](std::vector<char>& message) {
+		/*handlerChooser['H'] = [this](std::vector<char>& message) {
 			return HandleStockTradingActionMessage(message);
 			};
 		handlerChooser['Y'] = [this](std::vector<char>& message) {
@@ -69,7 +73,7 @@ public:
 			};
 		handlerChooser['h'] = [this](std::vector<char>& message) {
 			return HandleOperationalHaltMessage(message);
-			};
+			};*/
 		handlerChooser['A'] = [this](std::vector<char>& message) {
 			return HandleAddOrderMessage(message);
 			};
@@ -91,7 +95,7 @@ public:
 		handlerChooser['U'] = [this](std::vector<char>& message) {
 			return HandleOrderReplaceMessage(message);
 			};
-		handlerChooser['P'] = [this](std::vector<char>& message) {
+		/*handlerChooser['P'] = [this](std::vector<char>& message) {
 			return HandleTradeMessage(message);
 			};
 		handlerChooser['Q'] = [this](std::vector<char>& message) {
@@ -105,8 +109,10 @@ public:
 			};
 		handlerChooser['N'] = [this](std::vector<char>& message) {
 			return HandleRetailInterestMessage(message);
-			};
+			};*/
 	}
 
 	void HandleMessage(std::vector<char>& message);
+
+	virtual ~MessageHandler() {}
 };

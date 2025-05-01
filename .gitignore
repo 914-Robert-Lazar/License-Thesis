@@ -9,3 +9,10 @@ License-Thesis-Visual-Studio/License-Thesis-Visual-Studio.vcxproj.filters
 License-Thesis-Visual-Studio/License-Thesis-Visual-Studio.vcxproj.user
 License-Thesis-Visual-Studio/x64/Debug/License-Thesis-Visual-Studio.pdb
 run.ps1
+/Application/ITCHDecodeBenchmark/.vs
+/Application/ITCHDecodeBenchmark/bin
+Application/ITCHDecodeBenchmark/ITCHDecodeBenchmark.csproj
+Application/ITCHDecodeBenchmark/ITCHDecodeBenchmark.csproj.user
+/Application/ITCHDecodeBenchmark/obj
+License-Thesis-Visual-Studio/Release/zlib1.dll
+/License-Thesis-Visual-Studio/Release

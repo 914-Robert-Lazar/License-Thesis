@@ -2,73 +2,79 @@
 #include <zlib.h>
 #include <unordered_set>
 #include <fstream>
-#include "MessageHandler.h"
+#include "BookBuildingMessageHandler.h"
+#include "Parser.h"
+#include "chrono"
 
-const std::unordered_set<char> VALID_ITCH_MSG_TYPES = { 'S', 'R', 'H', 'Y', 'L', 'V', 'W', 'K', 'J', 'h', 'A', 'F', 'E', 'C', 'X', 'D', 'U', 'P', 'Q', 'B', 'I', 'O' };
-
-uint16_t readBigEndianUint16(gzFile file) {
-    /*uint8_t buffer[2];
-    if (gzread(file, buffer, 2) != 2) return 0;
-    return (buffer[0] << 8) | buffer[1];*/
+static uint16_t readBigEndianUint16(gzFile file) {
     uint16_t length;
     if (gzread(file, &length, sizeof(length)) <= 0) return 0;
     return _byteswap_ushort(length);
 }
 
-bool validateITCHFile(const std::string& filename) {
+static bool decodeTCHFile(const bool toBuildOrderBook, const std::string& filename, const uint32_t numberOfOrderRelatedMessagesToBeExecuted) {
     gzFile file = gzopen(filename.c_str(), "rb");
     if (!file) {
         std::cerr << "Error opening file" << filename << std::endl;
     }
 
-    int totalMessages = 0, validMessages = 0;
     std::unordered_map<char, uint64_t> messageTypes;
-
+    std::unique_ptr<MessageHandler> messageHandler;
     BookBuilder bookBuilder = BookBuilder();
-    MessageHandler messageHandler = MessageHandler(bookBuilder);
 
+    if (toBuildOrderBook) {
+        messageHandler = std::make_unique<BookBuildingMessageHandler>(bookBuilder);
+    }
+    else {
+        messageHandler = std::make_unique<Parser>();
+    }
+
+    const auto start{ std::chrono::steady_clock::now() };
     while (true) {
         uint16_t messageLength = readBigEndianUint16(file);
-        if (messageLength == 0) {
-            std::cout << "End of session marker found." << std::endl;
+        if (messageLength == 0 || 
+            (numberOfOrderRelatedMessagesToBeExecuted > 0 && messageHandler->orderRelatedMessageCounter >= numberOfOrderRelatedMessagesToBeExecuted)) {
             break;
         }
 
         std::vector<char> message(messageLength);
         if (gzread(file, message.data(), messageLength) != messageLength) break;
-
-        totalMessages++;
-
-        if (VALID_ITCH_MSG_TYPES.count(message[0])) {
-            validMessages++;
-            messageTypes[message[0]]++;
-        }
-        messageHandler.HandleMessage(message);
+        messageHandler->HandleMessage(message);
     }
+
+    const auto finish{ std::chrono::steady_clock::now() };
+    const std::chrono::duration<double> elapsed_seconds{ finish - start };
 
     gzclose(file);
 
-    if (validMessages > 0) {
-        std::cout << "Valid ITCH BinaryFILE: " << validMessages << "/" << totalMessages << " messages recognized." << std::endl;
-        std::ofstream out("messageTypes.txt");
-        for (auto& messageType : messageTypes) {
-            out << messageType.first << ": " << messageType.second << std::endl;
-        }
+    std::cout << elapsed_seconds.count();
+    if (toBuildOrderBook)
+    {
+        std::ofstream out("orderBook.txt");
+        bookBuilder.printOrderBook(out);
+
         out.close();
-        return true;
     }
-    else {
-        std::cout << "No valid ITCH messages found." << std::endl;
-        return false;
-    }
+    return true;
+}
+
+static bool isNumber(const std::string& s)
+{
+    std::string::const_iterator it = s.begin();
+    while (it != s.end() && std::isdigit(*it)) ++it;
+    return !s.empty() && it == s.end();
 }
 
 int main(int argc, char* argv[]) {
-    if (argc < 2) {
-        std::cerr << "Usage " << argv[0] << " <binary_itch_file.gz>" << std::endl;
+    if (argc < 3) {
+        std::cerr << "Usage " << argv[0] << " <parse or build> <binary_itch_file.gz> [<number of order related messages to be executed>]" << std::endl;
         return 1;
     }
 
-    std::string filename = argv[1];
-    return validateITCHFile(filename) ? 0 : 1;
+    std::string type = argv[1];
+    bool toBuildOrderBook = type == "build" ? true : false;
+    std::string filename = argv[2];
+
+    uint32_t numberOfOrderRelatedMessagesToBeExecuted = argc > 3 && isNumber(argv[3]) ? std::stoi(argv[3]) : 0;
+    return decodeTCHFile(toBuildOrderBook, filename, numberOfOrderRelatedMessagesToBeExecuted) ? 0 : 1;
 }
