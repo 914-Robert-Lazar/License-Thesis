@@ -9,7 +9,8 @@ public:
 	uint32_t numberOfShares;
 	char buySellIndicator;
 
-	Order(char buySellIndicator, uint32_t numberOfShares, std::string& stockName, double price, std::string& attribution) {
+	Order(char buySellIndicator, uint32_t numberOfShares, 
+		std::string& stockName, double price, std::string& attribution) {
 		this->buySellIndicator = buySellIndicator;
 		this->numberOfShares = numberOfShares;
 		this->stockName = stockName;

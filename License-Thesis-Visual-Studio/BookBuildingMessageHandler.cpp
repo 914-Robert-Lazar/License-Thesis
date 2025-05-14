@@ -13,10 +13,10 @@ void BookBuildingMessageHandler::HandleStockDirectoryMessage(std::vector<char>& 
 
 void BookBuildingMessageHandler::HandleAddOrderMessage(std::vector<char>& message)
 {
-	MessageHandler::HandleAddOrderMessage(message);
+	this->orderRelatedMessageCounter++;
 	uint16_t stockLocate = get2byteIntFromChars(message[1], message[2]);
 	uint64_t orderReferenceNumber = get8byteIntFromChars(message[11], message[12], message[13], message[14], message[15], message[16], message[17], message[18]);
-	std::string stockName(message.begin() + 24, message.begin() + 33);
+	std::string stockName(message.begin() + 24, message.begin() + 32);
 	std::string marketParticipant = "NSDQ";
 	Order order = Order(message[19], get4byteIntFromChars(message[20], message[21], message[22], message[23]), stockName,
 		convertToPriceWith4Decimals(get4byteIntFromChars(message[32], message[33], message[34], message[35])), marketParticipant);
@@ -25,27 +25,27 @@ void BookBuildingMessageHandler::HandleAddOrderMessage(std::vector<char>& messag
 
 void BookBuildingMessageHandler::HandleAddOrderWithMPIDMessage(std::vector<char>& message)
 {
-	MessageHandler::HandleAddOrderWithMPIDMessage(message);
+	this->orderRelatedMessageCounter++;
 	uint16_t stockLocate = get2byteIntFromChars(message[1], message[2]);
 	uint64_t orderReferenceNumber = get8byteIntFromChars(message[11], message[12], message[13], message[14], message[15], message[16], message[17], message[18]);
-	std::string stockName(message.begin() + 24, message.begin() + 33);
+	std::string stockName(message.begin() + 24, message.begin() + 32);
 	std::string marketParticipant(message.begin() + 36, message.end());
 	Order order = Order(message[19], get4byteIntFromChars(message[20], message[21], message[22], message[23]), stockName,
 		convertToPriceWith4Decimals(get4byteIntFromChars(message[32], message[33], message[34], message[35])), marketParticipant);
 	bookBuilder.addOrder(stockLocate, orderReferenceNumber, order);
 }
 
-void BookBuildingMessageHandler::HandleAddOrderExecutedMessage(std::vector<char>& message)
+void BookBuildingMessageHandler::HandleOrderExecutedMessage(std::vector<char>& message)
 {
-	MessageHandler::HandleAddOrderExecutedMessage(message);
+	this->orderRelatedMessageCounter++;
 	uint16_t stockLocate = get2byteIntFromChars(message[1], message[2]);
 	uint64_t orderReferenceNumber = get8byteIntFromChars(message[11], message[12], message[13], message[14], message[15], message[16], message[17], message[18]);
 	bookBuilder.executeOrder(stockLocate, orderReferenceNumber, get4byteIntFromChars(message[19], message[20], message[21], message[22]));
 }
 
-void BookBuildingMessageHandler::HandleAddOrderExecutedWithPriceMessage(std::vector<char>& message)
+void BookBuildingMessageHandler::HandleOrderExecutedWithPriceMessage(std::vector<char>& message)
 {
-	MessageHandler::HandleAddOrderExecutedWithPriceMessage(message);
+	this->orderRelatedMessageCounter++;
 	uint16_t stockLocate = get2byteIntFromChars(message[1], message[2]);
 	uint64_t orderReferenceNumber = get8byteIntFromChars(message[11], message[12], message[13], message[14], message[15], message[16], message[17], message[18]);
 	bookBuilder.executeOrder(stockLocate, orderReferenceNumber, get4byteIntFromChars(message[19], message[20], message[21], message[22]));
@@ -53,7 +53,7 @@ void BookBuildingMessageHandler::HandleAddOrderExecutedWithPriceMessage(std::vec
 
 void BookBuildingMessageHandler::HandleOrderCancelMessage(std::vector<char>& message)
 {
-	MessageHandler::HandleOrderCancelMessage(message);
+	this->orderRelatedMessageCounter++;
 	uint16_t stockLocate = get2byteIntFromChars(message[1], message[2]);
 	uint64_t orderReferenceNumber = get8byteIntFromChars(message[11], message[12], message[13], message[14], message[15], message[16], message[17], message[18]);
 	bookBuilder.cancelOrder(stockLocate, orderReferenceNumber, get4byteIntFromChars(message[19], message[20], message[21], message[22]));
@@ -61,7 +61,7 @@ void BookBuildingMessageHandler::HandleOrderCancelMessage(std::vector<char>& mes
 
 void BookBuildingMessageHandler::HandleOrderDeleteMessage(std::vector<char>& message)
 {
-	MessageHandler::HandleOrderDeleteMessage(message);
+	this->orderRelatedMessageCounter++;
 	uint16_t stockLocate = get2byteIntFromChars(message[1], message[2]);
 	uint64_t orderReferenceNumber = get8byteIntFromChars(message[11], message[12], message[13], message[14], message[15], message[16], message[17], message[18]);
 	bookBuilder.deleteOrder(stockLocate, orderReferenceNumber);
@@ -69,7 +69,7 @@ void BookBuildingMessageHandler::HandleOrderDeleteMessage(std::vector<char>& mes
 
 void BookBuildingMessageHandler::HandleOrderReplaceMessage(std::vector<char>& message)
 {
-	MessageHandler::HandleOrderReplaceMessage(message);
+	this->orderRelatedMessageCounter++;
 	uint16_t stockLocate = get2byteIntFromChars(message[1], message[2]);
 	uint64_t oldOrderReferenceNumber = get8byteIntFromChars(message[11], message[12], message[13], message[14], message[15], message[16], message[17], message[18]);
 	uint64_t newOrderReferenceNumber = get8byteIntFromChars(message[19], message[20], message[21], message[22], message[23], message[24], message[25], message[26]);

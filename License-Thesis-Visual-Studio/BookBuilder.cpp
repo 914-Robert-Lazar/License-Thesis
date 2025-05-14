@@ -11,46 +11,6 @@ bool BookBuilder::addSecurity(uint16_t stockLocate, Security& security)
     return true;
 }
 
-//bool BookBuilder::setTradingState(uint16_t stockLocate, char state)
-//{
-//    if (securityDetails.find(stockLocate) == securityDetails.end())
-//    {
-//        return false;
-//    }
-//    securityDetails[stockLocate].setTradingState(state);
-//    return true;
-//}
-//
-//bool BookBuilder::setRegSHOState(uint16_t stockLocate, char state)
-//{
-//    if (securityDetails.find(stockLocate) == securityDetails.end())
-//    {
-//        return false;
-//    }
-//    securityDetails[stockLocate].setRegSHOState(state);
-//    return true;
-//}
-//
-//bool BookBuilder::setMarketParticipant(uint16_t stockLocate, MarketParticipant& marketParticipant)
-//{
-//    if (securityDetails.find(stockLocate) == securityDetails.end())
-//    {
-//        return false;
-//    }
-//    securityDetails[stockLocate].setMarketParticipant(marketParticipant);
-//    return true;
-//}
-//
-//bool BookBuilder::updateHalt(uint16_t stockLocate, char marketCenter, bool toHalt)
-//{
-//    if (securityDetails.find(stockLocate) == securityDetails.end())
-//    {
-//        return false;
-//    }
-//    securityDetails[stockLocate].setHalt(marketCenter, toHalt);
-//    return true;
-//}
-
 bool BookBuilder::addOrder(uint16_t stockLocate, uint64_t orderReferenceNumber, Order& order)
 {
     if (securityDetails.find(stockLocate) == securityDetails.end())
@@ -69,7 +29,9 @@ bool BookBuilder::executeOrder(uint16_t stockLocate, uint64_t orderReferenceNumb
         return false;
     }
 
-    orderBooks[stockLocate].executeOrder(orders[orderReferenceNumber].buySellIndicator, orders[orderReferenceNumber].price, executedShares);
+    orderBooks[stockLocate].executeOrder(orders[orderReferenceNumber].buySellIndicator,
+        orders[orderReferenceNumber].price, executedShares);
+
     if (orders[orderReferenceNumber].numberOfShares <= executedShares)
     {
         orders.erase(orderReferenceNumber);

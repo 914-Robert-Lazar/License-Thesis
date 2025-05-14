@@ -5,3 +5,11 @@ Paween Pongthong and Sukumal Kitisin. Improving Web service Performance on Resou
 Danqing	Hua, Junkang Ren, Chang	Liu, Raghavan Santhanam. Hardware Accelerated Decoding of FIX/FAST and Book Building of Market Data, https://www.cs.columbia.edu/~sedwards/classes/2013/4840/reports/FIX-FAST.pdf
 
 
+Tri Nam Do. Developing an Algorithmic Trading Bot
+https://www.theseus.fi/bitstream/handle/10024/498597/thesis_tri_nam_do.pdf
+
+Raphaël Darbellay. Behind the scenes of algorithmic trading
+www.theseus.fi/bitstream/handle/10024/496406/Thesis_100421_RaphaelDarbellayV8.pdf
+
+Low Latency FPGA Acceleration of Market Data Feed Arbitration. Stewart Denholm, Hiroaki Inoue, Takashi Takenaka, Tobias Becker, Wayne Luk
+https://ieeexplore.ieee.org/document/6868628

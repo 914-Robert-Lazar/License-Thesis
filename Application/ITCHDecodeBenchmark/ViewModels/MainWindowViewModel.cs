@@ -11,15 +11,13 @@ namespace ITCHDecodeBenchmark.ViewModels
         Build,
         Parse
     }
-    class MainWindowViewModel : PropertyChangedBase
+    class MainWindowViewModel : PropertyChangedBase  
     {
         public ObservableCollection<ProgramEntry> Programs { get; set; } = new();
 
-        public Array ExecutionTypes => Enum.GetValues(typeof(ExecutionType));
-
         public RelayCommand AddProgramCommand { get; }
         public RelayCommand SelectInputFileCommand { get; }
-        public RelayCommand RunBenchmarkCommand { get; }
+        public RelayCommand RunBenchmarksCommand { get; }
 
         private string? _inputFilePath;
         public string? InputFilePath {
@@ -52,11 +50,22 @@ namespace ITCHDecodeBenchmark.ViewModels
                 }
             }
         }
-        private string _status = "";
-        public string Status
+
+        private string? _numberOfRuns;
+
+        public string? NumberOfRuns
         {
-            get => _status;
-            set => SetProperty(ref _status, value);
+            get => _numberOfRuns;
+            set
+            {
+                if (_numberOfRuns != value)
+                {
+                    _numberOfRuns = value;
+                    OnPropertyChanged(nameof(NumberOfRuns));
+                    foreach (var p in Programs)
+                        p.NumberOfRuns = value;
+                }
+            }
         }
 
         public string? InputFile => InputFilePath == null ? null : Path.GetFileName(InputFilePath);
@@ -65,7 +74,7 @@ namespace ITCHDecodeBenchmark.ViewModels
         {
             AddProgramCommand = new RelayCommand(AddProgram);
             SelectInputFileCommand = new RelayCommand(SelectInputFile);
-            RunBenchmarkCommand = new RelayCommand(RunBenchmark);
+            RunBenchmarksCommand = new RelayCommand(async _ => await RunBenchmarks());
         }
 
         private void AddProgram(object? obj)
@@ -79,9 +88,10 @@ namespace ITCHDecodeBenchmark.ViewModels
                     ".py" => "Python",
                     ".java" => "Java",
                     ".exe" => "C++",
+                    ".jar" => "Packaged Java",
                     _ => "Unknown"
                 };
-                Programs.Add(new ProgramEntry(NumberOfMessagesToExecute, InputFilePath) { Path = path, Language = language });
+                Programs.Add(new ProgramEntry(path, language, NumberOfMessagesToExecute, InputFilePath));
             }
         }
 
@@ -94,9 +104,10 @@ namespace ITCHDecodeBenchmark.ViewModels
             }
         }
 
-        private void RunBenchmark(object? obj)
+        private async Task RunBenchmarks()
         {
-            throw new NotImplementedException();
+            var tasks = Programs.Select(program => Task.Run(() => program.RunProgram()));
+            await Task.WhenAll(tasks);
         }
 
         public void SaveData()

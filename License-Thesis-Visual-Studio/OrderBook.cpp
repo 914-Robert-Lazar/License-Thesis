@@ -1,6 +1,6 @@
 #include "OrderBook.h"
 
-void OrderBook::addOrder(Order& order) 
+void OrderBook ::addOrder(Order& order) 
 {
 	double priceLevel = order.price;
 	uint32_t numberOfShares = order.numberOfShares;

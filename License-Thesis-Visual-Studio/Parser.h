@@ -15,8 +15,8 @@ class Parser : public MessageHandler
 	void HandleOperationalHaltMessage(std::vector<char>& message);
 	void HandleAddOrderMessage(std::vector<char>& message) override;
 	void HandleAddOrderWithMPIDMessage(std::vector<char>& message) override;
-	void HandleAddOrderExecutedMessage(std::vector<char>& message) override;
-	void HandleAddOrderExecutedWithPriceMessage(std::vector<char>& message) override;
+	void HandleOrderExecutedMessage(std::vector<char>& message) override;
+	void HandleOrderExecutedWithPriceMessage(std::vector<char>& message) override;
 	void HandleOrderCancelMessage(std::vector<char>& message) override;
 	void HandleOrderDeleteMessage(std::vector<char>& message) override;
 	void HandleOrderReplaceMessage(std::vector<char>& message) override;
@@ -26,5 +26,10 @@ class Parser : public MessageHandler
 	void HandleNetOrderImbalanceIndicatorMessage(std::vector<char>& message);
 	void HandleRetailInterestMessage(std::vector<char>& message);
 	void HandleDirectListingWithCapitalRaiseMessage(std::vector<char>& message);
+
+	void BaseParsing(std::vector<char>& message);
+	void HandleMessage(std::vector<char>& message) override;
+public:
+	Parser();
 };
 

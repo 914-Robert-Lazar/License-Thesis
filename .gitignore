@@ -16,3 +16,12 @@ Application/ITCHDecodeBenchmark/ITCHDecodeBenchmark.csproj.user
 /Application/ITCHDecodeBenchmark/obj
 License-Thesis-Visual-Studio/Release/zlib1.dll
 /License-Thesis-Visual-Studio/Release
+/ITCHDecoder-Java/.idea
+/ITCHDecoder-Java/out
+/ITCHDecoder-Java/src/main/resources/META-INF
+Resources.txt
+Results.txt
+Resources.txt
+/src/changed_python_parser/.vscode
+src/changed_python_parser/message_types/message_types.xlsx
+src/changed_python_parser/notes.txt

@@ -4,6 +4,23 @@
              xmlns:local="clr-namespace:ITCHDecodeBenchmark"
              StartupUri="Views/MainWindowView.xaml">
     <Application.Resources>
-         
+        <Style TargetType="TextBlock">
+            <Setter Property="FontSize" Value="14" />
+        </Style>
+        <Style TargetType="Label">
+            <Setter Property="FontSize" Value="14" />
+        </Style>
+        <Style TargetType="TextBox">
+            <Setter Property="FontSize" Value="14" />
+        </Style>
+        <Style TargetType="ComboBox">
+            <Setter Property="FontSize" Value="14" />
+        </Style>
+        <Style TargetType="Button">
+            <Setter Property="FontSize" Value="14" />
+        </Style>
+        <Style TargetType="DataGridRow">
+            <Setter Property="FontSize" Value="14" />
+        </Style>
     </Application.Resources>
 </Application>

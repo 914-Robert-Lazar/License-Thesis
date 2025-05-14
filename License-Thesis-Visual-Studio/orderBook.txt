@@ -1,0 +1,12045 @@
+A       :
+68.96: 250
+EHTH    :
+			70: 10
+AA      :
+HQL     :
+SOJB    :
+ARKQ    :
+PDLI    :
+GPAQ    :
+BRFS    :
+FBIOP   :
+QUS     :
+AAAU    :
+10.9: 100	14.79: 100
+			14.96: 100
+OMED    :
+EGPT    :
+UPV     :
+AABA    :
+OLP     :
+ARGT    :
+FAX     :
+CY      :
+AAC     :
+			3.59: 100
+FKU     :
+THG     :
+AADR    :
+LMAT    :
+CRNT    :
+ARLO    :
+6.9: 18	9: 9
+FAS     :
+SO      :
+BPT     :
+22.82: 1
+NKE     :
+80.35: 149	80.74: 342
+77.77: 50
+76.76: 100
+69.35: 42
+60: 5
+1.01: 5000
+AAL     :
+31.99: 100	37.43: 100
+30: 10	40: 10
+			50.1: 400
+FIVN    :
+AAMC    :
+TTTN    :
+24: 2
+23: 4
+22: 8
+DAL     :
+			48.8: 5
+NTIC    :
+			35: 20
+ARR     :
+FBGX    :
+AAME    :
+FLGB    :
+NTRS    :
+AAN     :
+LMFAW   :
+ARNC    :
+BRKL    :
+TBRGW   :
+MPA     :
+SAR     :
+21.87: 16
+21.26: 1
+AAOI    :
+			48.6: 65
+ELGX    :
+0.6523: 100	1.09: 29851
+			1.17: 100
+			1.34: 500
+AAON    :
+ICAD    :
+MOMO    :
+SAMG    :
+ARKW    :
+MEIP    :
+EKSO    :
+SM      :
+AAP     :
+LM      :
+SFHY    :
+AAPL    :
+162.5: 200	162.7: 2
+162.43: 4	162.75: 320
+162.42: 50	162.85: 8
+162.36: 200	163: 10
+162.16: 25	163.18: 178
+162.1: 100	163.24: 1000
+161.59: 2000	163.5: 740
+161.14: 200	163.58: 200
+161.1: 50	163.63: 15
+161.07: 1000	163.79: 300
+161: 10	163.8: 9
+160.95: 100	163.89: 823
+160.75: 100	163.99: 100
+160.71: 11	164.11: 100
+160.55: 100	164.3: 36
+160.4: 50	164.5: 211
+160.3: 15	164.69: 181
+160.2: 50	164.8: 20
+160.13: 40	165: 110
+160.02: 20	166: 527
+160: 11	166.6: 30
+159.89: 20	167.88: 25
+159.14: 300	168.78: 500
+159: 10	169.29: 25
+158.23: 25	170: 250
+158: 100	172.32: 40
+157.6: 40	173: 25
+157: 132	174.88: 500
+156.4: 150	179.15: 40
+156: 163	179.88: 25
+155.8: 13	179.9: 26
+155: 201	180: 55
+154.85: 1	180.7: 10
+154: 1001	189: 21
+153: 10	189.2: 100
+152: 70	191.6: 200
+150: 15	206.98: 300
+149.95: 56	220.89: 150
+149: 50	225: 150
+146.1: 5	225.5: 100
+140: 1	226: 85
+139: 100
+136.98: 10
+135: 25
+134.6: 10
+132.5: 2
+130: 1
+129.33: 100
+125.42: 200
+125: 10012
+122.6: 100
+121.73: 200
+117.66: 300
+110.56: 1
+96.06: 100
+94.87: 1
+LMNR    :
+CRSP    :
+IDTI    :
+ARPO    :
+BRACW   :
+EIM     :
+PIHPP   :
+17.92: 110	22.39: 100
+HOLI    :
+AAT     :
+DAVA    :
+HOS     :
+AAU     :
+SANM    :
+ARVN    :
+MEOH    :
+ELD     :
+SMBK    :
+AAWW    :
+LND     :
+NUBD    :
+SGLB    :
+AAXJ    :
+LMRKO   :
+ARR-B   :
+HSDT    :
+FCAU    :
+16.8: 1500	16.84: 1500
+16.79: 1800	16.9: 3000
+16.75: 3000	17.5: 100
+16: 1000
+14: 1500
+13.9: 440
+13.2: 520
+12.15: 100
+12: 2000
+MPW     :
+GPRO    :
+4.15: 250	6.94: 75
+			44: 100
+BRPAW   :
+AAXN    :
+AB      :
+FBT     :
+130: 1
+MOSC+   :
+AROC    :
+MESO    :
+RAAX    :
+ABB     :
+19.08: 7000	19.13: 300
+19.07: 1500	19.17: 600
+19.02: 3000	19.18: 3000
+19: 3000
+18.99: 3000
+LMLP    :
+ABBV    :
+75: 19	78.5: 1
+72: 200	79.52: 280
+71.8: 50	82.9: 22
+70: 150	86.2: 100
+65: 200
+60: 5
+FLEU    :
+ARTW    :
+USPH    :
+CRY     :
+MOSY    :
+0.1145: 13000	0.2199: 16000
+			0.22: 55000
+			0.47: 5000
+			0.51: 5000
+			0.54: 5000
+			0.57: 5000
+			0.73: 1000
+			1.1: 1000
+			1.45: 1000
+BRG-D   :
+FBMS    :
+ABC     :
+TUSA    :
+PIRS    :
+QWLD    :
+DBC     :
+ABCB    :
+FCAL    :
+SPB     :
+ANFI    :
+METC    :
+RAIL    :
+ABDC    :
+LOACR   :
+ABEO    :
+FLL     :
+EAD     :
+TPVY    :
+ANCX    :
+PEJ     :
+BLBD    :
+EAE     :
+EMBH    :
+VGSH    :
+ABEOW   :
+ONVO    :
+ICOW    :
+TIVO    :
+ABEV    :
+			4.84: 1
+			4.85: 3
+			4.9: 1
+			4.93: 1
+			4.99: 3
+			5: 20
+			5.05: 4
+			5.1: 2
+			5.24: 3
+			5.5: 1
+			15: 1
+ONEO    :
+ARRY    :
+EAF     :
+ABG     :
+ELU     :
+ABIL    :
+2.08: 783	2.27: 1500
+1.83: 4000	2.45: 100
+			2.85: 400
+			3.38: 46
+			3.53: 600
+			4.47: 400
+CSF     :
+MPC     :
+IEIH    :
+ANET    :
+1.01: 5000
+EAGLU   :
+SAVE    :
+BRO     :
+NMK-B   :
+HPJ     :
+ABIO    :
+			0.56: 3700
+			0.62: 3500
+			0.66: 1800
+			0.72: 1800
+ELMD    :
+5: 50
+4.75: 50
+DBJP    :
+NULV    :
+HR      :
+ABM     :
+ANIK    :
+EAGLW   :
+ABMD    :
+313.63: 100
+EMAN    :
+			1: 10
+ABR     :
+			12.6: 3
+ANGL    :
+PACQU   :
+HFRO    :
+EVT     :
+PTVCB   :
+GLAD    :
+			9.75: 500
+BLFS    :
+			14.5: 10
+RBS     :
+6.3: -200	6.32: 100
+6.29: 2500	6.36: 17500
+6.26: 15000
+ABR-A   :
+OPGN    :
+USDP    :
+ABR-B   :
+OOMA    :
+14.25: 10
+14: 20
+13.5: 20
+13: 30
+EVOK    :
+PTX     :
+ANDE    :
+ABR-C   :
+FLJH    :
+TK      :
+ABT     :
+			73.95: 30
+LOCO    :
+EAST    :
+COF-H   :
+ANH-B   :
+EVLMC   :
+SPAR    :
+BKTI    :
+NDLS    :
+ABTX    :
+ABUS    :
+TWO-D   :
+DBV     :
+NUS     :
+EVRG    :
+PUK     :
+38.97: 100	39.04: 1600
+38.96: 1500	39.06: 1500
+38.95: 246	39.08: 100
+38.93: 295	39.19: 9000
+38.81: 9000
+AOD     :
+AC      :
+FLQG    :
+NVEC    :
+ACA     :
+LOGM    :
+ANIX    :
+EBAYL   :
+BLNK    :
+SUZ     :
+EBF     :
+RTW     :
+ACAD    :
+EMITF   :
+1.05: 5000	1.26: 5000
+			2.55: 100
+ACB     :
+6.88: 2000	6.94: 3000
+6.75: 129	7: 75
+6.7: 100	7.08: 200
+6.66: 200	7.14: 300
+6.65: 135	7.25: 173
+6.5: 150	7.32: 10
+6.43: 130	7.34: 1000
+6.4: 2	7.35: 15
+6.21: 100	7.45: 32
+6.06: 500	7.48: 510
+6.01: 10	7.5: 19
+6: 200	7.67: 6000
+5.91: 500	7.9: 2500
+5.9: 10	7.96: 168
+5.76: 515	8.1: 100
+5.71: 50	8.3: 5
+5.56: 500	8.5: 13
+5.51: 25	9.19: 200
+5.26: 25	15.55: 55
+5.02: 25	16: 11
+4.99: 48	18.5: 1
+4.76: 25	20: 10
+4.66: 500	50: 1000
+4.51: 25	60: 100
+4.5: 22
+4.35: 20000
+4.26: 25
+4.1: 200
+4.07: 2000
+4.01: 25
+3.74: 1000
+2.25: 40000
+1.72: 217
+IDN     :
+EBIX    :
+RTH     :
+ANH     :
+MAC     :
+EMF     :
+SMRT    :
+ACBI    :
+LOB     :
+SH      :
+29.65: 4400	29.67: 5000
+29.64: 4400	29.69: 4400
+29.63: 4400	29.71: 4400
+29.62: 4400	29.72: 4400
+29.61: 4400	29.73: 4400
+			30.51: 5000
+ACC     :
+LOPE    :
+COLD    :
+PUTW    :
+HYT     :
+AOA     :
+BLDP    :
+EBND    :
+EMCI    :
+PLBC    :
+HRTG    :
+ACCO    :
+8.82: 20
+DCO     :
+HSIC    :
+ACER    :
+EBR     :
+RTN     :
+APA     :
+			45: 100
+MAGS    :
+ACES    :
+LPI     :
+3.4: 200	3.7: 200
+			4.25: 50
+			100000: 1300
+STAR    :
+EMIF    :
+SMTS    :
+			2.85: 100
+NMY     :
+SHV     :
+ACET    :
+LOV     :
+HIFS    :
+PVBC    :
+AOM     :
+GLNG    :
+BLX     :
+EWJ     :
+53.61: 1900	54.19: 1900
+53.6: 1900
+ACGL    :
+ACGLO   :
+ANTM    :
+MANH    :
+EWCO    :
+RCKT    :
+			26.98: 37
+ACGLP   :
+LOOP    :
+ACH     :
+FLOT    :
+AOSL    :
+10: 35
+9.75: 10
+9.5: 10
+9.25: 10
+UJPY    :
+ECA     :
+CONE    :
+45.8: 200
+EVY     :
+PVTL    :
+			20: 5
+BLKB    :
+ACHC    :
+TXN     :
+101: 161
+59.69: 100
+PLNT    :
+RC      :
+CUR     :
+			0.93: 700
+			1.98: 300
+ACHN    :
+APF     :
+MARA    :
+EWGS    :
+RCMT    :
+ACHV    :
+LEG     :
+ACIA    :
+FFHL    :
+ECCX    :
+TRQ     :
+			1.7: 95
+			2.13: 2
+APC     :
+PAVMZ   :
+BML-L   :
+ECCY    :
+WTW     :
+CLGN    :
+EDTXW   :
+UTG     :
+25.9: 4
+ACIM    :
+OBNK    :
+IEDI    :
+TDACU   :
+ACIU    :
+6.5: 150	8.99: 1100
+ORA     :
+53.92: 755	57.13: 713
+53.91: 500	57.14: 500
+			68.32: 100
+AOR     :
+ECF     :
+ACIW    :
+EMQQ    :
+GJV     :
+RWW     :
+DGLY    :
+3.27: 300
+NSC     :
+ACLS    :
+CORN    :
+IART    :
+APEI    :
+ECHO    :
+RUSHA   :
+BLRX    :
+NEPT    :
+HEZU    :
+ACM     :
+EMLP    :
+DDJP    :
+HTBK    :
+ACMR    :
+EMTL    :
+UFS     :
+ACN     :
+OAS     :
+ACNB    :
+EDRY    :
+FFHG    :
+RDVY    :
+ACOR    :
+ORPN    :
+			3.3: 200
+EMN     :
+UTF     :
+ACP     :
+			17.75: 500
+ORGS    :
+DCAR    :
+			1: 15000
+HEWL    :
+ACRE    :
+ACRS    :
+LRAD    :
+FLT     :
+ACRX    :
+LDL     :
+FLQM    :
+ACSG    :
+UAN     :
+EELV    :
+DDT     :
+ACSI    :
+HYND    :
+ACST    :
+			2.45: 275
+LRGF    :
+FMHI    :
+ENPH    :
+SCPH    :
+			9: 11
+ACT     :
+IEUS    :
+PZA     :
+ACTG    :
+ACU     :
+LQDT    :
+7.5: 400	9: 100
+5.75: 50
+ENIC    :
+CUI     :
+EEH     :
+SIFI    :
+ACV     :
+LSCC    :
+HTH     :
+ACWF    :
+ENBL    :
+DEI     :
+QDEL    :
+HUBG    :
+ACWI    :
+ACWV    :
+LTM     :
+ENOB    :
+EEMA    :
+SITE    :
+ACWX    :
+LSXMA   :
+ACY     :
+FGBI    :
+ADAP    :
+EEB     :
+CUT     :
+REFA    :
+ADBE    :
+159.15: 30
+150.99: 1
+110.02: 60
+96.27: 100
+1.01: 5000
+LSBK    :
+FMCI    :
+QD      :
+4: 1	8: 50
+ADC     :
+ADES    :
+UBIO    :
+FFIU    :
+RECN    :
+EFAX    :
+DES     :
+			28: 1
+ADI     :
+COF-F   :
+FEUL    :
+SPYB    :
+AQST    :
+MIDD    :
+IAGG    :
+REGL    :
+ADIL    :
+LTRX    :
+FNDC    :
+QDIV    :
+ADILW   :
+TST     :
+APYX    :
+PHAS    :
+BOM     :
+ADM     :
+39: 200	45.2: 14
+37.5: 200
+35: 300
+OTLKW   :
+ENZ     :
+ADMA    :
+OSTK    :
+IGA     :
+ENTX    :
+CVEO    :
+ADMP    :
+ADMS    :
+			18.88: 98
+EFAS    :
+			18.25: 1000
+IIGV    :
+AQN     :
+SYPR    :
+CUBA    :
+MTC     :
+ENSG    :
+SCVL    :
+			41.86: 48
+HUNTW   :
+ADNT    :
+DEX     :
+HVT.A   :
+ADOM    :
+ARCB    :
+ENX     :
+UMDD    :
+ADP     :
+129: 5
+117.29: 6
+114.07: 12
+110.84: 18
+107.61: 38
+1.01: 5000
+ADRA    :
+EFC     :
+16: 168	16.77: 459
+HNGR    :
+SNGX    :
+			1.14: 1000
+AQXP    :
+PCG     :
+13.6: 1500	13.68: 50
+13.35: 20	13.77: 200
+13.26: 25	13.79: 100
+13.24: 75	14: 242
+13.21: 300	14.55: 50
+13.01: 25	14.66: 30
+12.76: 25	14.7: 5
+12.75: 25	14.93: 100
+12.6: 200	14.99: 666
+12.57: 20	15: 200
+12.55: 800	15.15: 50
+12.51: 25	15.7: 250
+12.5: 50	15.99: 100
+12.36: 100	16.71: 300
+12.3: 400	17: 1539
+12.26: 25	17.1: 100
+12.25: 25	19.8: 1000
+12.07: 20	20.5: 50
+12.05: 200	20.87: 100
+12.01: 125	21.15: 50
+12: 200	22: 30
+11.96: 100	24.77: 60
+11.83: 100	24.8: 500
+11.8: 280	24.85: 50
+11.76: 25	25: 7
+11.75: 100	27.79: 1000
+11.7: 120	30: 333
+11.6: 200	49.02: 400
+11.57: 15
+11.51: 1200
+11.4: 200
+11.19: 200
+11.15: 600
+11.08: 200
+11.01: 250
+11: 150
+10.95: 100
+10.8: 200
+10.51: 50
+10.5: 200
+10.34: 100
+10.02: 200
+10.01: 400
+10: 3040
+9.99: 25
+9.98: 5
+9.6: 150
+9.54: 100
+9.51: 650
+9.5: 50
+9.45: 200
+9.03: 4
+9.02: 550
+8.25: 1078
+6.26: 1200
+GNL-A   :
+BOSC    :
+EYPT    :
+FIDU    :
+RETL    :
+ADRD    :
+OVID    :
+EFA     :
+61.05: 1000	63.34: 1000
+60.01: 2
+VALU    :
+ADRE    :
+OTTR    :
+AQB     :
+EYE     :
+CVNA    :
+ADRO    :
+ADRU    :
+LTSL    :
+22.11: 300	23.46: 100
+FNCL    :
+CPST    :
+			1.05: 1000
+ARAY    :
+EXPR    :
+SPY     :
+264.34: 1000	264.41: 500
+264.32: 500	264.47: 500
+264.31: 500	264.5: 500
+264.3: 1600	264.52: 500
+264.25: 500	264.55: 500
+264.2: 500	266.25: 250
+259.01: 125	266.98: 1
+257.96: 250	267.6: 10
+255: 100	269.9: 2
+0.01: 1
+BOIL    :
+24.71: 100	24.91: 100
+24.7: 400	24.92: 400
+NGL     :
+ADS     :
+FGP     :
+0.9: 19
+ADSK    :
+UDN     :
+21: 5000	21.12: 5000
+20.99: 5000	21.13: 5000
+20.98: 5000	21.14: 5000
+EFX     :
+DFFN    :
+ARCW    :
+EYES    :
+0.66: 1000	0.89: 100
+			0.94: 100
+			1: 100
+ADSW    :
+IBDL    :
+ADT     :
+			7.22: 1
+LUNA    :
+FNSR    :
+ARCE    :
+BPFH    :
+TAN     :
+MNST    :
+RZV     :
+EPIX    :
+SEAC    :
+ADTN    :
+IGRO    :
+QGTA    :
+ADUS    :
+MMYT    :
+RYN     :
+ARA     :
+MCX     :
+ADVM    :
+LTSK    :
+EPAY    :
+CVY     :
+EFU     :
+SJR     :
+17.51: 1	19.98: 100
+ADX     :
+LVHE    :
+CRAI    :
+ICE     :
+ARCO    :
+BOON    :
+HXL     :
+			73.65: 640
+ADXS    :
+EOI     :
+DFVL    :
+QRTEB   :
+HYDW    :
+AE      :
+RZA     :
+ARES-A  :
+MDC     :
+AEB     :
+LXP     :
+EPHE    :
+EGAN    :
+NSYS    :
+SLG-I   :
+AED     :
+LVS     :
+53: 1
+ARDC    :
+HONR    :
+FANG    :
+MODN    :
+GOEX    :
+BPOPN   :
+AEE     :
+FITBI   :
+AEF     :
+EFSC    :
+FAB     :
+MNKD    :
+			2.9: 1000
+ARCI    :
+0.419: 1200	0.4755: 1000
+			0.495: 1200
+			0.52: 1000
+MDGS    :
+2.36: 5000	2.5: 80
+			2.79: 3590
+			3.2: 200
+			4.85: 100
+			13: 250
+CWEN    :
+			15.97: 1
+			16.5: 2
+REZI    :
+AEG     :
+5.19: 1000	5.2: 2200
+5.18: 13500	5.22: 17600
+5.14: 4000	5.23: 4400
+5.13: 4000	5.24: 4000
+			5.25: 4000
+LVHD    :
+FNJN    :
+QRHC    :
+AEGN    :
+ARE-D   :
+USAU    :
+CRD.B   :
+MNOV    :
+BOUT    :
+EZPW    :
+7.5: 50
+6.9: 300
+AEH     :
+UEUR    :
+FIHD    :
+REW     :
+EHI     :
+CYRXW   :
+AEHR    :
+FAM     :
+SOCL    :
+27.14: 3500
+ARKG    :
+MDLQ    :
+IBMI    :
+RFAP    :
+AEIS    :
+LLL     :
+FLAU    :
+QSR     :
+AEL     :
+TVPT    :
+			17: 1
+ARGD    :
+PDBC    :
+BR      :
+EIDX    :
+VEACW   :
+AEM     :
+OLO     :
+IHY     :
+THD     :
+AEMD    :
+OZM     :
+ARDX    :
+EPS     :
+CX      :
+5.06: 99
+AEO     :
+AEP     :
+EGY     :
+CRHM    :
+MO      :
+45.9: 1292	50: 2
+43.6: 23	51: 50
+43.5: 100	53.71: 1000
+42.5: 150
+39.5: 100
+38.12: 50
+IDCC    :
+ARI     :
+SAB     :
+BPMP    :
+NINE    :
+EPR     :
+68.45: 15
+65.93: 15
+60.1: 10
+SECT    :
+HMOP    :
+AER     :
+DGS     :
+AERI    :
+EQ      :
+UQM     :
+AES     :
+OLBK    :
+ALL     :
+EWS     :
+BFO     :
+EHT     :
+UONE    :
+AETI    :
+NVMI    :
+22.41: 410	26: 452
+FLAT    :
+RGLB    :
+AEY     :
+TROX    :
+			9.1: 100
+ALLT    :
+6.69: 2624	6.75: 2610
+			7: 70
+PFMT    :
+1.5: 100
+1.4: 100
+EPR-G   :
+VEACU   :
+AEYE    :
+8.31: 1000
+DFND    :
+NFEC    :
+HMI     :
+AEZS    :
+ALL-E   :
+EWP     :
+STNLU   :
+BEMO    :
+NPN     :
+AFB     :
+FONR    :
+FNX     :
+TAC     :
+AFC     :
+LITB    :
+			0.81: 10
+COWNZ   :
+24.79: 100	25.88: 100
+ALK     :
+			76.18: 3
+EL      :
+DHIL    :
+AFG     :
+AFGE    :
+NVLN    :
+0.77: 200	0.99: 642
+			3.1: 50
+			4: 50
+ICCC    :
+ALLK    :
+EWSC    :
+NCI     :
+GSS     :
+BFY     :
+AFGH    :
+FPH     :
+ERA     :
+SFL     :
+AFH     :
+KZIA    :
+ALPN    :
+HIW     :
+IJH     :
+181.4: 600	182.22: 600
+QTT     :
+AFHBL   :
+KVHI    :
+EQRR    :
+CYD     :
+AFI     :
+EWO     :
+STRA    :
+ALLY-A  :
+MHE     :
+RWGE+   :
+BFC     :
+NRCG+   :
+EKAR    :
+SLT     :
+HBANO   :
+AFIF    :
+AFIN    :
+EQIX    :
+			482.09: 30
+CPE-A   :
+51.13: 10
+50.17: 10
+NBO     :
+IGZ     :
+ALL-G   :
+DIA     :
+246.64: 500	246.7: 500
+246.62: 500	246.72: 500
+246.6: 500	246.74: 500
+246.58: 500	246.76: 500
+246.56: 500	246.78: 500
+246.54: 500	246.8: 500
+246.52: 500	246.82: 500
+246.5: 500	246.84: 500
+			247: 15
+RACE    :
+110.81: 700	110.99: 700
+110.75: 700	111.05: 700
+110.69: 700	111.71: 400
+110.01: 400	141.98: 23
+AFK     :
+KXI     :
+AFL     :
+38: 200
+EQWM    :
+EXG     :
+NCSM    :
+ALOT    :
+MHK     :
+BGI     :
+TGI     :
+NCTY    :
+RWJ     :
+ELC     :
+SMG     :
+63.18: 10
+61.44: 22
+59.7: 34
+57.96: 70
+AFMD    :
+AFSI-A  :
+LACQ    :
+FLFR    :
+ALTR    :
+AFSI-B  :
+KZR     :
+EIV     :
+CYTX    :
+			0.368: 300
+			0.4873: 350
+			0.6228: 200
+			0.9572: 200
+			1.94: 200
+			4.97: 100
+			6.81: 100
+			9.43: 100
+RHE-A   :
+HCCHR   :
+AFSI-C  :
+RWGE    :
+ALRM    :
+MHNC    :
+BFS     :
+EXD     :
+AFSI-D  :
+TME     :
+15.3: 9	15.8: 250
+15.15: 300	15.86: 150
+15: 300	15.9: 200
+14.6: 100	15.97: 71
+14.43: 25432	16: 300
+14: 800	16.03: 100
+13.6: 200	16.05: 100
+13: 2	16.08: 150
+9.84: 1000	16.19: 300
+			16.35: 100
+			16.48: 100
+			16.6: 614
+			16.89: 300
+			17: 400
+			18.45: 70
+FPAYW   :
+RA      :
+FLBR    :
+RGR     :
+AFSI-E  :
+ALNY    :
+VCNX    :
+CPK     :
+NCA     :
+AFSI-F  :
+LABU    :
+44.15: 200	44.8: 100
+24: 1
+ELVT    :
+DIS     :
+111.08: 100	111.59: 100
+110: 1	118.2: 1
+109.65: 50	135.62: 500
+100: 1	145: 3
+98.66: 50
+95.8: 30
+90: 10
+88.64: 100
+ICUI    :
+RHT     :
+AFSS    :
+MTP     :
+RXI     :
+ALT     :
+2.3: 100	19.8: 500
+			29.9: 300
+MICT    :
+0.8111: 100	1.22: 300
+0.7123: 100
+0.6511: 100
+0.651: 700
+0.6002: 100
+0.5751: 100
+0.5506: 100
+0.5051: 100
+GNR     :
+BGX     :
+EXI     :
+FRC     :
+RADA    :
+AFST    :
+NXEOU   :
+AFT     :
+ES      :
+HLT     :
+SR      :
+AMAG    :
+PH      :
+AFTY    :
+IMFP    :
+AG      :
+4.72: 1000	6: 100
+			7.6: 20
+TNC     :
+EROS    :
+D       :
+52: 2	70.07: 1
+ALTY    :
+EXC     :
+BGCP    :
+HCCHU   :
+AGCO    :
+ELTK    :
+ERI     :
+SFS     :
+AGD     :
+LABL    :
+CPSH    :
+IIGD    :
+ALSK    :
+1.3: 200	2.25: 200
+			2.5: 200
+			3.37: 5200
+DIVB    :
+AGE     :
+ERY     :
+USEQ    :
+AGEN    :
+NXEO    :
+ALYA    :
+ESTC    :
+AGF     :
+NXR     :
+EMAG    :
+FLKS    :
+RISE    :
+AGFS    :
+ELS     :
+VGR     :
+AGFSW   :
+DAN     :
+HDAW    :
+AGG     :
+HASI    :
+SHOP    :
+CSSEP   :
+MYD     :
+AMAT    :
+38.4: 100	38.86: 100
+38.16: 100	76: 150
+36.85: 100
+31.65: 15
+1.01: 5000
+CSM     :
+ESS     :
+SQBG    :
+BGRN    :
+NGHCO   :
+AGGE    :
+FRAK    :
+AGGP    :
+LADR    :
+16.86: 100	19.9: 600
+FLGT    :
+CMSS    :
+ALX     :
+EMFM    :
+DJPY    :
+AGGY    :
+AGI     :
+NXQ     :
+IDSA    :
+AGIO    :
+FRPT    :
+ESGS    :
+SHBI    :
+AGLE    :
+LBRDK   :
+IMTM    :
+RBA     :
+AGM     :
+LAZY    :
+ESGG    :
+DB      :
+9.14: 3900	9.17: 3100
+			9.18: 2300
+			9.21: 1600
+			9.24: 1600
+			9.25: 1600
+			9.74: 100
+			9.9: 400
+			10: 100
+AGM-A   :
+EMES    :
+			3.1: 100
+SMM     :
+HDB     :
+AGM-B   :
+AGM-C   :
+ESE     :
+DLBR    :
+RCKY    :
+			31: 5
+AGM.A   :
+LBDC    :
+AGMH    :
+ESGRO   :
+24.78: 40
+EMHY    :
+SND     :
+			3.02: 450
+AGN     :
+AGNC    :
+LCII    :
+FLQE    :
+AGNCB   :
+LBRT    :
+			16.43: 4
+EME     :
+DBEF    :
+RLGT    :
+HEDJ    :
+AGNCN   :
+AGND    :
+TOO-B   :
+FRME    :
+RCII    :
+FLM     :
+RJF     :
+AGO     :
+AGO-B   :
+LBY     :
+EMR     :
+DD-B    :
+IEFN    :
+RLJ     :
+AGO-E   :
+LQD     :
+FLWS    :
+RCM     :
+AGO-F   :
+OASM    :
+AGQ     :
+27.55: 1600	27.8: 1500
+			27.81: 1500
+			27.91: 100
+ORGO    :
+EMX     :
+1.07: 3500
+AGR     :
+INFN    :
+AGRO    :
+TPCO    :
+ESNT    :
+DBLV    :
+HEEM    :
+AGRX    :
+			2.35: 393
+			2.37: 210
+EMP     :
+ESIO    :
+28.15: 1500
+18.83: 50
+SHI     :
+			72: 200
+HSTM    :
+AGS     :
+LBTYK   :
+FSK     :
+			8.76: 1000
+RXN-A   :
+CFR-A   :
+MCHX    :
+AGT     :
+UTI     :
+3.7: 100
+3.5: 100
+3.25: 100
+3: 100
+AGTC    :
+ORAN    :
+15.28: 1000	15.3: 2200
+15.25: 6000	15.31: 2500
+14.89: 100	15.33: 100
+14.79: 100	15.35: -3300
+14.3: 10	15.66: 100
+			15.7: 100
+			16.3: 10
+FAZ     :
+			10000: 100
+PMT-B   :
+AMJL    :
+BITA    :
+DMRL    :
+EMSH    :
+USV     :
+AGX     :
+OC      :
+40: 5
+AGYS    :
+FLTW    :
+DMRM    :
+TVC     :
+AMPH    :
+PJAN    :
+AGZ     :
+ESML    :
+HSII    :
+AGZD    :
+SOXL    :
+			108: 10
+DKS     :
+NLY-G   :
+AMN     :
+DNB     :
+BIKR    :
+NTX     :
+FATE    :
+13.57: 32	25: 110
+13.01: 100
+10.19: 100
+AHC     :
+CYCC    :
+			1.95: 600
+FRT     :
+110.77: 10
+TCP     :
+AHH     :
+LOVE    :
+DNI     :
+CROX    :
+AMID    :
+AHL     :
+ENJ     :
+IEZ     :
+SUSB    :
+AHL-C   :
+OBSV    :
+AMP     :
+DNKN    :
+HALL    :
+8: 150
+BK      :
+FB      :
+145.28: 1500	145.39: 90
+145.2: 35	145.6: 400
+145.16: 23	145.89: 48
+145: 100	146.3: 70
+144.85: 200	146.88: 142
+144.68: 300	148.94: 34
+144.57: 50	154.25: 10
+144.5: 36	155: 2
+144.44: 30	157.07: 30
+144.27: 30	168.9: 100
+144.2: 2050	171: 100
+143.68: 300	171.49: 35
+143.27: 30	177.5: 70
+143: 35	178.78: 50
+142.7: 300	180: 6
+142.54: 1	191: 100
+142.52: 4	192.34: 600
+142.27: 30	202.48: 200
+141.63: 100	209: 10
+141: 10
+140.7: 400
+140.24: 50
+140.01: 100
+140: 3191
+139.78: 9
+138.7: 400
+138.38: 1
+138.27: 50
+137.5: 6
+137: 50
+136.7: 400
+136.27: 50
+136: 10
+135.11: 3
+135.01: 100
+135: 150
+134.95: 2
+134.7: 500
+134.34: 1
+133: 130
+132.26: 20
+132.11: 5
+131.85: 50
+131.55: 20
+131.5: 120
+131: 100
+130.41: 1
+130.2: 20
+130.11: 5
+130: 120
+128.99: 11
+128.1: 1000
+128: 21
+127.5: 3
+127: 410
+126.6: 1
+126.15: 100
+126.11: 5
+125: 1007
+124: 70
+123.06: 700
+123: 30
+122: 10
+121.11: 5
+121: 145
+120.26: 10
+120.2: 50
+120.1: 35
+120.04: 100
+120: 127
+119.98: 50
+119: 30
+116.51: 100
+116.11: 5
+115.8: 100
+115.11: 3
+115: 10
+114.01: 10
+112.7: 200
+111.11: 105
+111: 5
+110.09: 200
+106.11: 5
+105.01: 6
+102.46: 125
+101.91: 10
+101.11: 5
+101: 30
+100: 310
+99.9: 20
+90: 16
+89: 15
+85: 100
+83.04: 100
+80: 105
+70: 10
+62.4: 1000
+1.01: 5000
+AHL-D   :
+NCV-A   :
+SIGA    :
+AHPI    :
+			3.69: 7509
+LEN.B   :
+HPS     :
+PNM     :
+AMRS    :
+RDI     :
+AHT     :
+LEE     :
+DCP-B   :
+AHT-D   :
+AMRB    :
+MLTI    :
+FAT     :
+DNP     :
+			11.06: 3000
+SAMAU   :
+BIP     :
+38.32: 1
+NUGT    :
+19.38: 1
+18.61: 2500
+17.5: 517
+17.37: 166
+16.92: 400
+15.39: 300
+HEWP    :
+AHT-F   :
+ENIA    :
+AHT-G   :
+CRVL    :
+INBK    :
+AMOT    :
+REFR    :
+AHT-H   :
+LEJU    :
+AHT-I   :
+AMRK    :
+MMD     :
+FBZ     :
+BKF     :
+TLRY    :
+77.95: 100	82.68: 450
+			84.84: 30
+			101: 10
+			115.5: 45
+			118: 2
+			220: 4
+DOCU    :
+SAN-B   :
+AI      :
+8.3: 1
+ENO     :
+FMF     :
+NDSN    :
+AI-B    :
+			24.6: 500
+LFAC    :
+AMTB    :
+DOD     :
+ENFR    :
+SCOR    :
+AIA     :
+LENS    :
+DDE     :
+HFXI    :
+AIC     :
+22: 40	23.35: 40
+			24.8: 40
+DOGS    :
+SAMA    :
+0.2: 10000
+0.15: 10000
+0.1: 10000
+0.05: 10000
+AMRX    :
+			12.81: 199
+MMDMW   :
+FBP     :
+10.45: 1052
+POLA    :
+BJAN    :
+AIEQ    :
+TQQQ    :
+42.86: 1100	42.9: 1100
+42.85: 1100	42.92: 1400
+42.84: 1100	42.93: 1100
+42.83: 1100	42.94: 1100
+42.82: 1100	42.98: 100
+42.78: 100	43.05: 200
+42.48: 482	43.1: 300
+42.41: 20	43.19: 25
+42.3: 385	43.5: 4000
+42.18: 400	43.73: 10
+42: 25	44.8: 100
+41.3: 100	44.95: 100
+40.43: 25	45: 35000
+30.75: 3	47.03: 25
+27.41: 900	50: 100
+			50.37: 15
+			52.43: 45
+			55: 150
+			60: 150
+			64.49: 200
+			65: 250
+PALL    :
+126.18: 500	127.68: 500
+REET    :
+AIF     :
+FLY     :
+AMRH    :
+0.1525: 200	0.263: 3296
+			0.56: 3000
+			0.9: 200
+			1.5: 200
+			1.63: 800
+			2.41: 300
+VIPS    :
+DOL     :
+CSBR    :
+ENTXW   :
+SCTO    :
+AIG     :
+LEVL    :
+AIG+    :
+IGE     :
+DON     :
+MYOK    :
+SBBC    :
+AMSWA   :
+MMLP    :
+FC      :
+POST    :
+GRMY    :
+BKS     :
+REGI    :
+AIHS    :
+OFG-B   :
+AIIQ    :
+HSBC-A  :
+STAR-G  :
+AMZA    :
+PLG     :
+			1.7: 100
+AIMC    :
+AIMT    :
+TRK     :
+DDMX    :
+0.03: 10000
+NEA     :
+FBND    :
+PPA     :
+AMTD    :
+BKD     :
+DOV     :
+ENTR    :
+PATK    :
+HFXJ    :
+AIN     :
+SILC    :
+AINC    :
+LEVB    :
+			8: 300
+			8.14: 500
+CSIQ    :
+PPC     :
+ING     :
+12.05: 400	12.08: 400
+12.04: 3000	12.09: 3600
+12.03: 300	12.13: 7000
+			12.14: 7000
+			19.95: 200
+AMSC    :
+AINV    :
+VAMO    :
+AIPT    :
+OFG-A   :
+EVOL    :
+1.01: 100	1.91: 100
+			2.82: 1000
+PPDM    :
+AMWD    :
+BDCS    :
+DPK     :
+ENVA    :
+ULBR    :
+AIQ     :
+			14.5: 1400
+OGE     :
+AIR     :
+FNDB    :
+DPLO    :
+TPR     :
+ALACU   :
+PERI    :
+3.22: 2953	3.28: 828
+			3.75: 100
+AIRG    :
+ENTA    :
+DEA     :
+17.15: 20
+NEE-K   :
+HIG-G   :
+AIRI    :
+			1.1: 5
+			1.35: 669
+AN      :
+DPW     :
+0.091: 1368	0.0945: 491
+0.0908: 20	0.1001: 1000
+0.09: 2	0.1048: 10
+			0.14: 500
+			0.18: 20
+			0.2: 281
+			0.21: 1172
+			0.41: 2500
+			0.75: 300
+			2: 760
+EVM     :
+STAF    :
+BKK     :
+NMRD    :
+1: 500
+AIRR    :
+FMNB    :
+SWZ     :
+AIRT    :
+LFEQ    :
+DQ      :
+COHU    :
+AMU     :
+AIT     :
+45: 5
+EPC     :
+IGV     :
+SYF     :
+AIV     :
+OGCP    :
+ALAC    :
+EVOP    :
+NANR    :
+GS      :
+200.04: 100	201.28: 100
+159: 4	201.49: 100
+137: 1
+136.28: 25
+134.18: 100
+BDRY    :
+AIV-A   :
+NESRW   :
+SKF     :
+AIW     :
+LIFE    :
+			1.51: 500
+ALE     :
+HFC     :
+REMX    :
+AIY     :
+LGND    :
+100: 7
+DEM     :
+AIZ     :
+EVLV    :
+STAY    :
+ALB     :
+MFNC    :
+RSXJ    :
+BCX     :
+			9.16: 14006
+NNC     :
+HIHO    :
+2.41: 100
+AIZP    :
+EPAM    :
+			150: 4
+AJG     :
+70.41: 3
+COMG    :
+MZA     :
+IFF     :
+138.87: 20	139.12: 144
+132.19: 411	140.57: 6
+132.18: 545	152.46: 25
+AKTX    :
+RF      :
+			16: 1
+AJRD    :
+LHC+    :
+AJX     :
+EWD     :
+NAV     :
+ALDR    :
+MFUS    :
+BEF     :
+TECL    :
+87: 1
+NAV-D   :
+RTL     :
+AJXA    :
+EPE     :
+FNLC    :
+NEWR    :
+AKAM    :
+LINK    :
+ALGRW   :
+EOT     :
+18.3: 1300
+SEA     :
+AKAO    :
+1.76: 56
+LII     :
+DEST    :
+HK      :
+AKBA    :
+RSX     :
+ALFA    :
+MGC     :
+BDJ     :
+EWBC    :
+AKCA    :
+8.39: 100
+TRTN    :
+			36.5: 60
+			37: 10
+PBI-B   :
+REZ     :
+AKER    :
+FNDX    :
+ALCO    :
+UXI     :
+COPX    :
+NAKD    :
+			0.991: 500
+			1.89: 200
+			2.31: 100
+			3.31: 100
+			5.79: 100
+			6.98: 100
+			7.98: 100
+EPU     :
+DGL     :
+SECO    :
+AKG     :
+0.692: 10000	1.24: 1150
+LINC    :
+2.25: 100
+2: 100
+1.8: 100
+AKO.A   :
+IID     :
+NBH     :
+RVI     :
+			33.2: 100
+ALGRR   :
+MGI     :
+GSD     :
+BERY    :
+EWEM    :
+FORM    :
+RF-B    :
+AKO.B   :
+21.75: 100
+OLD     :
+AKP     :
+EQBK    :
+HIBB    :
+STPP    :
+ALL-B   :
+PFI     :
+AKR     :
+AKRX    :
+TSCO    :
+DFBH    :
+NEWTI   :
+ALIM    :
+EWA     :
+BE      :
+EPRT    :
+PBS     :
+HK+     :
+AKS     :
+2.64: 500	2.78: 100
+SKT     :
+			22.9: 16
+			22.92: 16
+			23.06: 16
+AKTS    :
+6.8: 500
+5: 200
+LIN     :
+161.16: 200	161.34: 600
+161.15: 100	161.37: 100
+161.11: 100	161.42: 300
+160.81: 700	161.6: 700
+CORV    :
+IGF     :
+ALGN    :
+198.85: 300	207: 4
+188.61: 8	208.5: 15
+180: 10	208.8: 10
+1.01: 5000	213: 10
+			213.43: 50
+			214: 300
+			215: 20
+			216: 40
+			217.54: 3
+			218.01: 100
+			222.03: 5
+			249.4: 260
+AL      :
+DRD     :
+2.19: 100	2.25: 100
+2.15: 100	2.43: 1000
+2.11: 2
+1.99: 1000
+FXO     :
+BCE     :
+FNGD    :
+PQSG    :
+ALACR   :
+PETZC   :
+CODI-B  :
+ALACW   :
+FNB-E   :
+SWX     :
+BBX     :
+MSI     :
+ALBO    :
+EVGBC   :
+ALD     :
+BCO     :
+SPTL    :
+NFC     :
+SKYS    :
+ALDX    :
+DS      :
+DRRX    :
+SBS     :
+ALEX    :
+MFMS    :
+BCACW   :
+DRIP    :
+OSMT    :
+IFRA    :
+ALG     :
+DRW     :
+SC      :
+ALGR    :
+MGPI    :
+FOCS    :
+NFO     :
+GAB-G   :
+BCS     :
+8.41: 200	8.42: 1400
+8.39: 6000	8.44: 9000
+8.35: 1200	9.42: 300
+ALGRU   :
+PRE-H   :
+ALGT    :
+MGA     :
+BCLI    :
+FNHC    :
+ALJJ    :
+V       :
+135.6: 100	136: 100
+135.41: 100	136.5: 100
+129: 5	136.89: 100
+120: 20	138.55: 22
+96.15: 200	140.5: 1
+83.47: 400	144.44: 100
+			144.95: 50
+			147: 40
+OTIC    :
+PRAH    :
+PRFT    :
+ALKS    :
+MGYR    :
+AXJL    :
+EQAL    :
+DSUM    :
+UBP     :
+ALL-A   :
+PFM     :
+ALL-D   :
+DSLV    :
+25.67: 1000	25.84: 1000
+25.66: 1000	25.85: 1000
+22.5: 100	28.75: 25
+			29.73: 20
+			30: 25
+			33.38: 300
+			34: 50
+			37.52: 600
+EQH     :
+SLB     :
+			46.5: 20
+BCOW    :
+MTFBW   :
+IGM     :
+ALL-F   :
+DSE     :
+ALLE    :
+DSTL    :
+FLCH    :
+RGI     :
+FSCT    :
+AXS     :
+PRO     :
+ALLO    :
+PFSW    :
+ALLY    :
+FJP     :
+TA      :
+AXAS    :
+MNE     :
+ALNA    :
+ALO     :
+AYI     :
+SNH     :
+EQWS    :
+SG      :
+ALP-Q   :
+DTSS    :
+DTH     :
+SCHM    :
+ALQA    :
+2.19: 110	3.35: 500
+MHD     :
+AXO     :
+ERH     :
+DSX-B   :
+23: 1000
+OXSQL   :
+			25.45: 500
+IHI     :
+ALRN    :
+BRG     :
+CHAU    :
+PHUNW   :
+GBT     :
+ARW     :
+ALSN    :
+MIME    :
+TGTX    :
+DTO     :
+SCHR    :
+FTA     :
+AZRX    :
+FLIA    :
+ALTM    :
+PRTA    :
+			20: 100
+			20.01: 1
+ALTS    :
+MHN     :
+FLEE    :
+RIG     :
+7.65: 250	10: 200
+6.61: 50	11.89: 70
+6.56: 500	12.1: 3000
+			13.49: 70
+AXTA    :
+ALV     :
+77.52: 100	77.69: 100
+77.49: 200	77.72: 200
+77: 1500	78.22: 1500
+VDC     :
+PAC     :
+PRPO    :
+			0.39: 5000
+PRTK    :
+ALXN    :
+MCRB    :
+BAC     :
+29.3: 1	29.83: 100
+28.94: 100	29.97: 800
+27.73: 50	30: 1
+26.79: 800	30.35: 30
+23: 250	30.5: 1000
+21.65: 1000	30.74: 700
+18.84: 1400	31.28: 800
+ERYP    :
+VRIG    :
+CBOE    :
+DLPH    :
+TSRI    :
+4.76: 47
+AM      :
+PCEF    :
+AMAL    :
+DUK     :
+ESCA    :
+SGC     :
+AZN     :
+35.8: 200	35.84: 200
+35.78: 100	35.85: 900
+35.76: 500	35.86: 400
+35.75: 300	35.93: 1500
+35.73: 1500
+MOGO    :
+IBOC    :
+AMBA    :
+DTW     :
+CRC     :
+			27.85: 350
+IJT     :
+AMBC    :
+DUSA    :
+TMCX    :
+AMBCW   :
+PBUS    :
+AMBO    :
+DLNG    :
+			4.1: 1000
+			5.75: 15000
+ESTA    :
+PSA-X   :
+AMBR    :
+PHT     :
+DTYS    :
+TSQ     :
+AMC     :
+13.88: 1
+13.7: 1
+13.41: 5
+PHII    :
+CPLP    :
+IBML    :
+AMCA    :
+AMCI    :
+0.03: 10000
+MJ      :
+EXT     :
+AMCIU   :
+MCC     :
+EXK     :
+AMCIW   :
+VFMO    :
+DLTR    :
+CREXW   :
+AMCN    :
+HCAPZ   :
+AMCX    :
+MKGI    :
+FAD     :
+DWAS    :
+RNEM    :
+AMD     :
+20.72: 350	20.75: 50
+20.66: 500	20.77: 100
+20.65: 400	20.83: 700
+20.62: 100	20.9: 100
+20.6: 30	20.93: 500
+20.58: 300	20.99: 368
+20.56: 339	21: 5500
+20.52: 382	21.1: 2000
+20.51: 700	21.18: 100
+20.5: 100	21.32: 40
+20.4: 1900	21.5: 40
+20.3: 200	21.8: 75
+20.21: 20	21.85: 3000
+20.12: 100	22: 1000
+20.09: 300	22.3: 120
+20.05: 3000	23.2: 200
+20.03: 100	24: 25
+20: 350	25: 600
+19.88: 90	25.43: 1000
+19.85: 100	27.38: 170
+19.8: 230	28.47: 1200
+19.7: 380	29.7: 300
+19.58: 200	30.47: 1400
+19.56: 20	33.59: 900
+19.5: 100
+19.4: 460
+19.26: 790
+19.25: 70
+19.03: 200
+19: 890
+18.6: 920
+18.59: 10
+18.2: 1150
+18: 100
+17.8: 1380
+17: 100
+16.9: 100
+16.8: 100
+16.7: 100
+16.6: 100
+16.5: 400
+15.48: 100
+12.94: 200
+HMTV    :
+PLTM    :
+AME     :
+AMED    :
+MIY     :
+DVP     :
+CMRX    :
+DLS     :
+RYH     :
+AMEH    :
+MLAB    :
+IMDZ    :
+AMG     :
+DVD     :
+CRM     :
+86.93: 2
+PMT     :
+IMLP    :
+AMGN    :
+1.01: 5000
+AMGP    :
+MLPB    :
+DVYL    :
+DMAC    :
+SAFM    :
+AMH     :
+MLM     :
+AMH-D   :
+ETO     :
+AMH-E   :
+DLR-I   :
+CMSSW   :
+PSC     :
+AMH-F   :
+MKTX    :
+EZU     :
+36.81: 10000	37.49: 10000
+36.8: 10000	37.5: 10000
+36.79: 10000
+36.78: 10000
+36.77: 10000
+PMOM    :
+AMH-G   :
+AMH-H   :
+VGIT    :
+ESTRW   :
+PSB     :
+HCXY    :
+PSCF    :
+AMJ     :
+MLPY    :
+BBBY    :
+14.45: 300	15.62: 500
+10.66: 272
+AMKR    :
+PIZ     :
+DWX     :
+AMLP    :
+PIN     :
+HOML    :
+DWMF    :
+CNACR   :
+AMMA    :
+DWFI    :
+RNLC    :
+IMRN    :
+AMNB    :
+DWT     :
+9.68: 1600	9.69: 1600
+9.67: 1300	9.7: 1200
+9.62: 100	9.71: 1600
+9.5: 1200	10.09: 2400
+			10.5: 10
+			11: 553
+TOL     :
+AMOV    :
+FUNC    :
+15: 1000	19.85: 900
+BBF     :
+FMAO    :
+EUFX    :
+PSMM    :
+AMPE    :
+			1.5: 500
+			4.4: 100
+PKB     :
+CNDT    :
+12.25: 100	22.98: 150
+10.5: 500
+9.75: 10
+AMR     :
+0.94: 200	1.27: 800
+			1.4: 100
+			1.68: 300
+			1.78: 600
+FLSA    :
+TCON    :
+BATT    :
+MRK     :
+AMRC    :
+ETR     :
+AMRHW   :
+HEB     :
+0.2215: 50	0.44: 1000
+0.22: 50
+0.205: 16
+BBRC    :
+SPGI    :
+NEE     :
+164.82: 10
+SIM     :
+DXYN    :
+ROP     :
+AMRN    :
+AMRWW   :
+MLSS    :
+0.3: 400	0.59: 140
+			0.8: 100
+DXJ     :
+CNK     :
+BBD     :
+INDS    :
+AMS     :
+DXB     :
+AMSF    :
+MMU     :
+DXPE    :
+28: 10
+FMX     :
+NEO     :
+FWONA   :
+BBT-H   :
+AMT     :
+EVF     :
+CNS     :
+PSXP    :
+AMTBB   :
+MMDMU   :
+BBK     :
+FMBI    :
+AMTX    :
+VIVO    :
+			20: 333
+EURL    :
+PSQ     :
+32.48: 3000	32.75: 3000
+			32.76: 3000
+			32.77: 3000
+			32.78: 3000
+HEWG    :
+PTE     :
+AMUB    :
+MFIN    :
+BC-B    :
+DRH     :
+TYBS    :
+AMX     :
+PER     :
+DZZ     :
+CNXT    :
+AMZN    :
+1618.67: 110	1622.69: 6
+1618.66: 100	1622.85: 10
+1616: 115	1624.36: 100
+1613.28: 50	1624.69: 6
+1610: 15	1624.9: 1
+1595: 35	1625.5: 50
+1575: 1	1627.89: 11
+1551.6: 5	1628: 10
+1547.18: 17	1630: 20
+1520: 1	1639: 1
+1376.01: 5	1649.99: 10
+1302: 2	1670.22: 1
+1266.76: 40	1699: 1
+1211.72: 60	1749: 1
+1211.32: 20	1750: 1
+1206.26: 2	1799: 1
+1199.51: 10	1844.92: 100
+1000: 1	1850: 3
+936: 1	1858.18: 10
+844.8: 30	1872.46: 30
+683.81: 40	1872.73: 30
+1.01: 5000	1878.47: 30
+			1898.45: 12
+			1949: 1
+			1963: 1
+			1982: 13
+			1999: 1
+			2000: 10
+			2000.5: 31
+			2003: 1
+			2032.48: 3
+			2070.23: 3
+SINT    :
+			0.35: 100
+			1.1: 2000
+BBT-D   :
+MSC     :
+DYNC    :
+ROSEW   :
+IEP     :
+ANAB    :
+CSWC    :
+ANAT    :
+ASUR    :
+DRAD    :
+			1.92: 300
+TPH     :
+ANDAU   :
+PACQW   :
+DYY     :
+TY-     :
+ANDX    :
+FLJP    :
+TIPZ    :
+ASND    :
+MUST    :
+ANF     :
+FCEL    :
+DRSK    :
+CTAS    :
+			216.65: 4
+ANGI    :
+FLLA    :
+NUV     :
+GEF     :
+ATEN    :
+ANGO    :
+FDHY    :
+HT-D    :
+PPR     :
+ANH-A   :
+LYTS    :
+			5.9: 600
+SHAG    :
+ASRVP   :
+MVIS    :
+			1.35: 2000
+DRR     :
+SBLKZ   :
+HYG     :
+ANH-C   :
+CTIB    :
+PRE-I   :
+ANIP    :
+MA      :
+189.97: 1	203.11: 23
+107.58: 200	206.7: 1
+82.78: 100	208.5: 2
+1.01: 5000	222.45: 100
+ATHN    :
+SSWN    :
+NVEE    :
+SHEN    :
+DRV     :
+			12.4: 2
+			13.4: 2
+SCCO    :
+ANSS    :
+1.01: 5000	170.49: 141
+ANY     :
+MACK    :
+3.75: 50
+3.5: 100
+DRNA    :
+AT      :
+FLOW    :
+AOBC    :
+UGBP    :
+FDC     :
+PRE-G   :
+AOK     :
+MAIN    :
+			37.22: 1
+DSM     :
+CTRA    :
+61.5: 5	77.5: 5000
+			83.89: 100
+FUV     :
+ATMP    :
+FLQH    :
+FDVV    :
+PRF     :
+AON     :
+151: 2
+PAWZ    :
+AOS     :
+HTRB    :
+ATEST.C :
+HYUP    :
+AP      :
+DSL     :
+CTSH    :
+1.01: 5000
+APAM    :
+APD     :
+PBCT    :
+15.45: 25
+DSS     :
+			1.13: 65
+			1.55: 20
+			1.97: 2910
+EWRE    :
+PXH     :
+APDN    :
+DSKE    :
+UBOT    :
+APDNW   :
+DGAZ    :
+89.31: 100	89.74: 100
+89.26: 500	89.81: 100
+87.44: 100	90.72: 100
+83.48: 2	95.5: 30
+80: 40	96.66: 5
+75: 22	102: 1
+50: 1	112: 1
+			120: 1
+FFEU    :
+TCTL    :
+ATISW   :
+MRCY    :
+52.37: 90
+APEN    :
+FDT     :
+DTJ     :
+CTY     :
+APH     :
+APHA    :
+			8.5: 30
+			12: 10
+PBC     :
+HJLIW   :
+APHB    :
+			0.62: 3000
+			0.75: 3000
+			0.96: 3000
+			1.27: 3000
+			1.64: 3000
+FEP     :
+EDC     :
+RWGV    :
+APLE    :
+15.31: 1	15.93: 1
+13.82: 1
+MBIO    :
+HUSE    :
+PRIF-B  :
+APLS    :
+MBCN    :
+ECPG    :
+COTY    :
+APM     :
+DTF     :
+SCHB    :
+60.05: 2
+IAT     :
+APO     :
+APO-A   :
+			24.98: 100
+ECL     :
+CUBI-E  :
+PRTH    :
+APO-B   :
+1.5: 1000	24.98: 100
+MBI     :
+APOG    :
+EDAP    :
+DTN     :
+SCI     :
+APOP    :
+APOPW   :
+MC      :
+EXFO    :
+APPF    :
+MBOT    :
+			11400.5: 95
+DTEA    :
+			3: 200
+CPA     :
+PXS     :
+IBDO    :
+APPN    :
+APPS    :
+UMH-D   :
+FENC    :
+PRT     :
+EWU     :
+30.99: 80400	31.25: 11300
+30.98: 80400	31.29: 49200
+30.97: 80400	31.31: 69600
+30.96: 80400
+30.95: 80400
+30.94: 80400
+30.93: 80400
+30.92: 80400
+PXLV    :
+APRN    :
+			1.53: 205
+			4.2: 2400
+APT     :
+MBTF    :
+DUKB    :
+CQP     :
+HMC     :
+PY      :
+APTO    :
+MITT    :
+EYEG    :
+PRTHW   :
+APTS    :
+PBW     :
+APTV    :
+64.63: 120
+PHI     :
+DUST    :
+			21.98: 1
+APTX    :
+			6.6: 200
+			6.8: 99
+HYACW   :
+APU     :
+UNT     :
+			20.84: 100
+			24.75: 80
+EDOG    :
+CPG     :
+IBDP    :
+APVO    :
+DUG     :
+EDGE    :
+RWL     :
+IIN     :
+APWC    :
+MBT     :
+8.18: 500
+8.14: 500
+7.89: 500
+GLBY    :
+SHYD    :
+BTX     :
+1.64: 3155	1.67: 300
+1.51: 300	1.69: 964
+1.49: 2	1.75: 500
+1.31: 47	1.8: 500
+1: 2900	1.86: 211
+			2.57: 1
+LEA     :
+APY     :
+AVDL    :
+EEX     :
+DURA    :
+TSI     :
+AQ      :
+PCG-A   :
+AQMS    :
+EDIV    :
+AUPH    :
+NAVI    :
+FND     :
+			37.47: 200
+			38.46: 300
+			39.36: 700
+			39.81: 500
+			39.88: 900
+			41.81: 700
+			41.88: 1400
+AQNA    :
+AQUA    :
+DVY     :
+GJO     :
+AVNS    :
+FNDE    :
+AR      :
+PSA-B   :
+ARAV    :
+MCR     :
+6.75: 300
+EFL     :
+SJT     :
+AVAV    :
+NBLX    :
+23.5: 5
+IBMM    :
+ARC     :
+DVOL    :
+PSCC    :
+ARCC    :
+MCRO    :
+AVYA    :
+SUMR    :
+EFR     :
+SKM     :
+ARCH    :
+DVYE    :
+DVLU    :
+RNDV    :
+ARCM    :
+MCY     :
+FNK     :
+QMOM    :
+AVH     :
+ARCT    :
+URG     :
+NWE     :
+PSB-Y   :
+DWPP    :
+RNGR    :
+ARD     :
+MDCA    :
+FNV     :
+76.58: 75
+QQQE    :
+GBCI    :
+AWTM    :
+PSCE    :
+ARDS    :
+PDCE    :
+ARE     :
+AVT     :
+EGIF    :
+DWMC    :
+NWSA    :
+ICF     :
+ARES    :
+AREX    :
+ASB-C   :
+EGP     :
+DWSN    :
+3.25: 50
+TNP     :
+ARGO    :
+PDM     :
+ARGX    :
+102.82: 200	103.69: 200
+99.36: 600	107.29: 600
+DWLV    :
+FL      :
+TGP-B   :
+AWP     :
+MTLS    :
+ARI-C   :
+ARKK    :
+DXJF    :
+FLAX    :
+NTN     :
+GCO     :
+			50: 100
+ASG     :
+3.55: 280
+ARKR    :
+PSF     :
+ARL     :
+MDYG    :
+SFIG    :
+ARYAU   :
+MTSC    :
+IDE     :
+ARLP    :
+DXGE    :
+ARMK    :
+PT      :
+ARNA    :
+MEDP    :
+ASM     :
+			0.675: 400
+SRRK    :
+NTRSP   :
+SFM     :
+ARNC-   :
+DXLG    :
+DXD     :
+31.47: 2700	31.52: 2700
+			34.45: 4
+ROOF    :
+AROW    :
+MELI    :
+146.27: 50
+ASCMA   :
+FLEX    :
+ARQL    :
+USHY    :
+NYMTN   :
+PSX     :
+E       :
+33.28: 400	33.37: 1000
+33.27: 300	33.38: 1000
+33.25: -100	33.39: 1000
+33.24: -300	33.4: 1000
+33.23: 3000	33.41: 1000
+33.22: -300	33.42: 1000
+33.2: 100
+CSS     :
+ROSEU   :
+ARR-A   :
+MER-K   :
+GDP     :
+ASPU    :
+FLGE    :
+FCN     :
+PTCT    :
+ARRS    :
+PEK     :
+ARTNA   :
+ASHS    :
+DZSI    :
+O       :
+47.26: 1
+IDU     :
+ARTX    :
+ARWR    :
+FKO     :
+GDX     :
+21.91: 2000	22.05: 100
+21.89: 2000	22.69: 2000
+TOO     :
+BRACU   :
+NK      :
+ARYA    :
+BPTH    :
+			5.3: 61
+DX-A    :
+FIW     :
+TAHO    :
+ARYAW   :
+MTN     :
+180: 16
+CFMS    :
+0.53: 1000	0.5945: 100
+0.5002: 100	0.5999: 100
+0.4645: 100	0.73: 18868
+0.4256: 100
+0.4001: 100
+ASA     :
+CASY    :
+BRF     :
+EIDO    :
+VEON    :
+ASB     :
+IVAC    :
+BRKR    :
+DXCM    :
+128.3: 9
+ASB-D   :
+SRG-A   :
+			25.19: 100
+CHEK    :
+3.89: 1522	4.21: 500
+PID     :
+ASB-E   :
+BRG-C   :
+ELLO    :
+7.89: 374	9.32: 753
+PIR     :
+0.8: 2
+ASC     :
+IVENC   :
+NXN     :
+PSO     :
+11.97: -100	12: 900
+11.96: 400	12.01: 600
+11.94: 300	12.02: 300
+11.93: 200	12.03: 300
+11.91: 2600	12.04: 300
+11.9: 300	12.05: 300
+BRC     :
+JTA     :
+ASEA    :
+GNT-A   :
+FLCO    :
+RH      :
+ASET    :
+IUSV    :
+CATY    :
+GPRK    :
+BRK.B   :
+199.84: 1
+QURE    :
+ASFI    :
+IVLU    :
+PST     :
+BRQS    :
+JVAL    :
+CHH     :
+GDG     :
+ASGN    :
+FLEH    :
+RHP     :
+ASH     :
+			86.25: 100
+IWB     :
+BRN     :
+GENE    :
+PJP     :
+RARX    :
+ASHR    :
+IVR     :
+DYB     :
+NXTDW   :
+BRGL    :
+JXI     :
+ASHX    :
+SGA     :
+ASIX    :
+IVH     :
+BRPAU   :
+TCMD    :
+CBD     :
+NYCB    :
+ASLN    :
+ELF     :
+DYSL    :
+TPHS    :
+BLCM    :
+KALA    :
+			6.99: 1800
+CHIM    :
+ASMB    :
+SGDJ    :
+ASML    :
+175.82: 200	175.97: 200
+175.78: 314	176: 200
+175.74: 100	176.02: 100
+175.69: 800	176.65: 1500
+174.67: 1500
+164: 10
+IWP     :
+FCEF    :
+SPEX    :
+			10: 9563
+BKT     :
+NMIH    :
+ASNA    :
+EMCG    :
+BRPA    :
+FCF     :
+GOODO   :
+VHT     :
+140: 100
+ASNS    :
+MUH     :
+ASPN    :
+FLIC    :
+CBLI    :
+NYMX    :
+			23.5: 910
+			47: 910
+GRFS    :
+18.62: 1200	18.72: 700
+18.61: 1200	18.73: 100
+18.58: 400	18.74: 1600
+18.06: 300
+BL      :
+ASPS    :
+BLHY    :
+FCNCA   :
+CHKE    :
+PKE     :
+17.3: 50
+GDXS    :
+ASR     :
+ASRT    :
+FLIY    :
+BLD     :
+NDAQ    :
+FVL     :
+ASRV    :
+DRIO    :
+0.6555: 100	0.9987: 100
+0.6012: 100	1.23: 35
+			1.43: 50
+			1.67: 35
+			1.89: 200
+			1.97: 35
+			2.26: 30
+			2.27: 300
+			2.63: 30
+			2.97: 500
+			3.18: 30
+SBM     :
+BKU     :
+TBLTU   :
+AST     :
+0.98: 2
+MUTE    :
+ASTC    :
+FCT     :
+BURL    :
+BLES    :
+EMB     :
+VIAB    :
+ASTE    :
+IWY     :
+DRN     :
+SBOW    :
+BLNKW   :
+ASV     :
+SSW     :
+CHN     :
+PLAG    :
+			2.81: 100
+			3: 100
+ASX     :
+BLK     :
+FDBC    :
+EMLC    :
+PLND    :
+ASYS    :
+IXJ     :
+FDD     :
+PRA     :
+BLDR    :
+JJN     :
+ATAI    :
+GPM     :
+FLMNW   :
+RKDA    :
+ATAX    :
+IWX     :
+BVNSC   :
+SBT     :
+GLMD    :
+6.81: 500	11.9: 100
+5.95: 500	14: 100
+			19: 4
+BLMT    :
+RBNC    :
+ATEC    :
+IYC     :
+FDIS    :
+PRB     :
+BMA     :
+JJT     :
+CHSCM   :
+GEO     :
+ATEST   :
+ATEST.A :
+IYW     :
+TYHT    :
+FLO     :
+14.01: 100
+RLH     :
+FXH     :
+SCAC    :
+BLPH    :
+PETQ    :
+RDC     :
+ATEST.B :
+IYH     :
+BLL     :
+44.47: 5
+JKF     :
+DS-C    :
+ATGE    :
+SHLX    :
+ATH     :
+20.1: 30
+IXUS    :
+BLW     :
+13.99: 441
+SWKS    :
+1.01: 5000
+FDN     :
+BWFG    :
+ATHM    :
+EMIH    :
+BMLP    :
+JKI     :
+DSI     :
+CDZI    :
+			15.07: 800
+ATHX    :
+SHO-F   :
+ATI     :
+IQI     :
+10.97: 100
+FDS     :
+SPRT    :
+BME     :
+NEP     :
+ATIS    :
+EDV     :
+BLUE    :
+FDTS    :
+GRBIC   :
+UTRN    :
+ATKR    :
+MYE     :
+ATLC    :
+FLRT    :
+BWZ     :
+GLRE    :
+BML-J   :
+HYB     :
+PRTS    :
+			1.3: 100
+			1.4: 100
+CLM     :
+11.5: 1	13.02: 1
+			13.07: 4
+PGZ     :
+15: 400
+ATLO    :
+CIC+    :
+GGAL    :
+ATNI    :
+FLSW    :
+SURF    :
+ATNM    :
+MQY     :
+ATNX    :
+9.26: 100
+5: 150
+FFBC    :
+EDUC    :
+SIFY    :
+ATO     :
+MYSZ    :
+0.7901: 4867	0.8758: 5000
+0.75: 1000	1.04: 1000
+			6: 1000
+FLQS    :
+TCS     :
+ATOM    :
+MYND    :
+CHRA    :
+FUN     :
+ATOS    :
+			1.33: 250
+ATR     :
+JAZZ    :
+EMTY    :
+ATRA    :
+IPIC    :
+EMMS    :
+ATRC    :
+STKS    :
+FFTG    :
+CIG.C   :
+ATRI    :
+GLIBA   :
+ATRO    :
+JBL     :
+ENS     :
+FMCIU   :
+QAI     :
+ATRS    :
+			3.82: 1100
+			3.84: 1100
+			3.86: 1100
+			3.88: 1100
+			3.9: 1000
+GRP=    :
+SCIN    :
+ATSG    :
+ATTO    :
+JAX     :
+FMAT    :
+CDR-C   :
+FFR     :
+RDVT    :
+ATTU    :
+23.33: 600
+JBSS    :
+GGO-A   :
+ATU     :
+FLXN    :
+CIM-C   :
+SD      :
+GHG     :
+ATUS    :
+ATV     :
+20: 10
+JCTCF   :
+6.72: 105
+FMC     :
+FFTY    :
+RELV    :
+ATVI    :
+JCE     :
+ATXI    :
+EEMX    :
+AU      :
+13.83: 1100	13.89: -200
+13.82: 400	14.01: 6000
+13.74: 6000
+8.88: 210
+FFIV    :
+CECE    :
+SIMO    :
+AUBN    :
+JBR     :
+ENOR    :
+SCYX    :
+AUDC    :
+14.27: 2328	14.46: 1143
+14.25: 200	14.6: 100
+AUG     :
+			2: 300
+STN     :
+EEA     :
+SIJ     :
+WFC     :
+49.2: 1
+BUI     :
+EDIT    :
+TSLA    :
+265: 25	299.16: 26
+			314.99: 25
+			369: 5
+BOMN    :
+KINS    :
+13.5: 10
+FHN-A   :
+CIT     :
+AUGR    :
+GLPG    :
+103.51: 203	103.66: 200
+103.5: 200	103.69: 100
+103.49: 178	103.71: 102
+103.48: 100	103.8: -52
+103.46: 100	104.51: 300
+103.42: 200
+SIRI    :
+			8: 6000
+AUMN    :
+JEF     :
+SQM     :
+			50: 1
+BOH     :
+NSIT    :
+EOG     :
+SDCI    :
+AUO     :
+AUSE    :
+NATH    :
+GS-D    :
+FMY     :
+CEL     :
+4.68: 2000	5.43: 2000
+			8.58: 450
+AUSF    :
+GTIM    :
+BOLD    :
+UNH     :
+241: 500
+CDLX    :
+OIL     :
+AUTL    :
+FHLC    :
+FMK     :
+QCLN    :
+GIB     :
+AUTO    :
+BOSS    :
+CJ      :
+GIII    :
+AUY     :
+FNCB    :
+SYBX    :
+AVA     :
+GBLIZ   :
+TMCXW   :
+BOOM    :
+NGHCZ   :
+AVAL    :
+FIBK    :
+BOKF    :
+DVAX    :
+FHB     :
+TEI     :
+AVB     :
+179: 6
+NAZ     :
+CEMI    :
+AVCO    :
+CAI     :
+BOS     :
+AVD     :
+JFR     :
+ENY     :
+BPI     :
+DVHL    :
+AVEO    :
+STXB    :
+FINZ    :
+CLB     :
+63.04: 450
+AVGO    :
+269: 100	288.38: 20
+GME     :
+11.11: 100	11.88: 100
+10: 900	12: 3040
+			12.15: 100
+			12.2: 3000
+			12.49: 44
+			12.5: 40
+			12.99: 41
+			13: 1
+			17: 82
+BOTZ    :
+17.98: 300	18.02: 300
+			26.5: 200
+AVGR    :
+0.3275: 9000	0.6: 10000
+0.265: 500	3.86: 550
+JHB     :
+EPP     :
+NVG     :
+13.7: 1000
+PSA-Z   :
+BOOT    :
+JPM-F   :
+GSH     :
+SDP     :
+AVID    :
+AVK     :
+JETS    :
+FNGO    :
+CERC    :
+CALM    :
+GOAU    :
+BP      :
+40.31: 800	40.33: 100
+40.29: 1000	40.36: 100
+40.28: 1500	40.38: 500
+40.26: 1000	40.42: 3000
+40.15: 2800	46.71: 200
+40.11: 100
+39.17: 1
+FINU    :
+RETA    :
+AVLR    :
+JHG     :
+PSB-V   :
+BPR     :
+JPME    :
+CLDX    :
+0.346: 31791	6: 645
+SEF     :
+GLACU   :
+AVNW    :
+AVP     :
+			2.1: 2
+JHMS    :
+FNI     :
+BPMC    :
+GDDY    :
+FISI    :
+PHIOW   :
+RFEU    :
+AVRO    :
+JHMD    :
+DWCR    :
+NVRO    :
+BOX     :
+JPNL    :
+AVX     :
+FII     :
+CEV     :
+SKYW    :
+AVXL    :
+JHEM    :
+BPOPM   :
+TAXF    :
+CAPL    :
+NVT     :
+			28.78: 40
+EPI     :
+SEED    :
+AVY     :
+DWLD    :
+TNP-B   :
+BRAC    :
+JPT     :
+FIYY    :
+CGNX    :
+			53.99: 10
+AWF     :
+GNE     :
+7.62: 150	12: 14
+SLCA    :
+AWI     :
+IUS     :
+SRVR    :
+BPRN    :
+NIM     :
+EIGR    :
+SELB    :
+AWK     :
+BPMX    :
+0.1071: 10	0.1098: 1742
+0.1014: 20	0.1145: 2
+			0.1171: 10
+			0.12: 40
+			0.13: 400
+			0.1354: 10000
+			0.145: 6000
+			0.148: 39
+			0.1603: 31
+			0.17: 284
+			0.3: 470
+			0.35: 1
+			0.7: 3023
+			1: 100
+			5: 1681
+GSVC    :
+4.5: 500	6.46: 27800
+			7.09: 51
+			9.89: 400
+VEGA    :
+AWR     :
+NCOM    :
+FOE     :
+CFBK    :
+AWRE    :
+CART    :
+NWL     :
+GOVT    :
+BQH     :
+AWSM    :
+FIXD    :
+CLNY-E  :
+AWX     :
+BELFB   :
+17.5: 10
+DSX     :
+FONE    :
+TAK     :
+20.32: 1000
+20.22: 1000
+AX      :
+MTFB    :
+SPPP    :
+BFIN    :
+NPO     :
+EIGI    :
+SLTB    :
+			25.4: 183
+AXDX    :
+FNY     :
+TGP-A   :
+AXE     :
+BERN    :
+CLCT    :
+PBND    :
+GASL    :
+AXGN    :
+BYLD    :
+BEL     :
+24.65: 50	25.15: 50
+24.25: 1
+24.1: 1000
+EPR-E   :
+UONEK   :
+AXJV    :
+ITEQ    :
+FLDM    :
+CLRB    :
+			2.51: 1000
+AXL     :
+BFAM    :
+AXNX    :
+12.13: 500
+MNDO    :
+GNUS    :
+BFS-C   :
+FYLD    :
+FPE     :
+QVCD    :
+AXON    :
+INSG    :
+GTY     :
+SESN    :
+			2.86: 100
+			3.18: 200
+			12.28: 480
+AXP     :
+81.39: 100
+60.54: 100
+INO     :
+DSU     :
+UBT     :
+BFK     :
+KGC     :
+FPA     :
+CGA     :
+AXR     :
+C       :
+62.8: 50	63.9: 478
+62.5: 50
+58: 200
+57: 300
+OVLU    :
+GSK     :
+39.22: 500	39.25: 100
+39.2: 1000	39.26: 500
+39.19: 700	39.28: 400
+39.18: 100	39.29: 100
+39.08: 3000	39.31: 100
+38.1: 2	39.33: 3100
+BF.A    :
+AXS-D   :
+FORR    :
+CLTL    :
+			105.5: 5
+SGB     :
+AXS-E   :
+INR     :
+DTV     :
+PAAS    :
+12.39: 100	16: 150
+BFRA    :
+KIDS    :
+AXSM    :
+FPAY    :
+			1.03: 117
+BGFV    :
+AXTI    :
+INT     :
+ELLI    :
+AXU     :
+INSI    :
+FLC     :
+PRNT    :
+BFST    :
+KIM-J   :
+CGW     :
+SMB     :
+FT      :
+AY      :
+BFOR    :
+TG      :
+CABO    :
+OXLCO   :
+EIS     :
+SLX     :
+AYR     :
+AYTU    :
+INSW    :
+FLIN    :
+CMA     :
+OMAD+   :
+PRVB    :
+BGB     :
+KIN     :
+GOOGL   :
+1073.27: 19	1076.17: 50
+1062.59: 100	1083.07: 10
+1.01: 5000	1400: 1
+SMDD    :
+9.77: 3500	10.32: 3500
+			10.33: 3500
+AYX     :
+GALT    :
+TTAI    :
+BGS     :
+NSEC    :
+AZO     :
+FRAN    :
+AZPN    :
+GVI     :
+BGH     :
+DTQ     :
+AZRE    :
+			12.5: 100
+SNV     :
+FPXI    :
+CHCT    :
+CAF     :
+GTHX    :
+BFZ     :
+FPI     :
+QXTR    :
+AZUL    :
+INST    :
+CMCTP   :
+AZZ     :
+BGR     :
+DLR     :
+FRAC    :
+TBNK    :
+B       :
+MOGLC   :
+BA      :
+367.03: 21	372: 10
+364.91: 10	375: 20
+362.15: 40	380: 100
+360.5: 10	384: 15
+357.5: 1
+349: 2
+1.01: 5000
+MORN    :
+FLIR    :
+EMCF    :
+SMMD    :
+BAB     :
+FLHK    :
+TIPX    :
+BABA    :
+159.8: 1	160: 500
+159.73: 300	160.1: 150
+159.5: 100	160.5: 1
+159.25: 100	160.7: 20
+159.22: 100	160.88: 80
+159.1: 100	160.95: 100
+158: 500	161: 300
+156.88: 22	161.68: 300
+156: 200	161.72: 100
+155.5: 20	161.88: 1000
+155: 100	161.95: 100
+152: 5	162: 1635
+151.6: 6	162.3: 50
+150.25: 200	162.97: 200
+150: 100	163: 141
+146.8: 34	164: 70
+142.36: 6200	164.1: 200
+141.45: 4	164.32: 100
+141.03: 2000	164.5: 300
+139: 10	164.68: 200
+137.56: 10	164.88: 30
+136.5: 100	165: 1710
+135.1: 3	165.79: 14
+135.03: 145	166: 800
+133.66: 14	166.87: 400
+130: 10	166.88: 200
+129.77: 30	167: 30
+128.8: 8	167.4: 10
+116.51: 300	167.5: 20
+115.3: 5	168: 100
+112: 5	168.1: 1000
+100.15: 500	168.5: 150
+			168.8: 100
+			170: 130
+			170.1: 17
+			171: 31
+			174: 30
+			175: 150
+			177.75: 100
+			180: 409
+			188.88: 400
+			197.55: 8
+			197.93: 100
+			198: 15
+			199: 5
+			204.24: 100
+INFO    :
+RCP     :
+CBS.A   :
+OR      :
+BGT     :
+CHEP    :
+FTFT    :
+			1.37: 150
+			1.73: 120
+			2.14: 120
+			2.6: 135
+			3.38: 95
+			4.08: 55
+			5.38: 35
+BABY    :
+BRZU    :
+BGIO    :
+BAC-A   :
+INTL    :
+ELP     :
+FLMX    :
+CMI     :
+112.5: 6
+BAC-B   :
+BAC-C   :
+MORL    :
+GPOR    :
+BAC-E   :
+ESGW    :
+FRN     :
+RBZ     :
+BAC-K   :
+IPAS    :
+GYLD    :
+SGMS    :
+BAC-L   :
+IOR     :
+FRED    :
+CHIE    :
+BAC-W   :
+FLMN    :
+RIOT    :
+FTGC    :
+BAC-Y   :
+BAF     :
+FRC-D   :
+CMRE-C  :
+SHM     :
+BAH     :
+IP      :
+			50: 1
+BAK     :
+FRLG    :
+FLNT    :
+RMAX    :
+BAL     :
+BAM     :
+IPGP    :
+EML     :
+BANC    :
+IPAY    :
+FLMB    :
+CHIS    :
+SMTA    :
+FTSV    :
+BANC-D  :
+BANC-E  :
+SOL     :
+ESGRP   :
+SHLO    :
+EMDV    :
+SMMV    :
+BAND    :
+BANF    :
+IPE     :
+FLRU    :
+CHUY    :
+GREK    :
+SN      :
+			0.4548: 15
+			0.46: 71429
+BANFP   :
+JAGX    :
+			1.01: 32500
+			2.2: 16000
+			3.4: 650
+ENBA    :
+SHO-E   :
+BANR    :
+MRAM    :
+BANX    :
+MYN     :
+FLTB    :
+BAP     :
+HAS     :
+BAR     :
+SPAB    :
+FSBC    :
+CHL     :
+FTV     :
+BAS     :
+FLRN    :
+FRSH    :
+RCD     :
+GF      :
+BASI    :
+IPDN    :
+HBIO    :
+PSA-A   :
+CYB     :
+JPGE    :
+BATRA   :
+DX-B    :
+RNR-F   :
+BIIB    :
+			349.2: 10
+TD      :
+40.18: 100
+BATRK   :
+MYF     :
+ETRN    :
+SRTSW   :
+BIQI    :
+NTZ     :
+BAX     :
+ENB     :
+35.25: 1
+BB      :
+FRT-C   :
+BIO     :
+ETTX    :
+GEOS    :
+BBAX    :
+TOTL    :
+CMO-E   :
+PED     :
+			1.8: 5
+ETW     :
+			12.25: 2000
+CATM    :
+BIF     :
+YRIV    :
+CFXA    :
+ESLT    :
+121.49: 447	122.36: 905
+121.48: 683	122.37: 200
+121.28: 200
+USVM    :
+BBC     :
+IYJ     :
+BBCA    :
+FMB     :
+BIOS    :
+ETY     :
+GRSHU   :
+UGA     :
+BBCP    :
+MRIN    :
+GDV-D   :
+RODI    :
+BJK     :
+PACB    :
+			7.39: 11000
+			7.42: 10000
+RDY     :
+BBDC    :
+IRBT    :
+SHYG    :
+BBDO    :
+IQDY    :
+BIT     :
+KRC     :
+DWTR    :
+CHSCP   :
+BBEU    :
+CBAY    :
+8.2: 200
+5: 200
+HABT    :
+BIOC    :
+			2.14: 1000
+BBGI    :
+SINA    :
+BBH     :
+IQV     :
+BJ      :
+KRMA    :
+DYLS    :
+BBJP    :
+BKE     :
+EURN    :
+7.78: 500	7.81: 1000
+7.55: 2000	8.02: 2000
+			10: 100
+ENR-A   :
+PAGG    :
+BBL     :
+43.45: 600	43.5: 200
+43.42: 500	43.52: 100
+43.4: 700	43.54: 200
+43.39: 800	43.6: 3000
+43.31: 3000
+IRM     :
+FLZA    :
+QADB    :
+BBN     :
+IRCP    :
+EUSA    :
+PSMG    :
+BJUL    :
+KRP     :
+CI      :
+174.42: 24
+FWDI    :
+BBP     :
+BIV     :
+TLH     :
+EUXL    :
+CBL     :
+			3.14: 2
+BBRE    :
+ENFC    :
+FN      :
+QBAK    :
+BBSI    :
+IRET-C  :
+EVA     :
+29.01: 100
+ORLY    :
+PTH     :
+BKCC    :
+KSS     :
+BBT     :
+GS-N    :
+GEMP    :
+TYME    :
+BKLN    :
+NVCN    :
+0.7: 200	1.09: 1000
+0.55: 500	4.2: 1000
+			4.48: 200
+			29.54: 80
+BBT-E   :
+BBT-F   :
+DXR     :
+ROX     :
+			0.909: 24
+			0.98: 3
+BKEPP   :
+BBT-G   :
+SPLV    :
+CIDM    :
+PAGS    :
+CBND    :
+RP      :
+HBAN    :
+BK-C    :
+REDV    :
+BBU     :
+IRET    :
+BBVA    :
+6.03: -500	6.05: 2200
+6.02: 2100	6.06: 1700
+6.01: 4000	6.07: 3200
+6: 4000	6.08: 2800
+5.99: 3400	6.09: 14900
+			6.1: 35000
+			6.11: 35000
+			7.45: 1500
+DRIOW   :
+RPD     :
+BKJ     :
+TEN     :
+BBW     :
+MSBI    :
+EVGN    :
+2.07: 3000	2.42: 3000
+SPE     :
+BDC     :
+NMRK    :
+BBY     :
+58.07: 1
+EOD     :
+BC      :
+FMO     :
+BKNG    :
+EVI     :
+CIK     :
+PANW    :
+FXN     :
+BC-A    :
+EVJ     :
+BV      :
+BKH     :
+51: 10
+50: 10
+49: 10
+48: 10
+47: 10
+46: 10
+45: 10
+44: 10
+43: 10
+42: 10
+41: 10
+40: 10
+ENT     :
+ULE     :
+14.89: 500	15.01: 500
+14.88: 500	15.02: 500
+14.87: 500	15.03: 500
+BCAC    :
+IRS     :
+BCACR   :
+FNGU    :
+BCV-A   :
+GSIT    :
+UMH-B   :
+BCACU   :
+MSGN    :
+BDL     :
+FVCB    :
+PBA     :
+33.57: 1
+28.31: 1
+REV     :
+BCBP    :
+ISRG    :
+406.27: 20	503: 25
+1.01: 5000
+SIX     :
+BCC     :
+24: 5
+23: 5
+ISG     :
+DRE     :
+27.35: 20
+TYO     :
+BDCL    :
+KBWD    :
+CINR    :
+BCD     :
+BWA     :
+ORTX    :
+GRTS    :
+BCTF    :
+BCEI    :
+SKYY    :
+BCH     :
+ISNS    :
+DS-D    :
+OTEX    :
+BDGE    :
+KCAP    :
+BCI     :
+BEAT    :
+EPOL    :
+PBE     :
+BCM     :
+ITB     :
+FNF     :
+QMN     :
+BCML    :
+ISRL    :
+PQLC    :
+BDR     :
+KCNY    :
+CIVEC   :
+GAB-D   :
+BCNA    :
+BDCZ    :
+TDW+A   :
+BWMCW   :
+OSIZ    :
+BCOM    :
+4.22: 1500	4.98: 1500
+EOS     :
+FOF     :
+9: 100
+CLIX    :
+QQQ     :
+162.89: 800	162.92: 800
+162.88: 1600	162.96: 800
+160.1: 250	162.99: 800
+160: 25	165.65: 400
+146: 10	172.7: 7
+145: 25	177: 85
+144.69: 104
+144: 1500
+119.89: 1
+75: 2500
+BCOR    :
+ISZE    :
+OUSA    :
+30.76: 1
+PRH     :
+BDXA    :
+KEG     :
+			2.4: 100
+BCOV    :
+GTE     :
+FXE     :
+109.07: 2000	109.29: 2000
+109.06: 2000	109.3: 2000
+109.05: 2000	109.31: 2000
+109.04: 2000	109.32: 2000
+109.03: 2000	109.33: 2000
+UBSH    :
+BEN     :
+NORW    :
+BCPC    :
+FOR     :
+BCRH    :
+BEDU    :
+DRYS    :
+BCRX    :
+SPXT    :
+CKH     :
+PBF     :
+			55.88: 37
+BXMT    :
+GSAH+   :
+BDSI    :
+REXR    :
+BCSF    :
+ISTR    :
+BCV     :
+18.23: 55
+EVLO    :
+BTO     :
+BDC-B   :
+BDD     :
+EVTC    :
+PULS    :
+BDN     :
+KBWB    :
+EW      :
+153.32: 27	172.09: 2
+151.84: 9	179.12: 2
+147.76: 150	200: 100
+140: 5
+139.44: 9
+139: 5
+138: 5
+137: 5
+136: 5
+135: 5
+134: 5
+133: 5
+132: 5
+131: 5
+130: 5
+123.43: 50
+122: 15
+87.01: 10
+1.01: 5001
+PVAC    :
+BDX     :
+KEQU    :
+RUBI    :
+BECN    :
+KCE     :
+RUSHB   :
+BELFA   :
+KFFB    :
+BEP     :
+EWK     :
+BF.B    :
+EWN     :
+BFIT    :
+BFR     :
+10: 100
+EWX     :
+PXQ     :
+BFS-D   :
+KFYP    :
+BG      :
+			56: 5
+KKR-B   :
+VEDL    :
+EXAS    :
+PXSV    :
+RWO     :
+BGG     :
+KIM-I   :
+RWUI    :
+BGNE    :
+JPLS    :
+BGSF    :
+EXPE    :
+CANF    :
+1.05: 5741	2.5: 40
+GULF    :
+BGY     :
+EXR     :
+SNES    :
+			1.88: 300
+BH      :
+NG      :
+BH.A    :
+ESPR    :
+DLPNW   :
+RYI     :
+6.51: 30
+BHB     :
+NTCT    :
+22.87: 62
+22.23: 90
+21.58: 186
+EXLS    :
+SQ      :
+68.1: 50	71: 10
+65: 2	71.5: 10
+41: 5	82.98: 40
+BHBK    :
+NSSC    :
+CACG    :
+GNL     :
+BHC     :
+			28.95: 100
+BHE     :
+			27.5: 40
+KMPR    :
+DUSL    :
+BHF     :
+JP      :
+DTYL    :
+BHFAL   :
+TIBR    :
+ETFC    :
+CARG    :
+BHGE    :
+			25: 34
+			33.33: 100
+FSTR    :
+BHK     :
+KNDI    :
+DWDP    :
+F       :
+8.65: 1	8.77: 657
+8.55: 5	8.97: 100
+8.5: 5	9: 5
+8.46: 50	9.25: 2
+8.32: 100	9.3: 20
+8.3: 270	9.58: 2
+8.25: 200	9.8: 100
+8.21: 1	10: 102
+8: 2	10.37: 200
+7.42: 1	10.88: 40
+6.5: 19	11: 50
+			11.44: 2000
+			13.3: 8
+			13.8: 8
+			14.3: 8
+PMBC    :
+BHLB    :
+GBL     :
+RMD     :
+BHP     :
+BHR     :
+KMPH    :
+EZA     :
+BRS     :
+ET      :
+PSA-W   :
+BHR-B   :
+KNOW    :
+GUT-C   :
+BHR-D   :
+EYEGW   :
+CASI    :
+			4.22: 382
+RNR-C   :
+GWPH    :
+BHTG    :
+BHV     :
+KOMP    :
+EZT     :
+ETH     :
+PSCU    :
+BHVN    :
+KO      :
+47.44: 100	47.6: 122
+47.18: 1	47.68: 100
+46.94: 1	52: 50
+46.35: 30
+45.4: 110
+44.31: 113
+41.15: 40
+BIB     :
+DMO     :
+BIBL    :
+ESV     :
+			9.49: 75
+BSAE    :
+S       :
+			6.35: 1300
+			6.52: 34
+BICK    :
+KNOP    :
+DWAQ    :
+RNP     :
+BID     :
+BIDU    :
+166: 295	167.98: 80
+160: 500	167.99: 400
+TILE    :
+DLR-H   :
+RYTM    :
+FTEK    :
+SABR    :
+BIG     :
+KOSS    :
+BIL     :
+NTRA    :
+GCV-B   :
+FANH    :
+BSCN    :
+BILI    :
+FAF     :
+PML     :
+GXF     :
+BIO.B   :
+FAST    :
+SOIL    :
+BIOL    :
+BSE     :
+BIS     :
+BIZD    :
+FTSI    :
+BJRI    :
+KRA     :
+FBIZ    :
+BSJN    :
+BKC     :
+KTN     :
+FBNC    :
+BSRR    :
+SASR    :
+BKEP    :
+KRO     :
+FUL     :
+SB      :
+BKI     :
+KBLMU   :
+FCBC    :
+BTA     :
+BKN     :
+CBX     :
+BKSC    :
+FCAN    :
+STAA    :
+BKYI    :
+			1.76: 180
+EVV     :
+CCC=    :
+BLCN    :
+GFN     :
+RRD     :
+3.95: 10000
+BLE     :
+JIGB    :
+CCI     :
+RUBY    :
+BLIN    :
+			0.82: 800
+			0.99: 500
+			1.19: 3000
+			2.71: 200
+JJE     :
+BLMN    :
+JJP     :
+EVRI    :
+BLOK    :
+JJU     :
+EWL     :
+33: 5000	33.26: 5000
+32.99: 5000	33.27: 5000
+32.98: 5000	33.28: 5000
+32.97: 5000	33.29: 5000
+32.96: 5000	33.3: 5000
+32.95: 5000	33.31: 5000
+32.94: 5000
+CCMP    :
+BLV     :
+GGZ     :
+CCRN    :
+BMCH    :
+BMI     :
+NEV     :
+EWMC    :
+DSWL    :
+SCHC    :
+BML-G   :
+EWH     :
+STNL    :
+BML-H   :
+EWY     :
+CDEV    :
+BMO     :
+BMRA    :
+NEU     :
+G       :
+BMRC    :
+EDF     :
+12.3: 1000
+12: 1000
+11: 1000
+10.1: 1000
+FENG    :
+PRPH    :
+BMRN    :
+JMUB    :
+GIG=    :
+RVP     :
+BMS     :
+JMOM    :
+FELP    :
+BXP-B   :
+BMTC    :
+EWW     :
+PXF     :
+GLT     :
+BMY     :
+BNCL    :
+FDX     :
+CDOR    :
+RWR     :
+BND     :
+JMST    :
+BNDC    :
+FEN     :
+EWZS    :
+PYS     :
+BNDW    :
+BNDX    :
+JOBS    :
+			72.5: 300
+DTUS    :
+BNED    :
+			5.8: 5
+JNCE    :
+EWUS    :
+BZF     :
+SCHO    :
+GMFL    :
+BNFT    :
+BNGO    :
+SYK     :
+EDBI    :
+RWM     :
+41.05: 1200	43.59: 1200
+DTE     :
+96: 10
+95: 10
+94: 10
+93: 10
+92: 10
+91: 10
+90: 10
+SCHG    :
+BNGOW   :
+			3: 500
+BNO     :
+JNUG    :
+10.51: 1800	10.67: 45
+10.5: 100	10.87: 1000
+10.4: 3700
+7.2: 1000
+EXPI    :
+CAL     :
+GAMR    :
+SCHW    :
+			48.5: 1
+BNS     :
+KMED    :
+DVCR    :
+RWT     :
+BNSO    :
+NGD     :
+1.03: 1	1.82: 26
+BNTC    :
+NSS     :
+EXTN    :
+BNTCW   :
+GJT     :
+BNY     :
+SZK     :
+FEZ     :
+35.06: 31400	35.11: -1029
+35.05: 7464	35.12: 20000
+35.04: 20872
+35.03: 17702
+C-L*    :
+GMLP    :
+BOCH    :
+			12: 960
+EXPD    :
+1.01: 5000
+FET     :
+PRS     :
+GTS     :
+BOCT    :
+JNPR    :
+25.07: 500
+HYHG    :
+RDHL    :
+7.85: 1105	8.78: 1500
+			8.79: 1000
+COF     :
+IPWR    :
+BOE     :
+BOKFL   :
+FEUZ    :
+BOND    :
+EZJ     :
+RY      :
+BORN    :
+JPIN    :
+SA      :
+10.7: 500
+BOTJ    :
+JPM-B   :
+EYESW   :
+PM      :
+			79.75: 30
+BOXL    :
+			3.3: 50
+			5.82: 1500
+JPM-G   :
+FARM    :
+PMF     :
+12.49: 77
+BPL     :
+JPMF    :
+BPOP    :
+BPRAP   :
+BPY     :
+FAMI    :
+BRACR   :
+FBK     :
+SAH     :
+BREW    :
+JSMD    :
+SATS    :
+BRG-A   :
+JSYNU   :
+FBHS    :
+POL     :
+BRID    :
+JTD     :
+FCBP    :
+CBRL    :
+POR     :
+BRKS    :
+JW.A    :
+BRPAR   :
+BRSS    :
+GNMK    :
+BRT     :
+TANNZ   :
+BRX     :
+			21: 1
+LLQD    :
+GNCA    :
+SERV    :
+BRY     :
+LKQ     :
+IBND    :
+RGCO    :
+BSA     :
+OMF     :
+BSAC    :
+IBM     :
+134.4: 189	135.05: 175
+133: 10	136: 20
+131.77: 40	140: 2
+125: 12	146: 40
+101.02: 50	156: 45
+			160: 785
+BSBE    :
+BSBR    :
+OMN     :
+5: 50
+ICOL    :
+KOL     :
+BSCE    :
+GOL     :
+BSCJ    :
+FLBL    :
+GOAT    :
+VFLQ    :
+BSCK    :
+OMEX    :
+UROV    :
+BSCL    :
+ONB     :
+GNT     :
+MLHR    :
+FAAR    :
+BSCM    :
+GOGL    :
+5.03: 1600	5.07: 2600
+4.94: 5000	5.18: 5100
+4.52: 400
+VFQY    :
+BSCO    :
+ONTX    :
+KORU    :
+USCR    :
+BSCP    :
+ONDK    :
+BSCQ    :
+BSCR    :
+TAWK    :
+BSCS    :
+ON      :
+BSD     :
+ICL     :
+5.75: 4725	5.88: 4621
+5.74: 8000	5.89: 8000
+4.75: 200
+MLPA    :
+TAP.A   :
+BSDE    :
+SAF     :
+TBBK    :
+BSET    :
+OPESU   :
+BSGM    :
+IDLV    :
+GPI     :
+SMHD    :
+BSIG    :
+LNG     :
+FLGR    :
+RILYZ   :
+BSJJ    :
+LMST    :
+BSJK    :
+GORO    :
+3.62: 1
+BSJL    :
+FAUS    :
+BSJM    :
+GOODM   :
+BSJO    :
+GPAQW   :
+BSJP    :
+TCBI    :
+BSJQ    :
+LOACW   :
+SGMA    :
+2.16: 105	4.94: 225
+			4.95: 105
+BSL     :
+LNGR    :
+BSM     :
+IDHD    :
+RING    :
+BSMX    :
+OPHT    :
+BSQR    :
+BST     :
+29.5: 50	35.33: 600
+BSTC    :
+OPNT    :
+IEC     :
+KTF     :
+BSTI    :
+GRA     :
+BSV     :
+FLLV    :
+GPRE    :
+VIOT    :
+BSVN    :
+OPHC    :
+USLB    :
+BSX     :
+OPRX    :
+GPL     :
+MMIN    :
+FBSS    :
+BT      :
+15.41: 900	15.44: 200
+15.4: 700	15.45: 1500
+15.39: -100	15.46: -200
+15.38: 500	15.47: 500
+15.36: 9000	15.5: 8600
+			17.2: 73
+			18.2: 40
+GPX     :
+VIRT    :
+BTAI    :
+ORCL    :
+47.74: 50	51.5: 185
+1.01: 5000
+PTN     :
+			0.699: 809
+KBLM    :
+USX     :
+BTAL    :
+OQAL    :
+BTE     :
+BTEC    :
+TCI     :
+BTG     :
+2.9: 30
+OPRA    :
+BTI     :
+33.93: 200	33.97: 710
+33.92: 1014	33.98: -478
+33.89: 131	34.04: -6
+33.84: 1500	34.07: 1500
+33.75: 5500	34.2: 50
+33.7: 50	34.78: 20
+33.55: 100	35: 100
+32: 100	35.5: 100
+30.08: 4	36: 100
+28.47: 30	37: 100
+28: 70	45.99: 200
+IDXG    :
+MMTM    :
+TCCO    :
+BTN     :
+SBAC    :
+TCO-K   :
+BTT     :
+20.5: 50
+OCFC    :
+BTU     :
+HYLB    :
+FLQL    :
+RDNT    :
+WEYS    :
+BTZ     :
+LOW     :
+WF#     :
+BUD     :
+74.11: 300	74.18: -68
+74.1: -15	74.23: -207
+74.07: 300	74.41: 500
+73.94: 500	94.7: 7
+			105.08: 170
+GRF     :
+EVN     :
+BURG    :
+GRAM    :
+GRIF    :
+SCIU    :
+BUSE    :
+LDP     :
+BUY     :
+GLADD   :
+HYIH    :
+TDG     :
+344.61: 1
+BUYN    :
+LQDH    :
+GRC     :
+SHY     :
+BUZ     :
+LPSN    :
+22.45: 190	23.99: 1132
+			24: 1000
+BVAL    :
+OSB     :
+IEMV    :
+BVN     :
+OAK-A   :
+IEF     :
+BVSN    :
+FFNW    :
+BVXV    :
+OSG     :
+			1.95: 10
+IFV     :
+GRX-B   :
+UHAL    :
+BVXVW   :
+FLXS    :
+SUPV    :
+BW      :
+			0.72: 300
+GLIBP   :
+UUP     :
+25.39: 60000	25.51: 60000
+25.38: 60000	25.52: 60000
+25.37: 60000	25.53: 60000
+25.36: 60000	25.54: 60000
+25.35: 60000	25.55: 60000
+25.34: 60000	25.56: 60000
+25.33: 60000	25.57: 60000
+BWB     :
+OSK     :
+FDEF    :
+BWEN    :
+GROW    :
+1.05: 10000	1.3: 5180
+BWG     :
+OTIV    :
+0.621: 160	0.9: 1000
+			1.3: 400
+GRX     :
+GLO     :
+VALE    :
+11.81: 500	12.04: 785
+11.5: 470	12.1: 1000
+11.48: 1	12.14: 500
+11.45: 200	12.99: 10
+11.26: 80	13.5: 1000
+11: 190	14.5: 1000
+10.61: 74	14.99: 30
+10: 1000	15.95: 100
+			16: 100
+BWL.A   :
+OSPN    :
+BWMC    :
+HZO     :
+BWMCU   :
+GLG     :
+1.36: 500	1.8: 500
+			12.77: 6120
+IFMK    :
+SWJ     :
+BWX     :
+HYLV    :
+TDOC    :
+BWXT    :
+SCAP    :
+FHK     :
+TECD    :
+BX      :
+32.63: 1	33.25: 980
+31.97: 300	34.8: 220
+29.12: 220	35.12: 100
+27: 201	35.69: 210
+26: 4	36.5: 160
+OUT     :
+IGOV    :
+SWN     :
+			5.55: 200
+BXC     :
+BXE     :
+LTN+    :
+GSC     :
+BXG     :
+LSXMK   :
+			39.7: 6
+FMN     :
+BXMX    :
+GLPI    :
+GS-C    :
+UIS     :
+FDUS    :
+BXP     :
+GSBC    :
+SDPI    :
+BXS     :
+BY      :
+GLTR    :
+IBCE    :
+TETF    :
+BYD     :
+LTS-A   :
+GLP-A   :
+SIVB    :
+BYFC    :
+			1.4: 200
+LTN=    :
+BYM     :
+OVLY    :
+IGLB    :
+BYSI    :
+			20: 100
+IAF     :
+BZH     :
+			12.25: 2
+FILL    :
+BZM     :
+OXFD    :
+IHT     :
+GSP     :
+UNF     :
+BZQ     :
+FNDF    :
+SYBT    :
+BZUN    :
+GMED    :
+VBIV    :
+C-J     :
+OXM     :
+FENY    :
+C-K     :
+GSG     :
+C-N     :
+PACA    :
+GSLC    :
+GMLPP   :
+			25.98: 100
+KMB     :
+100: 100
+95: 150
+90: 100
+VEA     :
+38.6: 1
+37: 4
+C-S     :
+OYLD    :
+CAAP    :
+IBKC    :
+CAAS    :
+GMDA    :
+IHF     :
+SYY     :
+CAC     :
+IBDD    :
+TFI     :
+			49: 1
+CACC    :
+SCHX    :
+FIX     :
+TGE     :
+CACI    :
+OMC     :
+71.27: 3
+IBTX    :
+SZO     :
+CADC    :
+GNPX    :
+SLIM    :
+CADE    :
+LKOR    :
+FNWB    :
+RFV     :
+CAE     :
+LW      :
+CAG     :
+GNE-A   :
+GSV     :
+UNIT    :
+EXTR    :
+			8.87: 300
+CAH     :
+GTN     :
+SF      :
+CAI-A   :
+LIVE    :
+GNMA    :
+SEM     :
+CAI-B   :
+KURA    :
+IBP     :
+THO     :
+CAJ     :
+GT      :
+SLGN    :
+CAKE    :
+CALA    :
+IIJI    :
+IHYD    :
+QTNA    :
+CALF    :
+OKE     :
+CALX    :
+KTP     :
+FLCA    :
+CAMP    :
+IMFD    :
+GUT-A   :
+URTY    :
+59.1: 900	67.43: 900
+55: 900
+CAMT    :
+7.03: 686	7.1: 508
+			9.99: 200
+			10.34: 200
+NVUS    :
+FORTY   :
+36.38: 866	42.26: 296
+TAIT    :
+1.64: 175	2.14: 140
+1.63: 200
+CANE    :
+NVO     :
+46.64: 1000	46.68: 555
+46.63: 800	46.71: 100
+46.6: 455	46.73: -645
+46.59: 100	46.92: 2200
+46.44: 2200	47.6: 86
+39.17: 80
+GNW     :
+			4.87: 3
+			4.94: 1
+			4.95: 2
+			4.96: 1
+			5: 13
+			5.01: 2
+			5.02: 3
+			5.05: 2
+			5.06: 1
+			5.32: 1
+			5.48: 8
+			5.5: 1
+			5.75: 1
+			18: 2
+VER-F   :
+ESPO    :
+CANG    :
+			13: 13
+CAPE    :
+GTXI    :
+			15.69: 50
+CAPR    :
+0.426: 14900	0.84: 6000
+			1.19: 1000
+			1.59: 1000
+GUSH    :
+			16: 7
+GOF     :
+VGLT    :
+CAR     :
+CARA    :
+NWPX    :
+ICLR    :
+CARB    :
+NWBI    :
+GNTY    :
+ILTB    :
+TATT    :
+6.23: 1311	7.32: 1671
+CARO    :
+RMR     :
+ICAN    :
+THRM    :
+CARS    :
+FLHY    :
+TIF     :
+CARV    :
+			4.1: 150
+IMTB    :
+TBB     :
+			25: 300
+CARZ    :
+LALT    :
+CASA    :
+GXC     :
+CASH    :
+FPI-B   :
+ETG     :
+CASM    :
+GOOS    :
+GVAL    :
+USAK    :
+CASS    :
+NWHM    :
+GWW     :
+190: 100
+SGOC    :
+CAT     :
+			160: 1
+LAKE    :
+CATB    :
+LAWS    :
+GPAQU   :
+IDLB    :
+TKKS    :
+CATC    :
+GOOG    :
+1064.64: 50	1070.31: 10
+1063.27: 10	1071.27: 10
+1055: 2	1075.86: 100
+1040.76: 5	1117.84: 20
+1036: 100	1170: 1
+968.75: 5
+930: 2
+928: 1
+835: 3
+817: 1
+793.59: 20
+613.49: 30
+SMHB    :
+CATH    :
+CATO    :
+IMOM    :
+CATS    :
+NXC     :
+ICPT    :
+114.05: 90
+CAW     :
+LAUR    :
+FLMI    :
+CB      :
+INF     :
+HAL     :
+USM     :
+CBAN    :
+NYF     :
+FRC-F   :
+TBLU    :
+CBAT    :
+1.12: 4238	1.19: 400
+1: 6000	1.59: 50000
+			1.65: 50000
+			1.85: 50000
+			2.03: 7760
+NXST    :
+GPP     :
+VICI    :
+ETX     :
+CBB     :
+CBB-B   :
+GYC     :
+CBFV    :
+HAIN    :
+GPS     :
+VIXY    :
+			31.7: 300
+			31.71: 300
+			31.72: 300
+			31.74: 300
+CBH     :
+CBIO    :
+NYV     :
+IEAWW   :
+CBK     :
+NYMT    :
+GPN     :
+INDB    :
+TCGP    :
+CBL-D   :
+ROK     :
+1.01: 5000
+IDOG    :
+TKR     :
+CBL-E   :
+FLR     :
+TLP     :
+CBLK    :
+ORMP    :
+3.27: 1601	3.86: 1356
+IETC    :
+TCO-J   :
+CBM     :
+LDRI    :
+CBMB    :
+LPLA    :
+GRMN    :
+60: 250
+CBMG    :
+FRSX    :
+1.73: 100	1.98: 2000
+1.71: 1968
+EV      :
+CBNK    :
+GRES    :
+HAP     :
+USNA    :
+FCFS    :
+CBO     :
+NYMTP   :
+SHYL    :
+VRML    :
+CBON    :
+LOWC    :
+GRID    :
+SHOO    :
+VRNA    :
+CBPO    :
+LECO    :
+CBPX    :
+IESC    :
+CBRE    :
+HAUD    :
+CBS     :
+CBSH    :
+GRU     :
+FM      :
+PZG     :
+CBSHP   :
+LEAF    :
+CBT     :
+JHMT    :
+UUUU+   :
+CBTX    :
+OCUL    :
+TCX     :
+CBU     :
+OCCI    :
+EVK     :
+2.85: 100
+CBZ     :
+GRSHW   :
+CC      :
+25.02: 100
+TDW+B   :
+CCA     :
+OCSI    :
+CCB     :
+CCBG    :
+GRVY    :
+CCC     :
+OESX    :
+			1.2: 60
+IFRX    :
+JJA     :
+GRSH    :
+UGP     :
+CCC+    :
+OCX     :
+5.73: 100	5.92: 300
+5.5: 100	6.1: 200
+5: 1	6.35: 400
+			6.85: 300
+			10: 400
+			15: 470
+MAG     :
+TDW+    :
+CCCL    :
+RSG     :
+CCD     :
+IEV     :
+GSAH=   :
+UIHC    :
+CCEP    :
+45.67: 300	45.84: 300
+45.61: 200	45.87: 200
+43.61: 347	45.9: 200
+ODT     :
+CCF     :
+85: 5
+FMS     :
+35.63: 685	35.67: 600
+35.56: 300	35.68: 658
+35.46: 1200	35.7: 1616
+			35.71: -17
+			35.73: -131
+			35.74: 300
+			35.94: 1200
+TEAM    :
+CCH     :
+LGC     :
+CCH+    :
+CCH=    :
+GSAH    :
+MANU    :
+16: 100
+EVX     :
+CCI-A   :
+UVXY    :
+59.42: 200	59.61: 150
+59.13: 150	59.62: 150
+59.12: 150	59.63: 150
+59.11: 150	59.64: 150
+59.1: 150	59.65: 150
+59.09: 150	59.66: 150
+59.08: 150	59.67: 150
+57.33: 100	59.68: 150
+56.98: 400	5000: 20
+56.7: 300
+55.97: 200
+CCIH    :
+ODP     :
+CCJ     :
+			15.89: 75
+SIZ     :
+CCK     :
+LFVN    :
+GSB     :
+SDEM    :
+CCL     :
+56.44: 750	57: 750
+54: 4	57.46: 100
+			58.88: 100
+LGL     :
+CCLP    :
+IGN     :
+CCM     :
+GS-K    :
+CCNE    :
+IGBH    :
+QEFA    :
+CCNI    :
+OFED    :
+CCO     :
+GSKY    :
+FNG     :
+QINT    :
+CCOI    :
+LGIH    :
+CCOR    :
+JMBS    :
+VBND    :
+CCR     :
+OIA     :
+TELL    :
+CCRC    :
+OGIG    :
+EWM     :
+CCS     :
+GSJY    :
+CCU     :
+TGA     :
+CCXI    :
+OHI     :
+			39.6: 10
+			39.7: 10
+			39.82: 10
+CCZ     :
+CDAY    :
+GSL-B   :
+CDC     :
+OILU    :
+IHIT    :
+JMPB    :
+			25.68: 300
+GSIE    :
+UNB     :
+CDE     :
+			10000: 10
+OIBR.C  :
+MBRX    :
+TFX     :
+CDK     :
+RWDC    :
+CDL     :
+IGSB    :
+51.6: 20	52.15: 20
+CDMO    :
+FOANC   :
+IIPR-A  :
+TGC     :
+			1.05: 1
+CDMOP   :
+LIVN    :
+CDNA    :
+GTO     :
+CDNS    :
+GTES    :
+MCB     :
+EWZ     :
+CDR     :
+VCEL    :
+CDR-B   :
+OIIM    :
+CDTX    :
+FUSB    :
+8: 1000	10.7: 1845
+7.9: 1000
+7.8: 1000
+CDW     :
+SPHQ    :
+28.65: 3
+CDXC    :
+MFL     :
+FUE     :
+RQI     :
+CDXS    :
+			19: 200
+MFD     :
+HEWY    :
+PTSI    :
+CE      :
+PEY     :
+CEA     :
+HESM    :
+CECO    :
+CEE     :
+PFD     :
+HHS     :
+JCPB    :
+CEF     :
+FXA     :
+71.96: 1000	72.08: 1000
+71.95: 1000	72.09: 1000
+CEFL    :
+EVR     :
+FWDD    :
+UAL     :
+CEFS    :
+PEXL    :
+TRCB    :
+CEI     :
+0.12: 1	0.65: 849
+			0.6851: 20000
+			0.9: 4663
+			1.07: 100
+			1.08: 94
+			1.25: 83
+			1.47: 40
+			8.14: 400
+PFFD    :
+FVC     :
+LSST    :
+FMCIW   :
+CEIX    :
+FWP     :
+UAVS    :
+			0.55: 4
+			0.577: 1000
+			2: 300
+CELC    :
+PFL     :
+JE-A    :
+TROV    :
+0.58: 2324	0.8789: 100
+0.53: 1000	0.9789: 100
+0.51: 1000	1.98: 300
+			7.72: 166
+CELG    :
+79.01: 100	88.99: 100
+79: 1	89: 10
+78.98: 100	89.02: 100
+62.76: 10	90: 1
+			103.21: 1000
+			109.13: 700
+PFGC    :
+CELGZ   :
+CELH    :
+SPLP-A  :
+CELP    :
+PFFA    :
+CEM     :
+HGSD    :
+LTL     :
+SPKE    :
+CEMB    :
+SITC-J  :
+SPMV    :
+CEN     :
+PFS     :
+CENT    :
+HIPS    :
+FXSG    :
+SCE-C   :
+CENTA   :
+MGTA    :
+EWG     :
+26.81: 41500	26.9: 41500
+26.8: 41500	26.91: 41500
+26.79: 41500	26.92: 41500
+26.78: 41500
+26.77: 41500
+26.76: 41500
+PWV     :
+CENX    :
+MGK     :
+CEO     :
+FXL     :
+CEPU    :
+FNDA    :
+CEQP    :
+FXD     :
+CERN    :
+FXR     :
+CERS    :
+SPUU    :
+CET     :
+MH-C    :
+RVNC    :
+CETV    :
+3.02: 100	3.06: 100
+MGTX    :
+CETX    :
+HIL     :
+			3.75: 200
+			3.99: 300
+			4: 200
+			4.25: 100
+			5.25: 500
+PXD     :
+CETXP   :
+PGAL    :
+CETXW   :
+CEVA    :
+CEW     :
+PGJ     :
+HLM-    :
+JHML    :
+CEY     :
+GAIA    :
+8.44: 50
+7.88: 100
+CEZ     :
+EWT     :
+GAB     :
+UCTT    :
+6: 2000
+CF      :
+PG      :
+93.41: 200	93.83: 100
+92.97: 1	94.13: 199
+70: 2	97.96: 2000
+TRU     :
+CFA     :
+PGP     :
+FYC     :
+LVIN    :
+FNKO    :
+CFBI    :
+GAB-J   :
+UDR     :
+CFFA    :
+PHDG    :
+RFP     :
+ITUB    :
+TSM     :
+CFFAU   :
+PGX     :
+CFFAW   :
+CFFI    :
+SPXS    :
+25.87: 1700	25.9: 2900
+25.86: 1700	25.91: 2900
+25.85: 1700
+25.81: 100
+20: 1
+CFFN    :
+PGNX    :
+CFG     :
+28: 100
+HLF     :
+LXFT    :
+SPWR    :
+			7.49: 80
+			7.99: 75
+CFG-D   :
+SLF     :
+SPXX    :
+CFO     :
+PCG-D   :
+CFR     :
+HBMD    :
+EXIV    :
+PSA-F   :
+YRCW    :
+			11: 300
+			17.6: 600
+CFRX    :
+MIDU    :
+36.17: 1100	36.71: 1100
+YRD     :
+CFX     :
+GARS    :
+FLAG    :
+CG      :
+GAL     :
+GATX    :
+RMED    :
+			9: 5
+CGBD    :
+MCEF    :
+CGC     :
+47.15: 110	47.75: 17
+47.12: 100	48: 16
+47: 25	48.38: 900
+46.89: 100	48.8: 900
+46.75: 26	49.12: 60
+46.58: 100	50: 75
+7.67: 52	50.75: 11
+			52.37: 1
+			53.5: 20
+			55: 100
+			58: 10
+			75: 4
+FSD     :
+HBM     :
+SRCI    :
+CGEN    :
+3.57: 641	3.65: 947
+MITT-B  :
+GAM-B   :
+RXN     :
+CGIX    :
+			0.5819: 6
+MIND    :
+CGO     :
+PHX     :
+HMNF    :
+CGVIC   :
+PBT     :
+6.66: 10
+6.57: 1
+6.54: 1
+5.53: 1
+HLTH    :
+CHA     :
+ESXB    :
+CHAC=   :
+PICB    :
+HOMB    :
+GCI     :
+TMO     :
+212.02: 2
+206.18: 6
+200.35: 10
+194.51: 20
+CHAD    :
+EYEN    :
+SNE     :
+CHAP    :
+FSV     :
+TTEK    :
+			49.81: 200
+CHCI    :
+PIE     :
+FPEI    :
+CHCO    :
+GBIL    :
+CHD     :
+PIXY    :
+GCC     :
+FTAC    :
+0.2: 10000
+0.15: 10000
+0.1: 10000
+0.05: 10000
+TUZ     :
+CHDN    :
+PILL    :
+CHE     :
+HCI     :
+CHEF    :
+			37: 5
+FSTA    :
+HOG     :
+SNSR    :
+CHEKW   :
+HCA     :
+SRE-A   :
+CHEKZ   :
+SMEZ    :
+ETSY    :
+SRNE    :
+CHFC    :
+PJUL    :
+HPQ     :
+			24: 50
+SNX     :
+CHFS    :
+CHGG    :
+MLPE    :
+GDOT    :
+CHGX    :
+MLND    :
+FALN    :
+CHI     :
+FTEO    :
+GCV     :
+TMST    :
+FRBA    :
+CHIC    :
+GDMA    :
+RODM    :
+CHIH    :
+CHII    :
+FTHI    :
+HDS     :
+SSL     :
+30.34: 200	30.47: 200
+30.31: 300	30.51: 300
+30.03: 9000	30.8: 9000
+CHIK    :
+MLQD    :
+FTEC    :
+SAGE    :
+CHIL    :
+MLPG    :
+CHIQ    :
+PKG     :
+HPF     :
+CHIR    :
+HCP     :
+CHIU    :
+EURZ    :
+CHIX    :
+PKW     :
+HRZN    :
+GECCM   :
+TOTAR   :
+CHK     :
+2.76: 1000	2.85: 10
+1.81: 150	3: 1509
+			3.01: 15
+			4.1: 5
+			9: 42
+FBC     :
+SOI     :
+CHK-D   :
+FTSL    :
+TWLVU   :
+CHKP    :
+PLAN    :
+FRO     :
+5.22: 100	5.26: 100
+5.08: 1000	5.38: 1000
+			6.75: 200
+			7.5: 100
+CHKR    :
+GDV-A   :
+CHMA    :
+PLOW    :
+GECC    :
+FTV-A   :
+JAG     :
+TXT     :
+CHMG    :
+PLCY    :
+CHMI    :
+HEP     :
+CHMI-A  :
+FTSD    :
+HROW    :
+SP      :
+CHNA    :
+HE-U    :
+SSO     :
+103.1: 500	103.19: 600
+			103.21: 600
+			103.23: 600
+CHNR    :
+SNBR    :
+EVH     :
+SSW-H   :
+CHRS    :
+PETX    :
+HFBC    :
+SPAQ+   :
+CHRW    :
+79: 130	90: 12
+FUTY    :
+SBCF    :
+CHS     :
+MFCB    :
+FCA     :
+PTNR    :
+3.99: 5000	4.73: 5000
+CHSCL   :
+MMP     :
+CHSCN   :
+FULT    :
+GEM     :
+TOUR    :
+FLTR    :
+CHSCO   :
+GES     :
+RRGB    :
+CHSP    :
+MFA     :
+7.27: 2
+6.9: 10
+FUND    :
+RPIBC   :
+CHT     :
+LYG     :
+2.94: -1100	2.95: 30000
+2.93: 31900	2.97: 90000
+2.92: 50000	2.99: 50000
+2.91: 50000	3: 50000
+2.9: 50000	3.01: 50000
+2.89: 50000
+2.4: 2000
+2.28: 3000
+HF      :
+STCN    :
+CHTR    :
+GENC    :
+SBBX    :
+CHU     :
+CHW     :
+HSRT    :
+HSC     :
+11.5: 100
+PPH     :
+CHY     :
+PEI-D   :
+CIA     :
+LYB     :
+EVSTC   :
+CIB     :
+HTLD    :
+GGO     :
+TREC    :
+CIBR    :
+PAI     :
+FCO     :
+SPEM    :
+CIC     :
+PAF     :
+FWDB    :
+TZA     :
+11.42: 2100	11.44: 4800
+11.41: 2100	11.45: 6900
+11.4: 2100	11.46: 2100
+11.39: 2100	11.47: 2100
+11.38: 2100	11.48: 2100
+11.37: 2100	11.49: 2100
+11.36: 2100	11.5: 2100
+11.35: 2100	11.51: 2100
+11.13: 4800	11.59: 4800
+FFA     :
+CIC=    :
+CID     :
+GFI     :
+4.01: 2000	4.03: 1500
+3.99: 100	4.08: 10000
+3.96: 10000	4.95: 1200
+			5.05: 32
+			5.25: 32
+CIEN    :
+GGN     :
+FWONK   :
+UBNT    :
+CIF     :
+CIFS    :
+PASS    :
+HHC     :
+CIG     :
+PAK     :
+FVE     :
+HTGM    :
+SPLP    :
+CIGI    :
+SCL     :
+HFFG    :
+STI     :
+CII     :
+EWI     :
+STM     :
+16.05: 2800	16.09: 500
+16.04: 300	16.11: 3000
+16.02: 1000	16.12: 2000
+15.95: 900	16.13: 2000
+			22.69: 2000
+CIL     :
+HURN    :
+SPMO    :
+CIM     :
+MAS     :
+CIM-A   :
+GHYG    :
+CIM-B   :
+FDIV    :
+FFTI    :
+CIM-D   :
+FXI     :
+GGT-E   :
+TRHC    :
+			59.04: 20
+CINF    :
+PANL    :
+GHY     :
+RVRS    :
+CIO     :
+MARPS   :
+CIO-A   :
+MB      :
+FXP     :
+HIO     :
+STRO    :
+CIR     :
+FXG     :
+SCE-B   :
+CISN    :
+CIVB    :
+HUNT    :
+CIVBP   :
+PAVM    :
+HIE     :
+CIVI    :
+MAYS    :
+EWV     :
+CIX     :
+HYAC    :
+GJH     :
+TRV     :
+			129.5: 10
+CIZ     :
+PBHC    :
+FE      :
+36.67: 5
+SPRO    :
+CIZN    :
+PBD     :
+GAA     :
+UCBI    :
+FI      :
+CJJD    :
+CJNK    :
+GIG+    :
+CKPT    :
+GIM     :
+GAB-H   :
+UFAB    :
+CKX     :
+CL      :
+PBR     :
+HLIT    :
+CLAR    :
+PBI     :
+FYX     :
+HWKN    :
+SPXN    :
+CLBK    :
+SDT     :
+HIX     :
+STT-C   :
+CLBS    :
+EXP     :
+SUB     :
+CLD     :
+0.393: 200	0.4275: 13650
+0.385: 115	0.45: 5
+0.3699: 5	0.4602: 49
+0.3587: 3	0.478: 300
+0.33: 148	0.5: 90
+0.3101: 2500	0.51: 3439
+			0.52: 60606
+			0.65: 402
+			6: 1500
+PHM     :
+HMSY    :
+SPXV    :
+CLDC    :
+MCEP    :
+CLDR    :
+12.8: 3	14.5: 1
+10.5: 1
+MINC    :
+GBAB    :
+CLDT    :
+18.6: 20
+FEU     :
+FIS     :
+CLF     :
+GARD    :
+GJS     :
+TRXC    :
+2.4: 50	2.95: 42
+			5: 10
+			5.4: 2
+			6: 1
+FORD    :
+CLFD    :
+PBJ     :
+RY-T    :
+WU      :
+CLGX    :
+MIDZ    :
+13.06: 3400	13.43: 3400
+GASX    :
+RWVG    :
+WUBA    :
+CLH     :
+MCN     :
+CLI     :
+HMST    :
+CLIR    :
+GKOS    :
+CLLS    :
+16.64: 100	16.86: 100
+16.37: 1000	16.87: 100
+			17.12: 1000
+CLMT    :
+GBX     :
+EYLD    :
+PLW     :
+CLNC    :
+MCK     :
+CLNE    :
+INGR    :
+TTM     :
+CLNY    :
+			6.1: 1600
+PCI     :
+SQLV    :
+CLNY-B  :
+PCG-C   :
+FIZZ    :
+CLNY-G  :
+GBR     :
+CLNY-H  :
+SRI     :
+CLNY-I  :
+PCG-H   :
+CLNY-J  :
+CLPR    :
+GCBC    :
+CLPS    :
+PCSB    :
+HOLX    :
+INOV    :
+GBLIL   :
+TMK-C   :
+CLR     :
+PCK     :
+L       :
+SRG     :
+CLRBW   :
+SFBS    :
+CLRBZ   :
+HMY     :
+1.98: 2400	2: 2500
+1.96: 15000	2.04: 15000
+			3.15: 32
+GDI     :
+TMSR    :
+CLRG    :
+PCOM    :
+CLRO    :
+FAN     :
+SRLP    :
+CLS     :
+MDLZ    :
+CLSD    :
+CLSN    :
+GDEN    :
+LACQW   :
+FLDR    :
+CLUB    :
+TTP     :
+CLVS    :
+PCN     :
+CLW     :
+30: 62
+SAIA    :
+CLWT    :
+MDLY    :
+3.75: 6
+GDL-C   :
+RNST    :
+CLX     :
+MDWD    :
+CLXT    :
+HPP     :
+CM      :
+GD      :
+CMBS    :
+HON     :
+PNBK    :
+CMC     :
+PCYG    :
+CMCL    :
+GDXX    :
+FBIO    :
+PNR     :
+CMCM    :
+MDU     :
+CMCO    :
+INWK    :
+TWMC    :
+CMCSA   :
+PEB-D   :
+SRV     :
+CMCT    :
+PDP     :
+FLIO    :
+CMD     :
+			79: 113
+GDXJ    :
+CMDY    :
+SSW-D   :
+CME     :
+PE      :
+CMF     :
+CMFN    :
+GEC     :
+2.9: 100
+CMFNL   :
+PEGI    :
+HRTX    :
+IOTS    :
+GDVD    :
+TOTA    :
+CMG     :
+470: 1
+PEB-E   :
+LBTYA   :
+SSTK    :
+CMLS    :
+SGU     :
+CMO     :
+HPT     :
+CMP     :
+FCAP    :
+HT      :
+SSW-G   :
+CMPR    :
+MFA-B   :
+CMRE    :
+GEX     :
+CMRE-B  :
+GENY    :
+LCUT    :
+FLN     :
+CMRE-D  :
+TWO     :
+12.75: 4
+CMRE-E  :
+PEBO    :
+CMS     :
+IBN     :
+9.7: 1
+CMS-B   :
+URR     :
+CMSA    :
+IUSG    :
+IBMH    :
+QTS-A   :
+CMSC    :
+ITRM    :
+GNMX    :
+SLRC    :
+CMSSR   :
+MTT     :
+CMSSU   :
+GNC     :
+			3.7: 15
+CMT     :
+CMTA    :
+MTZ     :
+41: 100
+38: 10
+37.5: 10
+37.1: 10
+GOOD    :
+MLP     :
+CMTL    :
+ICLK    :
+			5.9: 50
+CMU     :
+EIRL    :
+ICD     :
+TI      :
+5.21: 1800	5.23: 3000
+5.2: 1800	5.24: 700
+5.19: 7800	5.25: 7800
+5.17: 1800	5.27: 1800
+5.16: 1800	5.28: 1800
+			5.29: 1800
+CN      :
+MTSL    :
+TANNL   :
+CNA     :
+MUC     :
+IBUY    :
+KNSL    :
+DWAT    :
+CNAC    :
+ICHR    :
+TIBRW   :
+CNACU   :
+MUS     :
+MLPQ    :
+TBK     :
+CNACW   :
+MUE     :
+CNAT    :
+CNBKA   :
+USATP   :
+CNC     :
+MUB     :
+CNCE    :
+GOGO    :
+KOLD    :
+19.34: 100	19.4: 800
+19.32: 700	19.68: 100
+19.3: 700
+19: 700
+USAC    :
+CNCR    :
+PSCM    :
+USB-H   :
+CNET    :
+MVF     :
+CNF     :
+GPK     :
+10.25: 10
+IDHQ    :
+RILY    :
+CNFR    :
+IWD     :
+ELOX    :
+SMLF    :
+CNFRL   :
+IVR-B   :
+CNHI    :
+10.04: 1500	10.06: 1500
+10.01: 3000	10.08: 3000
+IDA     :
+CNHX    :
+DX      :
+CNI     :
+ICON    :
+CNMD    :
+IDEX    :
+CNNE    :
+USLM    :
+CNO     :
+IWS     :
+RAVI    :
+CNOB    :
+IWF     :
+CNP     :
+29.3: 25	30.8: 25
+24: 50
+23: 50
+22: 50
+21.5: 100
+21: 50
+20: 50
+19: 50
+18: 50
+17: 50
+GPC     :
+SMLP    :
+			15.8: 32
+CNP-B   :
+MVV     :
+35.8: 2200	36.4: 2200
+CNQ     :
+CNSL    :
+CNST    :
+MXDE    :
+GRAF=   :
+MMT     :
+CNTF    :
+			2.35: 1370
+IDXX    :
+CNTY    :
+5.8: 30
+EMD     :
+IDT     :
+TLF     :
+CNX     :
+MVT     :
+TC      :
+CNXM    :
+MXI     :
+IDMO    :
+KSA     :
+DY      :
+CNXN    :
+IDX     :
+TLK     :
+CNY     :
+MYJ     :
+SBGI    :
+MFG     :
+TCRW    :
+CNYA    :
+MYC     :
+CO      :
+COCP    :
+USOU    :
+CODA    :
+MXF     :
+			18.5: 200
+CODI    :
+14.28: 1	15: 60
+13.3: 500	16.9: 299
+11.3: 900
+GQRE    :
+KTH     :
+USMF    :
+CODI-A  :
+PTF     :
+USTB    :
+CODX    :
+			6.64: 3450
+MRNA    :
+COE     :
+GLDD    :
+5.5: 100	8: 20
+EMMF    :
+SID     :
+COF-C   :
+IYK     :
+COF-D   :
+IEI     :
+DRI     :
+COF-G   :
+IECS    :
+IEMG    :
+48: 2
+PZC     :
+COF-P   :
+IPLDP   :
+COG     :
+HYGH    :
+GLD     :
+123.91: 1000	124.33: 1000
+			124.34: 1000
+			124.35: 1000
+UUU     :
+COHN    :
+JASN    :
+IEFA    :
+RDFN    :
+COHR    :
+IZEA    :
+COKE    :
+MZZ     :
+GRIN    :
+			6.97: 300
+			7.12: 600
+COLB    :
+MPX     :
+GRBK    :
+COLL    :
+EEFT    :
+COLM    :
+NAII    :
+GS-B    :
+IFN     :
+SVT     :
+COM     :
+ENDP    :
+UFPT    :
+			34: 20
+COMB    :
+HYRE    :
+3.54: 500
+TDF     :
+COMM    :
+NAN     :
+EBIZ    :
+COMT    :
+IEUR    :
+CONN    :
+NAVB    :
+0.125: 100	0.24: 3000
+0.12: 100	0.25: 10
+0.115: 100
+0.105: 100
+IFLY    :
+HYXE    :
+TEDU    :
+COO     :
+NAOV    :
+COOP    :
+GLOP-A  :
+COP     :
+HYMB    :
+GRX-A   :
+UJAN    :
+COR     :
+GLDW    :
+UVSP    :
+CORE    :
+PVI     :
+EFAD    :
+UZA     :
+CORP    :
+NBIX    :
+GSEW    :
+UL      :
+52.78: 600	52.83: 1600
+52.76: 700	52.88: 600
+52.74: 100	52.92: 4500
+52.67: 4500	53.29: 100
+51.93: 100
+CORR    :
+CORR-A  :
+JDD     :
+IGLD    :
+0.5987: 15885	0.6899: 1500
+0.5986: 1500
+CORT    :
+JCO     :
+ENSV    :
+			0.6: 2
+COST    :
+IAI     :
+IG      :
+SWCH    :
+ECF-A   :
+COT     :
+IGIH    :
+QHC     :
+COUP    :
+COW     :
+IAU     :
+12.35: 1
+GLV     :
+VBK     :
+COWN    :
+14.35: 10
+JEMD    :
+IAG     :
+REM     :
+COWNL   :
+24.1: 300	25.38: 100
+			25.68: 100
+JDIV    :
+COWZ    :
+NBR     :
+1.5: 80	4.22: 1500
+GSBD    :
+CP      :
+GLP     :
+CPAC    :
+EFT     :
+12.75: 500
+CPAH    :
+NBW     :
+GSUM    :
+			9999: 10
+			19999: 10
+IHG     :
+58.29: 800	58.4: 306
+58.28: 100	58.41: 200
+58.06: 3000	58.46: 300
+57.98: 100	58.65: 3000
+SYNC    :
+CPB     :
+32.26: 50
+EOLS    :
+UMC     :
+CPE     :
+IBDM    :
+TESS    :
+CPER    :
+NCB     :
+EDD     :
+CPF     :
+IGR     :
+CPHC    :
+NCV     :
+IHE     :
+IBDQ    :
+MINT    :
+TGNA    :
+CPHI    :
+			0.3056: 415
+			0.88: 290
+NCMI    :
+CPI     :
+GMS     :
+CPIX    :
+IBDK    :
+GSM     :
+UNMA    :
+CPL     :
+15.65: 40
+GM+B    :
+VBTX    :
+CPLG    :
+PYPE    :
+EGRX    :
+VCTR    :
+CPRI    :
+MTRN    :
+GNRX    :
+UNVR    :
+CPRT    :
+IBO     :
+RFI     :
+CPRX    :
+ITRI    :
+EPR-C   :
+SLP     :
+CPS     :
+JHMF    :
+CPSI    :
+IBMJ    :
+IHTA    :
+SYRS    :
+DVA     :
+CPSS    :
+IIIV    :
+QTUM    :
+CPT     :
+ITGR    :
+IBMN    :
+QTEC    :
+CPTA    :
+INN-E   :
+GNRC    :
+VERI    :
+CPTAG   :
+IHYV    :
+RFG     :
+CPTAL   :
+CQQQ    :
+GTN.A   :
+GSY     :
+SEMG    :
+CR      :
+MTEM    :
+CRAK    :
+INN-D   :
+EIX     :
+46: 5	57.28: 150
+			67: 1
+CRAY    :
+GVA     :
+IMAX    :
+TAOP    :
+CRBN    :
+MNR-C   :
+EQL     :
+UPWK    :
+CRBP    :
+MNI     :
+ICCH    :
+THM     :
+			0.63: 2
+CRCM    :
+DLN     :
+CRD.A   :
+IIVI    :
+CREE    :
+ILPT    :
+ICFI    :
+TIP     :
+CREG    :
+CRESY   :
+MOC     :
+GOLF    :
+CREX    :
+MNRO    :
+ICBK    :
+GUT     :
+USAT    :
+CRF     :
+PLXP    :
+GNTX    :
+VEU     :
+CRH     :
+28.65: 300	28.71: 700
+28.64: 400	28.72: 100
+28.61: -600	28.74: 400
+28.57: 4500	28.79: 4500
+ELSE    :
+VG      :
+			9.35: 1
+CRI     :
+GYB     :
+USB-A   :
+CRIS    :
+INUV    :
+			2.21: 32
+CRK     :
+IMOS    :
+CRL     :
+ERIC    :
+8.83: 3000	8.84: 1400
+8.82: 600	8.85: 600
+8.78: 15000	8.86: 3000
+8.77: 15000	8.87: 3000
+8.76: 9600	8.9: 15000
+8.75: 7800	8.91: 11900
+8.74: 6200	8.92: 15000
+			8.93: 15000
+			8.98: 200
+			9.41: 65
+DLX     :
+CRMD    :
+1.69: 150	1.9: 6
+			2: 190
+			2.01: 150
+			2.2: 1500
+			2.26: 128
+			10: 50
+ICVT    :
+IMFI    :
+TARO    :
+CRMT    :
+MNTX    :
+IMO     :
+RBB     :
+CRNX    :
+INTU    :
+1.01: 5000	212: 42
+CROC    :
+IONS    :
+41: 100
+IDEV    :
+GPJA    :
+VICL    :
+CRON    :
+16.2: 25
+ICSH    :
+RIGS    :
+CROP    :
+CRR     :
+GWX     :
+CRS     :
+MOG.A   :
+GOODP   :
+CRT     :
+IO      :
+EMEM    :
+CRTO    :
+HAO     :
+INDL    :
+TCBIP   :
+CRUS    :
+MOV     :
+ESEA    :
+USEG    :
+CRUSC   :
+MOS     :
+IDSY    :
+TKC     :
+6.92: 2300	6.96: 5000
+6.91: 15000	6.97: 2000
+			7: 15000
+DNJR    :
+CRVS    :
+CRWS    :
+IMTE    :
+CRZO    :
+INDA    :
+IDV     :
+TLT     :
+CS      :
+12.41: 3000	12.44: 1500
+12.39: 1500	12.45: 3000
+			12.48: 1500
+CSA     :
+MPV     :
+GRAF+   :
+CSB     :
+MOXC    :
+0.511: 100
+IDRA    :
+			8.6: 2000
+HAIR    :
+USOI    :
+CSCO    :
+42.71: 100	46.14: 100
+42.7: 50
+42.69: 100
+PNRL    :
+GPMT    :
+18.62: 57
+VIGI    :
+CSD     :
+EMO     :
+9.01: 500
+VISI    :
+CSFL    :
+MYOV    :
+GRNQ    :
+UST     :
+CSGP    :
+IPO     :
+CSGS    :
+IYZ     :
+IEO     :
+CSII    :
+ESL     :
+113: 1
+DOMO    :
+9.66: 1000
+CSL     :
+IEHS    :
+INFI    :
+TCF     :
+EAGG    :
+CSLT    :
+MPB     :
+RDIB    :
+CSML    :
+IYLD    :
+IEME    :
+RCON    :
+CSOD    :
+50.5: 10
+47.06: 10
+IQDF    :
+CSPI    :
+			13.95: 25
+GRNB    :
+CSQ     :
+INFR    :
+CSSE    :
+CSTE    :
+IFFT    :
+ENG     :
+			1.4: 100
+SCJ     :
+CSTM    :
+IQDE    :
+CSTR    :
+LXP-C   :
+TDIV    :
+CSU     :
+MRTN    :
+UTHR    :
+CSV     :
+14: 10
+MRLN    :
+DQML    :
+CSWCL   :
+			26.15: 100
+IFEU    :
+CSWI    :
+UXIN    :
+CSX     :
+MRRL    :
+CTAA    :
+CTAC    :
+IFIX    :
+CTACU   :
+MS-G    :
+GS-A    :
+			23.5: 222
+LZB     :
+IEX     :
+SVRA    :
+CTACW   :
+MRTX    :
+			75.28: 100
+JJS     :
+UWT     :
+13.42: 1400	13.43: 1400
+13.41: 1400	13.44: 1400
+13.4: 1400	13.49: 100
+13.33: 100	13.8: 4
+12.01: 100	13.87: 1
+			14.07: 6
+			16: 2
+CTB     :
+PPX     :
+CTBB    :
+GRPN    :
+IGHG    :
+SWAN    :
+CTBI    :
+MS-A    :
+CTDD    :
+ENTG    :
+UYM     :
+CTEK    :
+IRWD    :
+CTG     :
+			4.89: 110
+CTHR    :
+IGEB    :
+JKH     :
+DRUA    :
+CTIC    :
+TDTF    :
+CTK     :
+			12.95: 55
+MS      :
+42.12: 1	43.32: 100
+42: 100	43.33: 15
+41.89: 100	43.37: 100
+41: 55	50.17: 2000
+39.2: 26
+CTL     :
+REN     :
+CTLT    :
+IRTC    :
+IGIB    :
+QED     :
+CTMX    :
+ISEM    :
+CTO     :
+GSEU    :
+CTR     :
+IGD     :
+CTRC    :
+GS-J    :
+SDG     :
+CTRE    :
+MSB     :
+CTRL    :
+IHC     :
+			40: 10
+EP-C    :
+SDRL    :
+8.92: 100	9.09: 100
+8.81: 300	9.17: 300
+7.85: 300
+CTRN    :
+ISDX    :
+CTRP    :
+MATX    :
+TEVA    :
+19.73: 2754	19.86: 2060
+19.7: 416	20.11: 2000
+17.5: 220	20.2: 200
+15.11: 25	26.4: 200
+11.93: 700
+CTRV    :
+MTB     :
+VAM     :
+CTS     :
+MSM     :
+DSPG    :
+			13.5: 100
+CTSO    :
+IGVT    :
+CTT     :
+8.65: 25
+VCR     :
+CTV     :
+MSUS    :
+CTWS    :
+CTXR    :
+IHDG    :
+CTXRW   :
+MTDR    :
+GSSC    :
+MBFIO   :
+IGT     :
+SYNA    :
+CTXS    :
+1.01: 500000
+MTB-    :
+JNJ     :
+129.86: 299	131: 298
+127.52: 150	145: 10
+127.3: 1	146.64: 4
+125: 1
+120: 18
+115: 150
+112.25: 2
+109.86: 20
+103.4: 50
+86.2: 10
+1.01: 5000
+VCLT    :
+CTZ     :
+PRMW    :
+			15.5: 20
+CUB     :
+GSHD    :
+CUBE    :
+EPRF    :
+GTX     :
+VCSH    :
+CUBI    :
+ITI     :
+CUBI-C  :
+IIM     :
+CUBI-D  :
+IIF     :
+JOF     :
+DTLA-   :
+CUBI-F  :
+TFLO    :
+CUE     :
+MTBCP   :
+CUK     :
+55.89: 680	56.01: 100
+55.88: 1000	56.02: 100
+55.71: 6700	56.15: 6700
+HEWW    :
+CULP    :
+TRCH    :
+CUMB    :
+KBR     :
+HEWC    :
+PPLT    :
+77.22: 500	77.5: 500
+CUO     :
+KBAL    :
+FUT     :
+SBIO    :
+CURE    :
+NNN     :
+CURO    :
+			12.8: 2
+FUD     :
+CUTR    :
+CUZ     :
+NNY     :
+FXCH    :
+LTHM    :
+CVA     :
+HGSH    :
+CVBF    :
+DRIV    :
+HFXE    :
+STK     :
+CVCO    :
+NNI     :
+SPHD    :
+CVCY    :
+NOC     :
+HFBL    :
+JCAP    :
+ENR     :
+CVE     :
+HGI     :
+STL-A   :
+CVGI    :
+NP      :
+LTRPA   :
+SPOT    :
+132: 100	136.81: 100
+92.37: 100	136.82: 5
+83: 25	136.86: 100
+			149.25: 300
+CVGW    :
+NOM     :
+CVI     :
+			42.41: 200
+CVIA    :
+TRIP    :
+CVLT    :
+NOBL    :
+CVLY    :
+FWRD    :
+JCS     :
+TREX    :
+47.5: 50
+CVM     :
+REK     :
+TRMK    :
+CVR     :
+NRC     :
+CVRS    :
+0.85: 1	1.29: 8
+FXZ     :
+HILO    :
+PWB     :
+CVS     :
+64.51: 35	66.21: 40
+63.34: 10	67: 1
+60.22: 300	67.3: 100
+59.5: 3
+KEY     :
+DSGX    :
+SCE-J   :
+CVTI    :
+KELYB   :
+CVU     :
+HIG+    :
+CVV     :
+ENZL    :
+CVX     :
+HI      :
+CW      :
+HIIQ    :
+CWAI    :
+TRUE    :
+CWB     :
+KFS     :
+PRID    :
+CWBC    :
+KEY-I   :
+CWBR    :
+FXS     :
+SCE-L   :
+CWCO    :
+NRGX    :
+CWEB    :
+CWEN.A  :
+CWH     :
+NRP     :
+GAINM   :
+LXFR    :
+CWI     :
+HLG     :
+			50: 100
+CWK     :
+DTD     :
+HJV     :
+STWD    :
+20.92: 1
+CWS     :
+NRG     :
+SPTS    :
+CWST    :
+NS-A    :
+HIVE    :
+			5.98: 2000
+JHMA    :
+EPM     :
+CWT     :
+35: 30
+34: 30
+33: 30
+32: 30
+31: 30
+30: 30
+HL-B    :
+STZ.B   :
+CXDC    :
+NSPR+   :
+SLNO    :
+LLEX    :
+SPYV    :
+CXE     :
+NSA-A   :
+CXH     :
+CXO     :
+TSCAP   :
+CXP     :
+NS      :
+24: 1
+CXSE    :
+GABC    :
+JHMM    :
+TRVN    :
+CXW     :
+RFDI    :
+TSG     :
+CYAD    :
+21.61: 100	22.08: 100
+20.97: 300	22.77: 300
+NGS     :
+CYAN    :
+FSMB    :
+DTY     :
+RYAM-A  :
+CYBE    :
+KIO     :
+14.77: 200
+CYBR    :
+HMHC    :
+EIG     :
+CYCCP   :
+HLNE    :
+HMN     :
+PLUG    :
+CYH     :
+			4.6: 187
+JPC     :
+7.81: 16
+CYOU    :
+HBB     :
+FSM     :
+TTGT    :
+CYRN    :
+2.3: 1398	2.83: 2642
+			3.39: 5000
+KMI     :
+HLX     :
+PSA     :
+CYRX    :
+KLDW    :
+CYTK    :
+NTEST   :
+GAZ     :
+CYTR    :
+NFTY    :
+GAM     :
+CYTXZ   :
+DLR-J   :
+CZA     :
+NTG     :
+GCP     :
+HOLD    :
+SNN     :
+37.7: 700	37.73: 300
+37.69: 700	37.87: 4500
+37.6: 4500
+37.58: 100
+CZFC    :
+DVEM    :
+TM      :
+CZNC    :
+CZR     :
+NTES    :
+238.1: 45	286: 600
+238: 1
+237: 190
+235.3: 2
+235.01: 105
+231: 10
+230: 50
+HNNA    :
+HCC     :
+			30: 100
+SRCE    :
+CZWI    :
+NTIP    :
+ERC     :
+CZZ     :
+4: 200
+3: 300
+HMTA    :
+DAC     :
+NTSX    :
+HOFT    :
+HCCHW   :
+SRT     :
+DAG     :
+NTP     :
+DAIO    :
+FTC     :
+DAKT    :
+HCAP    :
+GCE     :
+TNA     :
+54.44: 1900	54.53: 1800
+54.43: 1900	54.54: 1300
+54.42: 1900	54.55: 900
+54.41: 1900	54.56: 500
+54.39: 500	54.57: 500
+			54.58: 500
+			54.93: 1400
+DALI    :
+FSS     :
+TTNP    :
+DALT    :
+RIDV    :
+DMRS    :
+TUP     :
+DAR     :
+NUE     :
+GDV     :
+TNET    :
+DARE    :
+DATA    :
+KOOL    :
+0.27: 3000	1: 800
+			2.66: 28073
+			2.96: 500
+HPI     :
+DAUD    :
+KODK    :
+			4: 6
+DWIN    :
+DAVE    :
+HCXZ    :
+HOME    :
+SNP     :
+ESBA    :
+DAX     :
+HPE     :
+PNNT    :
+			10.66: 1000
+DBA     :
+DBAP    :
+HDEF    :
+FTNT    :
+TWLVW   :
+DBAW    :
+KPTI    :
+HCSG    :
+PSEC    :
+DBB     :
+KOP     :
+DBD     :
+NUM     :
+GDO     :
+DBE     :
+FTDR    :
+DBEM    :
+DOG     :
+57.83: 2000	58.08: 2000
+DBEU    :
+NURE    :
+GEL     :
+21.05: 300
+HRS     :
+SOR     :
+DBEZ    :
+DXC     :
+TOK     :
+DBGR    :
+HEBT    :
+SSKN    :
+DBKO    :
+NUSA    :
+ESGU    :
+DBL     :
+HPR     :
+DBO     :
+NVFY    :
+HRL     :
+29.5: 400
+HEES    :
+LPTX    :
+			3.8: 1000
+SSYS    :
+DBP     :
+NUW     :
+DBS     :
+FTXL    :
+DBUK    :
+HEAR    :
+GECCL   :
+TPB     :
+DBVT    :
+6.38: 200	6.42: 1200
+6.37: 400	6.43: 1200
+6.36: 900	6.52: 1000
+6.35: 100
+6.33: 1200
+6.3: 1000
+FTS     :
+TWNK    :
+DBX     :
+RLY     :
+DPST    :
+TWTR    :
+31.93: 700	32.21: 100
+31.92: 100	32.22: 250
+31.64: 50	32.23: 100
+27: 200	32.71: 500
+21.31: 1300	32.98: 100
+			33: 140
+			34: 100
+			35.25: 100
+			39.25: 90
+			41.36: 500
+			43.86: 1400
+			48.14: 100
+DCF     :
+NNA     :
+FVAL    :
+TPGH+   :
+DCHF    :
+HEXO    :
+PTLA    :
+25.05: 25	27.36: 80
+24.55: 25	28: 68
+24.24: 200
+12.7: 200
+DCI     :
+KBA     :
+DYNT    :
+SBH     :
+DCIX    :
+KSU-    :
+DCOM    :
+HEWI    :
+HSBC    :
+42.5: 239	42.56: 500
+42.48: 400	42.57: 100
+42.47: 400	42.6: -140
+39: 220	42.61: -906
+35: 220	42.62: 3000
+			45.17: 300
+			55: 6
+SOXS    :
+9.07: 150
+EMXC    :
+DCP     :
+HSPX    :
+PPSC    :
+DCP-C   :
+KALU    :
+HEWU    :
+PPG     :
+DCPH    :
+JHX     :
+FV      :
+TZAC    :
+DCUD    :
+HSCZ    :
+PTIE    :
+			1.28: 100
+DD-A    :
+DDBI    :
+GEVO    :
+			9.99: 500
+			12.63: 7
+GEN     :
+			1.75: 3
+RPM     :
+DDD     :
+NMFX    :
+DDEZ    :
+JHSC    :
+DRQ     :
+DDF     :
+GGT-B   :
+HTGX*   :
+SPI     :
+DDG     :
+NEBUU   :
+EAI     :
+TPVG    :
+			12.7: 2
+DDIV    :
+NDRA    :
+HFWA    :
+STC     :
+EDOW    :
+DDLS    :
+DDM     :
+39: 1500	50: 1500
+HT-C    :
+DDMXU   :
+HTGC    :
+HGH     :
+STNE    :
+DDMXW   :
+DDP     :
+NEM     :
+FXC     :
+74.3: 2000	74.66: 2000
+74.29: 2000	74.67: 2000
+74.28: 2000
+DDS     :
+NEBUW   :
+HFGIC   :
+GGN-B   :
+TRIL    :
+DDWM    :
+PZN     :
+FVD     :
+UA      :
+DE      :
+137.5: 70
+100.19: 100
+DSKEW   :
+UBCP    :
+DECK    :
+GIG     :
+TRMD    :
+DEEF    :
+JKL     :
+DEF     :
+HUNTU   :
+DEFA    :
+EBR.B   :
+EEM     :
+DELL    :
+HIG     :
+HTLF    :
+SPLB    :
+DELT    :
+			6: 1000
+NEE-J   :
+HUN     :
+PRIM    :
+DEMG    :
+JKK     :
+DENN    :
+16.99: 400	19: 5
+			20: 100
+JMLP    :
+HII     :
+			206.45: 44
+FXY     :
+87.24: 2000	87.36: 2000
+87.23: 2000	87.37: 2000
+87.22: 2000	87.38: 2000
+			87.39: 2000
+UCC     :
+DEO     :
+144.63: 300	144.79: 100
+144.6: 179	144.81: 100
+144.55: 100	144.99: 600
+144.23: 600
+HIFR    :
+PW-A    :
+DERM    :
+DESC    :
+GHYB    :
+DESP    :
+NEON    :
+FXF     :
+93.45: 1000	93.58: 1000
+93.44: 1000	93.59: 1000
+93.43: 1000	93.6: 1000
+93.42: 1000
+DEUR    :
+JMIN    :
+DTEC    :
+DEUS    :
+GJR     :
+HX      :
+SPVU    :
+DEW     :
+NEXT    :
+ECNS    :
+TRPX    :
+DEWJ    :
+NEWA    :
+HJPX    :
+STRM    :
+EFBI    :
+DEZU    :
+DF      :
+			5.03: 25
+HUSA    :
+DFBHU   :
+HWCPL   :
+HL      :
+SUNS    :
+DFBHW   :
+DFE     :
+NFLT    :
+GAINL   :
+DFEN    :
+NFBK    :
+HJLI    :
+GIS     :
+TSC     :
+DFIN    :
+			15: 1
+QLC     :
+FYT     :
+UCIB    :
+DFJ     :
+DUC     :
+UEC     :
+DFNL    :
+NTB     :
+GBF     :
+TSEM    :
+14.48: 1501	14.86: 1097
+14.47: 1450	14.87: 100
+13.89: 200
+DFP     :
+JPED    :
+DFRG    :
+KLAC    :
+101.2: 154	106.8: 50
+1.01: 5000
+HMNY    :
+0.0104: 4000	0.016: 160563
+0.0103: 16500	0.0209: 207000
+0.0011: 500000	0.08: 100000
+0.001: 50000	0.09: 80000
+			20: 100000
+			30: 99000
+			6000: 1000
+DFS     :
+EDI     :
+EFZ     :
+DFVS    :
+HMG     :
+HYACU   :
+SPXC    :
+EQC     :
+DG      :
+NFC=    :
+PSA-C   :
+DGBP    :
+KIQ     :
+HMLP-A  :
+PRTO    :
+DGICA   :
+JPI     :
+DGICB   :
+GBDC    :
+DGII    :
+HYD     :
+DGLD    :
+			49.2: 8
+DGP     :
+HNP     :
+DVN     :
+RMNI    :
+DGRE    :
+JPHY    :
+DGRO    :
+KTOS    :
+SRDX    :
+DGRS    :
+NHF     :
+TSS     :
+DGRW    :
+NGLS-A  :
+EHIC    :
+DGSE    :
+HNI     :
+DGT     :
+TTWO    :
+DGX     :
+NH      :
+			0.99: 28571
+DGZ     :
+DHDG    :
+HNW     :
+DHF     :
+NIB     :
+GCOW    :
+KWEB    :
+HNDL    :
+SNMP    :
+			2.5: 20
+			4.27: 67
+DHI     :
+			40.97: 10
+NHI     :
+INSM    :
+TTT     :
+DHR     :
+QUIK    :
+			1.66: 5000
+DHS     :
+GBLI    :
+HOV     :
+0.625: 3
+SNOAW   :
+DHT     :
+NHTC    :
+DHVW    :
+DWM     :
+TUES    :
+DHX     :
+JQC     :
+DHXM    :
+DHY     :
+HOPE    :
+INTF    :
+ELAN    :
+DIAL    :
+SRET    :
+DIAX    :
+NHS     :
+DIG     :
+PSI     :
+DIM     :
+JPXN    :
+HP      :
+PMX     :
+DIN     :
+JSD     :
+DINT    :
+GDS     :
+DIOD    :
+HONE    :
+DISCA   :
+GCVRZ   :
+RNWK    :
+DISCB   :
+NIE     :
+DISCK   :
+HRB     :
+DXF     :
+ROGS    :
+DISH    :
+JRVR    :
+DIT     :
+LANDP   :
+SSNC    :
+			55.5: 3
+DIV     :
+NLSN    :
+TVIX    :
+46.05: 300	46.24: 100
+46.04: 300	46.25: 550
+46.03: 300	46.28: 300
+46.02: 300	46.29: 300
+46.01: 300	46.3: 300
+46: 300	46.31: 300
+45.99: 300	46.32: 300
+45.98: 300	46.33: 300
+45.86: 200	46.34: 300
+45.85: 200	46.58: 200
+45.84: 200	46.59: 200
+45.83: 200	46.6: 200
+45.82: 200	46.61: 200
+45.6: 50	46.62: 200
+45.35: 1	47.5: 28
+45.15: 26	48.3: 33
+45: 141	49.73: 50
+44.5: 69	50.1: 50
+44: 110	52.16: 10
+43.33: 500	53.19: 200
+43.2: 300	54.19: 200
+43: 120	54.83: 50
+42.7: 1000	55.28: 88
+42.5: 5	57.62: 100
+40: 10	58: 100
+39: 100	69.56: 20
+38: 120	73.9: 200
+37: 100	90: 5
+36: 100	93: 10
+35: 100	100: 5
+34: 100	112: 30
+33: 100	135: 40
+26.5: 125	30000: 10
+DIVA    :
+NKSH    :
+ELY     :
+DIVC    :
+HQY     :
+DIVO    :
+TWO-E   :
+DIVY    :
+NLNK    :
+			2.99: 10000
+DJCI    :
+DJCO    :
+HRI     :
+DJD     :
+NM-G    :
+GEF.B   :
+LBAI    :
+HQH     :
+SONO    :
+DJP     :
+NLY     :
+IPB     :
+			26.5: 97
+			26.54: 100
+TWO-C   :
+DK      :
+RBCN    :
+			8.28: 90
+DKL     :
+GDV-G   :
+DKT     :
+DZK     :
+GFF     :
+TWST    :
+DL      :
+KALV    :
+			32.63: 800
+DLA     :
+HST     :
+DLB     :
+HSGX    :
+IPHS    :
+EMGF    :
+DLBS    :
+SSPY    :
+DLHC    :
+NLY-F   :
+DLNG-A  :
+DLNG-B  :
+TTD     :
+128: 1
+JPM-E   :
+DLPN    :
+IBKCP   :
+ICLN    :
+THW     :
+DLR-C   :
+ONCS    :
+DLR-G   :
+DLTH    :
+RZG     :
+MCS     :
+MDRR    :
+TISI    :
+DMB     :
+SAA     :
+DMDV    :
+DMF     :
+DMLP    :
+RZB     :
+JPS     :
+8.79: 1000
+JPMB    :
+VGK     :
+DMPI    :
+ONEY    :
+DMRC    :
+IDIV    :
+DMRI    :
+SAL     :
+JPUS    :
+DNBF    :
+DNL     :
+DNLI    :
+TWLV    :
+JT      :
+DNN     :
+TVE     :
+PDI     :
+DNOW    :
+DNR     :
+1.9: 300	2.1: 300
+			2.3: 20
+			2.49: 99
+			2.51: 60
+			5.42: 1
+			100000: 2600
+IEA     :
+TLEH    :
+DO      :
+10.6: 500	12.4: 50
+			13: 50
+			14.75: 50
+OPTT    :
+			1.01: 1000
+			59.99: 1100
+DOC     :
+DOGZ    :
+SAP     :
+102.54: 678	102.61: 500
+102.53: 300	102.62: 1330
+102.52: -216	102.66: 100
+102.51: 434	103.09: 1500
+102.5: 1500	109.32: 50
+102.49: 332
+102.43: -240
+102.1: 1500
+96.45: 10
+MEET    :
+MFAC=   :
+TDA     :
+DOO     :
+SAUC    :
+DOOO    :
+DOOR    :
+DORM    :
+SANW    :
+JYNT    :
+JVA     :
+4.91: 100	9.42: 100
+VIXM    :
+DOVA    :
+			20.2: 86
+ORBK    :
+DOX     :
+			60: 100
+HYI     :
+DPG     :
+RS      :
+KALL    :
+DPZ     :
+DS-B    :
+SBRA    :
+HYLD    :
+KDP     :
+DSW     :
+IAC     :
+DTUL    :
+SCHL    :
+IBD     :
+KIM-L   :
+DUKH    :
+IJS     :
+DVYA    :
+RMTI    :
+IMKTA   :
+JPSE    :
+DWSH    :
+INB     :
+			11: 687
+DXJS    :
+ROL     :
+INFY    :
+			11: 5
+K       :
+EA      :
+69.73: 2	88: 250
+1.01: 5000	96.84: 10
+			132.5: 200
+EAB     :
+TX      :
+PESI    :
+EAGL    :
+EARN    :
+MFSF    :
+SUNW    :
+EARS    :
+0.35: 1100	0.72: 2000
+0.3: 2172	0.86: 400
+			2.99: 300
+			6: 2000
+RTEC    :
+EASG    :
+RRTS    :
+0.49: 5000	0.69: 100
+			1.5: 486
+			2.07: 100
+KBE     :
+EASI    :
+IEMD    :
+EAT     :
+EB      :
+29: 100
+RST     :
+KE      :
+			17.9: 50
+EBAY    :
+31.01: 100	34.2: 10
+31: 10	34.21: 100
+30.96: 100	35.29: 100
+			35.66: 50
+			35.98: 100
+KDMN    :
+UHS     :
+EBMT    :
+OCIO    :
+EBS     :
+TRN     :
+KELYA   :
+EBSB    :
+EBTC    :
+IFGL    :
+SVBI    :
+EC      :
+			41.03: 100
+OEW     :
+ECC     :
+RTM     :
+MG      :
+ECCA    :
+			25.58: 500
+ECCB    :
+TRMT    :
+PFNX    :
+ECH     :
+ECOL    :
+MHH     :
+SXI     :
+ECOM    :
+RWGE=   :
+ECON    :
+RVT     :
+KEY-J   :
+ECOR    :
+IGI     :
+ECR     :
+ECT     :
+RWED    :
+KIM-M   :
+ED      :
+KIM-K   :
+UNFI    :
+EDEN    :
+OHAI    :
+EDN     :
+IHD     :
+SYLD    :
+EDNT    :
+OIS     :
+EDOM    :
+RWK     :
+MHLD    :
+EDTX    :
+0.03: 10000
+EDTXU   :
+UTSL    :
+IRBO    :
+EDU     :
+HES     :
+HGV     :
+STIP    :
+EDZ     :
+PFFR    :
+EE      :
+48.5: 20
+48: 20
+47: 20
+46: 20
+45: 20
+43: 20
+40: 20
+EEI     :
+SILV    :
+2.5: 400	3.6: 7
+LEMB    :
+LGCY    :
+STOR    :
+EEMD    :
+SINO    :
+EEMO    :
+EEMS    :
+EEMV    :
+SILJ    :
+IRMD    :
+IRDMB   :
+UBNK    :
+EES     :
+PFIN    :
+EET     :
+HIMX    :
+EEV     :
+SJI     :
+IRT     :
+8.3: 1000
+EFAV    :
+EFF     :
+EFFE    :
+VBF     :
+ISRA    :
+EFG     :
+VALX    :
+OFSSL   :
+EFII    :
+EFNL    :
+HLI     :
+STT-G   :
+EFO     :
+PGRE    :
+EFOI    :
+EFV     :
+SKY     :
+LHC=    :
+LKCO    :
+SQNS    :
+EGBN    :
+SLAB    :
+EGF     :
+EGHT    :
+			18.49: 20
+			19: 20
+			20.85: 1
+EGI     :
+SKX     :
+ITCB    :
+ISTB    :
+UEVM    :
+EGLE    :
+PHCF    :
+EGO     :
+HBK     :
+EGOV    :
+SFBC    :
+ITG     :
+EHC     :
+ELJ     :
+SLYV    :
+HBNC    :
+IVOO    :
+EMCB    :
+HCLP    :
+			5.2: 3
+EMKR    :
+SMPL    :
+HDV     :
+IYF     :
+EMSG    :
+HTBI    :
+ENLC    :
+SCO     :
+21.24: 1200	21.26: 1200
+21.15: 100	21.27: 1200
+21.1: 1900	21.28: 1200
+			21.3: 1900
+			21.4: 1900
+HUBB    :
+IROQ    :
+ENV     :
+HVT     :
+EPD     :
+SDY     :
+83.52: 200	94.19: 200
+83.51: 250	94.2: 200
+81.74: 200	94.21: 200
+HYDD    :
+ITCI    :
+EPV     :
+EPZM    :
+VCV     :
+OMAD    :
+EQC-D   :
+EQLT    :
+LMBS    :
+SNDE    :
+EQM     :
+34.92: 100	52.9: 49
+			60.57: 50
+SFIX    :
+EQNR    :
+22.41: 1000	22.45: 1700
+22.4: 900	22.46: 1500
+22.38: 500	22.48: 1300
+22.36: -1300	22.49: 700
+22.34: -800	22.5: -100
+22.33: 700	22.51: -100
+SFB     :
+ITRN    :
+EQR     :
+62.01: 15
+56.01: 20
+HMLP    :
+EQS     :
+EQT     :
+SFET    :
+ZYNE    :
+IVOV    :
+EQWL    :
+IVOG    :
+TMP     :
+ERF     :
+			23.48: 150
+PCG-E   :
+ERIE    :
+USB-O   :
+IVR-A   :
+ERII    :
+ERJ     :
+HNRG    :
+SNHNL   :
+ERM     :
+PCTY    :
+ERSX    :
+SFNC    :
+LMHB    :
+ERUS    :
+ERX     :
+USB-M   :
+OPBK    :
+ESBK    :
+ESG     :
+LOGC    :
+SOHOK   :
+ESGD    :
+SHAK    :
+ESGE    :
+SGRP    :
+0.2616: 200	0.9195: 499
+			0.94: 1000
+			1.1: 100
+IWL     :
+ESGF    :
+HOVNP   :
+ESGL    :
+ESGN    :
+SGZA    :
+IYG     :
+ESGR    :
+IYE     :
+TOTAU   :
+ESGV    :
+PDT     :
+ESNC    :
+HRC     :
+SOLOW   :
+ESND    :
+PEI-B   :
+ESP     :
+SHG     :
+LONE    :
+ESQ     :
+ESRT    :
+SRC     :
+MCV     :
+			25.1: 363
+ESSA    :
+GMZ     :
+GOLD    :
+12.9: 100	12.98: 200
+12.88: 1495	13.01: 1500
+12.86: 1500	13.03: 1500
+12.84: 1500	13.04: 500
+12.82: 1500	13.05: 1500
+12.79: 500	13.2: 4
+12.28: 1400	13.97: 3500
+11.1: 500	16.4: 7
+VFL     :
+ESTE    :
+MUDSU   :
+ESTR    :
+ETB     :
+PSB-X   :
+JPM-D   :
+JRJC    :
+VHC     :
+			6.5: 9
+ETHO    :
+PSCD    :
+ETJ     :
+			8.67: 250
+ETM     :
+ETN     :
+PSB-W   :
+ZDGE    :
+MDGSW   :
+MDB     :
+TILT    :
+ETON    :
+MUNI    :
+ETP-C   :
+GPIC    :
+ETP-D   :
+			25.01: 2000
+PSL     :
+MDLX    :
+ETV     :
+13.26: 100
+EUDG    :
+EUDV    :
+SSG     :
+MEI     :
+EUFL    :
+SRTY    :
+28.9: 1100	30.45: 1100
+28.89: 1100	30.46: 1100
+28.88: 1100
+NJR     :
+EUFN    :
+18.14: 700	18.3: 700
+18.13: 700	18.31: 700
+18.12: 700	18.32: 700
+18.11: 700
+18.1: 700
+17.5: 60
+EUM     :
+GRAF    :
+VIOO    :
+EUMV    :
+MXL     :
+EUO     :
+24.4: 2000	24.53: 2000
+24.39: 2000	24.54: 2000
+24.38: 2000	24.55: 2000
+24.37: 2000	24.56: 2000
+24.36: 2000	24.57: 2000
+24.35: 2000	24.58: 2000
+24.34: 2000	24.59: 2000
+24.33: 2000	24.6: 2000
+			24.61: 2000
+			24.62: 2000
+EUSC    :
+PSTI    :
+1.11: 4982	1.13: 2726
+			1.19: 400
+			6: 1000
+JSYNW   :
+KARS    :
+UTL     :
+EVBG    :
+PTC     :
+EVBN    :
+EVC     :
+EVER    :
+PSTG    :
+MET     :
+MEN     :
+TLSA    :
+EVFM    :
+			4.2: 100
+MYGN    :
+EVFTC   :
+GLBZ    :
+EVG     :
+PPTY    :
+XMLV    :
+MEXX    :
+EVIX    :
+EWC     :
+PULM    :
+GLDI    :
+MGEN    :
+EWQ     :
+27.36: 11000	28.42: 11000
+27.35: 11000	28.43: 11000
+27.34: 11000
+27.33: 11000
+27.32: 11000
+GLOP-C  :
+EXEL    :
+PXMV    :
+GLYC    :
+			18.8: 120
+MIC     :
+EXPO    :
+WTS     :
+GUDB    :
+EZM     :
+PLYA    :
+GWGH    :
+MDIV    :
+FARO    :
+HA      :
+FBM     :
+PNW     :
+HAYN    :
+MET-A   :
+FCCO    :
+FCCY    :
+SSW-I   :
+NMT     :
+FCG     :
+FCOM    :
+KBWR    :
+UFCS    :
+FCOR    :
+PQSV    :
+FCPT    :
+PPT     :
+MFDX    :
+FCSC    :
+GRI     :
+FCTR    :
+FCVT    :
+PQIN    :
+WPC     :
+56.16: 100
+MGF     :
+FCX     :
+MGEE    :
+SVVC    :
+FDEU    :
+MRNS    :
+FDL     :
+SPNE    :
+MGIC    :
+7.58: 1910	8.5: 70
+			8.79: 1252
+			9: 2000
+			10.05: 100
+			10.45: 11700
+FDLO    :
+FDM     :
+GRUB    :
+UGI     :
+FDMO    :
+MS-K    :
+FDNI    :
+PRAN    :
+KCCB    :
+FDP     :
+FDRR    :
+SPN     :
+NPV     :
+FDUSL   :
+FEDU    :
+KGRN    :
+ULTI    :
+249.75: 4
+FEI     :
+PROV    :
+FEIM    :
+PRLB    :
+WSC     :
+MGU     :
+FELE    :
+GSAT    :
+			0.72: 150
+FEM     :
+FEMB    :
+PRNB    :
+MICR    :
+FEMS    :
+MHO     :
+SYNH    :
+FEO     :
+MSON    :
+FEX     :
+GSL     :
+			1.5: 12
+UMRX    :
+FEYE    :
+MTECU   :
+FF      :
+PRQR    :
+KIM     :
+FFBW    :
+FFC     :
+TDC     :
+LEN     :
+FFG     :
+FTXO    :
+FXB     :
+127.02: 1000	127.34: 1000
+127.01: 1000	127.35: 1000
+127: 1000	127.36: 1000
+126.99: 1000
+126.98: 1000
+UAG     :
+FFIC    :
+NOG     :
+			2.95: 7
+FFIN    :
+FFSG    :
+REEM    :
+IR      :
+86.8: 6
+84.41: 16
+82.02: 24
+79.63: 50
+ISCF    :
+UBR     :
+FFWM    :
+REG     :
+FG      :
+FG+     :
+FGB     :
+5: 1000
+REED    :
+WHLRP   :
+LFACU   :
+LEU     :
+STND    :
+FGD     :
+NOVT    :
+FGEN    :
+49.5: 100
+FXU     :
+FGM     :
+REPL    :
+LFUS    :
+FHN     :
+FIBR    :
+FICO    :
+TERM    :
+LHCG    :
+101.85: 200
+FID     :
+TEL     :
+			81: 4
+			82.25: 4
+			85: 10
+MSFT    :
+103.81: 150	109.99: 100
+103.8: 100	110: 10
+103.6: 10	110.02: 100
+103.32: 300	114: 100
+103.1: 10	115.86: 45
+103.03: 100	117.89: 200
+103.02: 100
+102.95: 200
+102.4: 5
+101.52: 252
+97.63: 10
+96.78: 20
+96: 20
+94.5: 100
+87.95: 200
+80: 1
+77.61: 200
+70.77: 400
+67.55: 30
+1.01: 5000
+FIDI    :
+FIEE    :
+GAIN    :
+UCON    :
+FIEG    :
+NS-C    :
+FIF     :
+FINX    :
+REXR-B  :
+ISR     :
+			1: 20
+			3.13: 200
+ITOT    :
+TSU     :
+FISK    :
+RF-A    :
+FISV    :
+FIT     :
+FITB    :
+REXR-A  :
+LION    :
+LILAK   :
+SUN     :
+FIV     :
+NSP     :
+FIVA    :
+FSLR    :
+FIVE    :
+QUAL    :
+VYGR    :
+LITE    :
+FIXX    :
+			28: 10
+FLF     :
+RGT     :
+FSNN    :
+LMRK    :
+FLKR    :
+FTCS    :
+FLQD    :
+RJZ     :
+FTR     :
+LORL    :
+FLS     :
+VRAY    :
+GG      :
+FMBH    :
+PZZA    :
+GHDX    :
+LFACW   :
+FNB     :
+10.91: 100
+GII     :
+FNGZ    :
+QLS     :
+GLACR   :
+LIQT    :
+FOLD    :
+FOMX    :
+TGEN    :
+MTOR    :
+FORK    :
+FOSL    :
+IVC     :
+			7.9: 2
+TLTD    :
+FOX     :
+QVAL    :
+FOXA    :
+QUAD    :
+LKSD    :
+FOXF    :
+GASS    :
+			3.25: 100
+FPAC    :
+FPAC+   :
+QUOT    :
+VLT     :
+LMRKN   :
+FPAC=   :
+LMNX    :
+SNNA    :
+FPF     :
+NGVC    :
+FPL     :
+TBF     :
+LMRKP   :
+FPRX    :
+FPX     :
+GCAP    :
+TMFC    :
+FPXE    :
+NICK    :
+FQAL    :
+QXGG    :
+IVFVC   :
+FR      :
+FRA     :
+TBC     :
+MVBF    :
+FRBK    :
+FRC-G   :
+IXC     :
+TNP-F   :
+FRC-H   :
+RBUS    :
+FRC-I   :
+RBC     :
+VO      :
+146: 2
+LNN     :
+FRD     :
+GDL     :
+FREL    :
+FRGI    :
+RBKB    :
+LOUP    :
+FRI     :
+LOR     :
+SORL    :
+FRPH    :
+NKX     :
+FRTA    :
+4.3: 400
+GE      :
+8.56: 20	9.14: 100
+8.5: 500	9.2: 100
+8.12: 100	9.21: 100
+8.08: 100	9.22: 100
+7.55: 100	9.34: 150
+7.02: 300	9.35: 1000
+6.97: 10	9.37: 1
+5.01: 1000	9.5: 100
+4.67: 4900	9.73: 100
+			9.97: 60
+			10: 1
+			10.5: 40
+			10.56: 8
+			11.06: 1200
+			11.3: 10
+			12: 700
+			12.58: 100
+			14.5: 150
+			16: 150
+			16.15: 25
+			17.11: 25
+			20.94: 1000
+TOPS    :
+0.65: 900	1.12: 2000
+			5.82: 400
+			6.99: 100
+			13.49: 100
+			34.7: 100
+			300.93: 400
+			5000: 265
+FSB     :
+NMCI    :
+FSBW    :
+RCA     :
+IXP     :
+FSFG    :
+FSI     :
+RYE     :
+NHC     :
+FSP     :
+FSZ     :
+TTS     :
+PCG-I   :
+FTACU   :
+TU      :
+PDEX    :
+RILYI   :
+24.1: 100	25.19: 100
+FTACW   :
+FTAG    :
+FTAI    :
+14.41: 1
+TTPH    :
+NICE    :
+108.49: 165	108.77: 205
+108.09: 500	108.79: 100
+			109.15: 500
+NHLDW   :
+SMFG    :
+FTCH    :
+			20.5: 1
+LNC     :
+FTD     :
+TWIN    :
+NIHD    :
+FTF     :
+FTI     :
+22.88: 900	22.94: 900
+22.87: 900	22.95: 1400
+			23.41: 1000
+FTK     :
+SALT    :
+NLS     :
+			7.85: 13
+FTLB    :
+SAGG    :
+ZKIN    :
+1.45: 6900	2.6: 100
+MDSO    :
+FTLS    :
+FTNW    :
+			3.1: 13
+FTRI    :
+FTSM    :
+TWO-B   :
+ZMLP    :
+PEB     :
+FTVA    :
+TWOU    :
+PEO     :
+RDIV    :
+FTXD    :
+FTXG    :
+FTXH    :
+TWO-A   :
+NM-H    :
+NLY-D   :
+SNCR    :
+			14: 2000
+FTXN    :
+LPCN    :
+WFC-Y   :
+FTXR    :
+TPZ     :
+NMI     :
+FUMB    :
+GER     :
+GERN    :
+SB-C    :
+XLY     :
+103.71: 200	107.51: 200
+103.7: 200	107.52: 200
+MFEM    :
+GFED    :
+GFNCP   :
+GFNSL   :
+TRCO    :
+PFBC    :
+PYT     :
+GFY     :
+TPYP    :
+NMS     :
+GGB     :
+GGG     :
+TRC     :
+NOK     :
+6.44: 5800	6.46: 13700
+6.42: 45000	6.47: 60000
+6.39: 40000	6.48: 15000
+6.38: 40000	6.51: 40000
+6.37: 40000	6.52: 40000
+6.14: 4170	6.53: 40000
+5.9: 10	7.6: 150
+GGM     :
+NODK    :
+SCS     :
+GGT     :
+LEGH    :
+GGZ-A   :
+RUSS    :
+NOMD    :
+GH      :
+GHC     :
+GHII    :
+TRGP    :
+PFF     :
+GHL     :
+GHM     :
+RUSL    :
+MGV     :
+GIFI    :
+GIG^    :
+GIGB    :
+TRUP    :
+PGF     :
+QFIN    :
+GIGM    :
+TRST    :
+NPTN    :
+GIL     :
+GILD    :
+66.91: 100	71.69: 100
+66.9: 15	71.7: 50
+66.88: 100	71.72: 100
+			77.5: 15
+			77.7: 300
+			77.89: 49
+TRTY    :
+NSA     :
+GILT    :
+8.56: 1587	8.87: 147
+8.55: 1525
+NS-B    :
+SEAS    :
+GJP     :
+LH      :
+GLAC    :
+GLACW   :
+TRX     :
+WTIU    :
+PGM     :
+GLADN   :
+GLBS    :
+SIEN    :
+MRT     :
+GLDM    :
+13.01: 10000	13.23: 10000
+GLL     :
+UWN     :
+OCSL    :
+GLOB    :
+UYG     :
+OFLX    :
+PWR     :
+28: 5
+GLOG    :
+GLOG-A  :
+GLOP    :
+UWM     :
+60.6: 400	62.89: 400
+MS-I    :
+MRVL    :
+SCC     :
+GLOP-B  :
+MGNX    :
+GLOW    :
+VAW     :
+MSBF    :
+GLQ     :
+GLU     :
+GLU-A   :
+SJM     :
+MT      :
+23.15: 2500	23.19: 4200
+23.14: 2800	23.21: 1000
+23.12: 300	23.22: 1000
+23.11: 1000	23.27: -100
+23.06: 4000	23.28: 3000
+23.04: 3000
+GLU-B   :
+SIVR    :
+15.45: 5000	15.51: 5000
+15.44: 5000	15.52: 5000
+WLDN    :
+32: 10
+LGF.B   :
+GLUU    :
+GLW     :
+33.6: 100
+33.35: 1778
+1.01: 5000
+GM      :
+37.7: 125	39.4: 50
+35: 1	39.97: 1000
+			45: 300
+GMF     :
+VCIT    :
+WLFC    :
+			39.5: 10
+OHRP    :
+0.09: 10000	0.21: 5000
+			0.2302: 100
+GMO     :
+VCRA    :
+OLLI    :
+PSA-D   :
+GMOM    :
+GMRE    :
+GMRE-A  :
+VCF     :
+MTEC    :
+MTBC    :
+SCHZ    :
+GMTA    :
+MIK     :
+ZAGG    :
+GNAF    :
+URE     :
+MTEX    :
+GNK     :
+GTIP    :
+GTLS    :
+SLCT    :
+VXXB    :
+38.29: 400	38.38: 200
+38.27: 100	38.4: 300
+38.22: 200	38.41: 100
+38.18: 300	38.5: 300
+38.17: 300	38.51: 300
+38.16: 300	38.52: 300
+38.15: 300	38.53: 300
+38.14: 300	38.54: 300
+LL      :
+GTT     :
+			47.48: 18
+GTYH    :
+GTYHU   :
+URTH    :
+OMFS    :
+PLPC    :
+50: 5
+GTYHW   :
+URBN    :
+MTNB    :
+GUNR    :
+GURE    :
+URI     :
+MUDSW   :
+GURU    :
+MUDS    :
+RNET    :
+GV      :
+MCRI    :
+GVIP    :
+SGEN    :
+MUFG    :
+GVP     :
+GWB     :
+GWR     :
+USAI    :
+OMP     :
+GWRE    :
+GWRS    :
+SGDM    :
+LNT     :
+GXG     :
+GYRO    :
+GZT     :
+7.32: 1000	8.47: 1000
+USLV    :
+79.42: 300	80.1: 300
+79.41: 300	80.11: 300
+78.67: 100	80.55: 100
+68: 100	81: 100
+67: 100	82: 100
+58.1: 100
+57.2: 100
+56.8: 100
+56.3: 100
+55.8: 100
+55.3: 100
+OPINI   :
+PNF     :
+H       :
+USFR    :
+MUX     :
+HACK    :
+HAE     :
+USL     :
+MXWL    :
+HAFC    :
+MXIM    :
+RORE    :
+HALO    :
+MEAR    :
+HAWX    :
+HBANN   :
+USMV    :
+VPL     :
+OPP     :
+			18.99: 100
+HBCP    :
+HBI     :
+PSA-U   :
+24.04: 100
+YY      :
+PCH     :
+HBP     :
+HCCH    :
+SRF     :
+NHA     :
+HCCI    :
+SRLN    :
+NITE    :
+SMIN    :
+HCFT    :
+HCFT-A* :
+HCHC    :
+			7: 2
+SREV    :
+			1.35: 525
+			2.8: 525
+PCTI    :
+4: 50
+PCMI    :
+RIF     :
+HCKT    :
+IVW     :
+HCM     :
+SSD     :
+PCYO    :
+HD      :
+179.02: 100	180.94: 100
+132.24: 300	199: 2
+121.67: 400	207: 100
+115.1: 30	215: 100
+HDG     :
+HDGE    :
+PSMB    :
+PEB-C   :
+HDLV    :
+PSET    :
+JRS     :
+HDMV    :
+HDSN    :
+HE      :
+HECO    :
+SSTI    :
+NLR     :
+HEFA    :
+SSW-E   :
+NMM     :
+SIBN    :
+HEI     :
+HEI.A   :
+HELE    :
+SSRM    :
+PEI     :
+PEBK    :
+RM      :
+HEQ     :
+IYR     :
+HES-A   :
+SPG-J   :
+PEIX    :
+HEWJ    :
+HSKA    :
+HSON    :
+1.25: 100
+1.2: 100
+PTEN    :
+KBH     :
+HSY     :
+HT-E    :
+HTA     :
+SPHS    :
+NNN-F   :
+SCID    :
+HTAB    :
+SPG     :
+153.74: 10
+145.6: 10
+PES     :
+HTBX    :
+HTD     :
+SPHB    :
+PFG     :
+HTFA    :
+PFFL    :
+QARP    :
+HTHT    :
+IQIN    :
+HTUS    :
+PRGO    :
+45.74: 1188	46.03: 472
+45.59: 200	46.04: 431
+45.44: 200	46.26: 100
+			46.41: 200
+			54: 103
+WRB-B   :
+PFH     :
+HTY     :
+HTZ     :
+			16.85: 7
+			17.5: 5
+			20: 1
+HUBS    :
+SPKEP   :
+NOAH    :
+HUD     :
+HUM     :
+268.23: 6
+PRFZ    :
+KEYS    :
+HURC    :
+HUSV    :
+HUYA    :
+			23.5: 1
+SPVM    :
+NRK     :
+SDLP    :
+0.99: 2	1.13: 2
+HVBC    :
+SPSC    :
+PFN     :
+HWBK    :
+HWC     :
+SPTN    :
+PGTI    :
+HWCC    :
+PGR     :
+QNST    :
+HY      :
+ISIG    :
+HYDB    :
+HYEM    :
+SPXB    :
+NRZ     :
+HYGS    :
+HYGV    :
+RDS.B   :
+60.68: 500	60.72: 1218
+60.66: 661	60.75: 1376
+60.64: 100	60.8: -88
+60.63: 200	60.91: 3000
+60.62: -157
+60.6: -722
+WFC-V   :
+OCSLL   :
+HYLS    :
+HYS     :
+TDW     :
+MRSN    :
+			10.2: 182
+HYXU    :
+TDY     :
+MSEX    :
+SCE-G   :
+HYZD    :
+HZN     :
+			1.8: 29
+			2.09: 50
+			2.11: 50
+			2.15: 50
+			2.17: 50
+			3.05: 100
+			4.3: 2
+HZNP    :
+TDTT    :
+OEUR    :
+			22.78: 11
+ODFL    :
+PVL     :
+2: 100	3.5: 500
+I       :
+KEN     :
+16.45: 1000	18.09: 1000
+			18.1: 100
+IAE     :
+TEO     :
+OFG     :
+IAK     :
+IAUF    :
+IBA     :
+RESI    :
+OI      :
+IBB     :
+REML    :
+ISDR    :
+IBCD    :
+IBCP    :
+IBDC    :
+IBDN    :
+TFSL    :
+16.3: 40
+MSVB    :
+IBDR    :
+TGB     :
+0.45: 1500
+MTL     :
+2.41: 600	2.49: 500
+2.35: 500
+RYAAY   :
+68.66: 100	70.06: 900
+68.62: 900	72.08: 100
+IBDS    :
+IBDT    :
+IBIO    :
+TFLT    :
+OILX    :
+OII     :
+PYPL    :
+91.55: 100	91.93: 100
+91.54: 100
+IBKCO   :
+25.02: 100	27.87: 100
+KKR     :
+IBKR    :
+TALO+   :
+OKTA    :
+44.67: 400
+43.43: 600
+33.53: 1400
+IBMK    :
+III     :
+IIIN    :
+RFCI    :
+ITT     :
+IIPR    :
+IJJ     :
+IJK     :
+TAO     :
+MTW     :
+RMBL    :
+4.55: 100
+IJR     :
+72: 2
+TALO    :
+OMAB    :
+IKNX    :
+ILF     :
+TANNI   :
+ONCY    :
+ILMN    :
+273.25: 85	282.73: 90
+272: 3	285: 10
+1.01: 5000
+ONCE    :
+			50: 33
+PMD     :
+IMFC    :
+JPM     :
+103.95: 100	104.59: 100
+103.94: 100	104.77: 100
+102.6: 1	107: 25
+102: 4
+100.3: 30
+99: 60
+96.84: 100
+89.31: 400
+88: 23
+87.7: 100
+71.42: 100
+71.2: 8
+69.22: 200
+IMGN    :
+RAMP    :
+VMO     :
+ONE     :
+IMH     :
+IMI     :
+1: 200
+0.95: 300
+IMMP    :
+TAPR    :
+MUA     :
+12.58: 200
+IMMR    :
+			11.2: 12
+IMMU    :
+RALS    :
+IWM     :
+146.62: 1000	146.67: 1000
+146.56: 100	146.68: 1000
+146.02: 900	146.74: 100
+142: 2	146.94: 1600
+IMRNW   :
+IMV     :
+IMXI    :
+TCBIL   :
+MX      :
+ROBO    :
+INAP    :
+TBRG    :
+OPB     :
+INBKL   :
+INCO    :
+TBX     :
+OPY     :
+INCY    :
+OPTN    :
+			18: 100
+POOL    :
+INDY    :
+31.68: 835
+JSYN    :
+INFU    :
+INGN    :
+TCDA    :
+MXE     :
+QTS-B   :
+INKM    :
+INN     :
+PBSM    :
+INNT    :
+SELF    :
+			49.4: 100
+INOD    :
+INPX    :
+			2.3: 200
+R       :
+INS     :
+URGN    :
+INSE    :
+INSP    :
+48.5: 24	100000: 100
+42.04: 5
+40.01: 100
+TUSK    :
+PDCO    :
+INSW-A  :
+INSY    :
+			9.98: 400
+SFST    :
+INTC    :
+PDN     :
+INTG    :
+SGRY    :
+INTT    :
+RARE    :
+INVA    :
+INVE    :
+INVH    :
+TVTY    :
+RAD     :
+0.84: 100	0.92: 1000
+			0.9327: 5
+			1.02: 140
+			1.04: 100
+			5: 200
+RAVN    :
+INXN    :
+INXX    :
+IOO     :
+IOSP    :
+IOVA    :
+RCI     :
+IPAC    :
+USIG    :
+IPAR    :
+IPCI    :
+0.22: 1000	0.495: 10000
+			2: 9500
+TXRH    :
+PEN     :
+IPFF    :
+IPG     :
+SHIP    :
+			1.16: 996
+			1.49: 50000
+IPHI    :
+PACW    :
+IPI     :
+SCKT    :
+IPKW    :
+RCUS    :
+IPOA    :
+IPOA+   :
+IPOA=   :
+TPX     :
+RCL     :
+IPOS    :
+TZACW   :
+PEZ     :
+PYX     :
+11.5: 10	15.15: 345
+11: 20	21.1: 6
+IQ      :
+IQDG    :
+TPNL    :
+PEI-C   :
+UGLD    :
+			112.5: 15
+IQLT    :
+IRDM    :
+UAMY    :
+			0.65: 6
+RDS.A   :
+59.41: 1655	59.46: -1534
+59.4: -1103	59.49: 100
+59.39: 1435	59.54: -212
+59.38: -1094	59.85: 1200
+59.19: 1200	61.39: 42
+			65.4: 100
+SCZ     :
+IRIX    :
+QABA    :
+IRL     :
+PFO     :
+QES     :
+IRR     :
+PAM     :
+			60: 100
+RELL    :
+ISBC    :
+QEMM    :
+ISCA    :
+ISD     :
+UCHF    :
+PGC     :
+QGEN    :
+36.85: 100	36.93: 100
+36.82: 100	36.95: 100
+36.47: 300	37.54: 300
+ISDS    :
+PAVE    :
+ISF     :
+SDD     :
+ISHG    :
+UNAM    :
+ISMD    :
+ISSC    :
+UDBI    :
+RES     :
+SEEL    :
+IT      :
+QLTA    :
+ITA     :
+PCG-B   :
+QTRX    :
+ITE     :
+PBIP    :
+RFEM    :
+ITIC    :
+QTNT    :
+ITM     :
+PHYL    :
+ITP     :
+SLM     :
+ITW     :
+128.75: 3
+120: 5
+91.52: 10
+PIH     :
+QVM     :
+IUSB    :
+SMBC    :
+IUSS    :
+PCB     :
+RGLS    :
+IVAL    :
+RGA     :
+IVE     :
+RGSE    :
+IVFGC   :
+RILYH   :
+IVR-C   :
+VFVA    :
+IVV     :
+265.88: 800	266.02: 100
+265.86: 500	266.06: 500
+265.81: 500	266.08: 500
+265.79: 500	266.11: 500
+265.76: 500
+264.5: 25
+IVZ     :
+TMQ     :
+RAND    :
+PKI     :
+IWC     :
+IWN     :
+TNP-E   :
+PCY     :
+SMHI    :
+IWO     :
+PLAY    :
+RBZAW   :
+IWR     :
+SMTC    :
+IWV     :
+PDFS    :
+RIVE    :
+IX      :
+RINF    :
+IXG     :
+RJN     :
+IXN     :
+VIS     :
+IYM     :
+IYT     :
+TOTAW   :
+RCS     :
+IYY     :
+SIC     :
+IZRL    :
+RLJ-A   :
+JACK    :
+JAGG    :
+RE      :
+JAKK    :
+JASNW   :
+PEP     :
+JBGS    :
+JBHT    :
+TPOR    :
+RDWR    :
+JBK     :
+JBLU    :
+REDU    :
+JBN     :
+JBT     :
+TREE    :
+PETZ    :
+SIF     :
+			4.25: 100
+			4.5: 100
+JCAP-B  :
+21.65: 300	25.38: 100
+UZC     :
+JCI     :
+JCOM    :
+JCP     :
+1: 474	2: 49
+0.95: 450
+JD      :
+SJB     :
+JDST    :
+40: 4	41.4: 15
+			47.5: 70
+			53.72: 560
+REGN    :
+1.01: 5000	581.86: 100
+JE      :
+3.4: 5
+JEC     :
+REVG    :
+JELD    :
+JEQ     :
+PFLT    :
+11.77: 302	12.9: 297
+			14: 1000
+JG      :
+JGH     :
+TROW    :
+RETO    :
+JHAA    :
+JHD     :
+REX     :
+JHDG    :
+JHI     :
+TRVG    :
+PFSI    :
+SJNK    :
+25: 5
+JHMC    :
+VCYT    :
+JHME    :
+RFL     :
+JHMH    :
+JHMI    :
+PPMC    :
+JHMU    :
+JHS     :
+OAK     :
+JHY     :
+RPG     :
+JILL    :
+JJC     :
+PRE-F   :
+JJG     :
+TR      :
+JJM     :
+JJSF    :
+VAC     :
+OFG-D   :
+JKD     :
+JKE     :
+RTRX    :
+JKG     :
+OGEN    :
+			1.06: 10244
+			1.18: 100
+			1.19: 80
+			1.25: 308
+			1.5: 200
+			1.88: 300
+			2.28: 200
+			2.88: 1000
+			2.98: 200
+			3.98: 200
+JKHY    :
+RWCD    :
+JKJ     :
+PRGX    :
+			10: 50
+JKS     :
+JLL     :
+JLS     :
+VAPO    :
+15.2: 2
+PREF    :
+PRIF-A  :
+JMEI    :
+2.5: 300	2.53: 200
+			2.6: 5000
+			2.95: 5000
+			2.99: 3000
+			4.99: 76500
+JMF     :
+JMM     :
+JMP     :
+JMPD    :
+23.71: 100
+PRSP    :
+JMT     :
+TRTX    :
+JMU     :
+			1.68: 1000
+JNK     :
+VDE     :
+82: 2
+OLED    :
+JO      :
+JOB     :
+RWLK    :
+JOE     :
+NVMM    :
+JOUT    :
+RMPL-   :
+JPBI    :
+PRU     :
+JPEH    :
+JPEM    :
+JPEU    :
+URA     :
+PRTHU   :
+JPGB    :
+VET     :
+			24.07: 1
+OMFL    :
+PLSE    :
+JPHF    :
+JPIH    :
+UPRO    :
+40.52: 1200	40.58: 1100
+40.51: 1200	40.59: 1100
+32: 1	40.63: 100
+			41.5: 1
+OKDCC   :
+TMK     :
+69.99: 34	84.93: 75
+JPM-A   :
+JPM-H   :
+VFMF    :
+PSA-G   :
+RNR     :
+JPMV    :
+PLYM    :
+JPN     :
+OPER    :
+PNC-Q   :
+JPST    :
+NWFL    :
+PSCT    :
+JQUA    :
+PNC     :
+			128: 20
+JRI     :
+JRO     :
+VIDI    :
+OPI     :
+26.73: 5	32.85: 550
+25.1: 6
+PNFP    :
+JRSH    :
+NX      :
+JSM     :
+RNSC    :
+JSML    :
+TOT     :
+53.75: 1500	53.81: 1000
+53.73: 100	53.82: 200
+52.29: 100	53.85: 1000
+52.25: 100	53.86: 1000
+50: 100	55.25: 100
+			55.5: 100
+			55.56: 360
+			61.45: 40
+			64: 100
+JSYNR   :
+JUST    :
+VIOV    :
+PSLV    :
+ROYT    :
+1.8: 2
+1.49: 1
+JW.B    :
+POCT    :
+JWN     :
+OCC     :
+PPLC    :
+KAI     :
+NYMTO   :
+PTGX    :
+6.06: 200
+5.62: 200
+5.07: 500
+KAMN    :
+PPIH    :
+KAR     :
+OSBC    :
+KB      :
+SBFG    :
+KBLMR   :
+OSLE    :
+PRAA    :
+KBLMW   :
+SBUX    :
+KBSF    :
+OBLN    :
+PUB     :
+KBWP    :
+PTR     :
+KBWY    :
+PUK-A   :
+KCAPL   :
+PWOD    :
+KEM     :
+UBA     :
+KEMQ    :
+KEP     :
+UHT     :
+PRGS    :
+OVOL    :
+KEX     :
+KEYW    :
+ULTA    :
+1.01: 5000	293.49: 2
+			298.87: 200
+OFC     :
+SCE-D   :
+KF      :
+OXSQ    :
+PRPL    :
+KFRC    :
+SCHP    :
+KFY     :
+OFS     :
+PXJ     :
+KGJI    :
+PWZ     :
+KHC     :
+PXMG    :
+KIE     :
+UE      :
+KIRK    :
+KKR-A   :
+UNG     :
+25.54: 1100	25.59: 400
+25.52: 800	25.6: 1900
+25.51: 800	25.62: 800
+25.5: 800	25.78: 100
+25.49: 800	30: 2
+25.39: 100
+PRTY    :
+KL      :
+RYAM    :
+KLIC    :
+PYDS    :
+			2.9: 300
+KLXE    :
+			29.3: 100
+KMDA    :
+5.18: 1442
+PSAU    :
+KMF     :
+KMPA    :
+OLN     :
+KMT     :
+KMX     :
+50: 20000
+UPS     :
+95: 5
+PSA-Y   :
+KN      :
+KNG     :
+PSB-U   :
+KNL     :
+KNSA    :
+USA     :
+OMCL    :
+RYF     :
+KNX     :
+			36.8: 5
+TURN    :
+KOD     :
+KOF     :
+KOIN    :
+KONA    :
+SAIL    :
+KOPN    :
+PSCH    :
+KORP    :
+KOS     :
+PSP     :
+KPFS    :
+KR      :
+ONTXW   :
+KRE     :
+KREF    :
+USD     :
+PSMT    :
+KRG     :
+KRNT    :
+PSR     :
+KRNY    :
+KRYS    :
+USMC    :
+OPESW   :
+SAM     :
+KSM     :
+TXMD    :
+KSU     :
+PTMC    :
+30.86: 1000
+KT      :
+KTCC    :
+SES     :
+KTOV    :
+1.12: 2000	1.33: 2000
+			2.63: 75
+KTOVW   :
+NFRA    :
+KURE    :
+QSY     :
+KW      :
+WBIA    :
+KWR     :
+SFUN    :
+KYN     :
+TANH    :
+KYN-F   :
+LABD    :
+28.1: 100	29.39: 130
+SRS     :
+25: 2
+NIO     :
+6.96: 40	6.99: 500
+6.94: 300	7: 50
+6.93: 219	7.05: 800
+6.9: 100	7.1: 302
+6.8: 2200	7.11: 20
+6.71: 1500	7.14: 439
+6.66: 300	7.3: 500
+6.61: 1000	7.35: 3000
+6.55: 52000	7.37: 12
+6.52: 200	7.39: 500
+6.5: 405	7.5: 300
+6.4: 16	7.65: 4000
+6.2: 7	7.68: 4000
+6.05: 127	7.7: 4125
+5.5: 100	7.75: 4000
+5.45: 100	7.8: 4000
+5.4: 100	7.98: 225
+3.5: 1000	8.1: 100
+			8.25: 200
+			8.5: 200
+			8.8: 225
+			13.8: 10
+LAC     :
+1.8: 671
+LACK    :
+QYLD    :
+WBIF    :
+LACQU   :
+NKG     :
+LAD     :
+RBCAA   :
+LAIX    :
+SGH     :
+LAMR    :
+LANC    :
+LAND    :
+SSB     :
+SGBX    :
+SGMO    :
+WDC     :
+LARK    :
+WCC     :
+LASR    :
+WBK     :
+15.94: 70
+LAZ     :
+33.5: 1000
+LB      :
+LBC     :
+SHIPW   :
+LBJ     :
+TBT     :
+LBRDA   :
+LBTYB   :
+SSY     :
+NMK-C   :
+LC      :
+LCI     :
+RCG     :
+LCNB    :
+NDP     :
+LD      :
+PZI     :
+VRNT    :
+LDOS    :
+SHSP    :
+13: 10
+12.5: 10
+12: 10
+11.5: 10
+WEN     :
+LDRS    :
+VRSK    :
+LDSF    :
+LDUR    :
+SPFF    :
+SHO     :
+VRCA    :
+LE      :
+STFC    :
+NNN-E   :
+SCIF    :
+LEAD    :
+LEDS    :
+			4.58: 1000
+SPDV    :
+NMFC    :
+SVMK    :
+WHFBZ   :
+LEGR    :
+LEO     :
+STKL    :
+SIEB    :
+QDEF    :
+LEXEA   :
+SCOM    :
+LEXEB   :
+NQP     :
+SDIV    :
+			19.63: 10
+LFC     :
+12: 1100	12.05: 15300
+11.9: 2000	12.09: 21000
+NEE-I   :
+SITC-K  :
+LGC+    :
+SDGA    :
+LGC=    :
+LGF.A   :
+STRT    :
+NRIM    :
+SDOG    :
+WIRE    :
+LGI     :
+NEOG    :
+WIN     :
+LGLV    :
+QDYN    :
+LGOV    :
+SYN     :
+			20: 169
+LHC     :
+LILA    :
+STX     :
+SJIU    :
+QRTEA   :
+LIND    :
+SDYL    :
+LINDW   :
+NGL-B   :
+SENEB   :
+LIT     :
+NFC+    :
+SLG     :
+WMGI    :
+LIVX    :
+SEND    :
+VZA     :
+LJPC    :
+NTEST.A :
+VWOB    :
+LKFN    :
+RFIL    :
+LLIT    :
+NTLA    :
+SFLY    :
+35: 5
+30: 5
+LLNW    :
+RHI     :
+LLY     :
+NGHCN   :
+SLVO    :
+LMB     :
+SLQD    :
+LMFA    :
+			2.48: 400
+SLYG    :
+LMHA    :
+SMI     :
+LMT     :
+290.99: 100	293.83: 100
+246.63: 20
+221.32: 100
+166.16: 200
+TIER    :
+VNCE    :
+LN      :
+LNC+    :
+SNOA    :
+SGG     :
+NUMG    :
+LNDC    :
+11: 10
+10.5: 10
+LNTH    :
+SOHOB   :
+NID     :
+RILYG   :
+LOAC    :
+NUSC    :
+SHE     :
+VNQI    :
+LOACU   :
+RLGY    :
+LOAN    :
+NIU     :
+SMMT    :
+LODE    :
+			0.17: 50
+			0.175: 6
+			0.22: 4088
+			0.25: 325
+SMLL    :
+VNQ     :
+LOGI    :
+36.27: 700	36.35: 700
+36.25: 100	36.49: 1500
+36.05: 1500
+SMP     :
+			52.5: 10
+LOMA    :
+TLND    :
+25: 100	70: 200
+LOXO    :
+225: 1
+WFC-N   :
+			25: 1200
+LPG     :
+SOVB    :
+SHOS    :
+WELL-I  :
+LPL     :
+RDN     :
+LPT     :
+SNA     :
+WETF    :
+LPTH    :
+			2.99: 3000
+LPX     :
+SIGI    :
+LQDA    :
+LQDI    :
+NMR     :
+LRCX    :
+166: 100	168.15: 30
+1.01: 5000	168.17: 10
+			168.2: 600
+			169.2: 200
+LRET    :
+SPDW    :
+SIG     :
+23.25: 12	26.5: 1
+			29.99: 20
+LRGE    :
+LRN     :
+SIL     :
+LSAF    :
+LSI     :
+SPIB    :
+NNBR    :
+RDUS    :
+VRTV    :
+LSTR    :
+TECK    :
+LSXMB   :
+LTBR    :
+VST     :
+LTC     :
+LTN     :
+REPH    :
+VTL     :
+LTN^    :
+SITC    :
+LTPZ    :
+LTRPB   :
+SKIS    :
+VTIQ    :
+LTS     :
+LTSF    :
+23.02: 500	24.21: 100
+NPK     :
+LTXB    :
+LUB     :
+SPPI    :
+SJW     :
+VTIP    :
+LULU    :
+LUV     :
+SKOR    :
+LVHB    :
+LVHI    :
+SPWH    :
+			10.85: 14
+NRCG    :
+			10.2: 100
+RESN    :
+2.66: 1500
+LVL     :
+TGH     :
+			13.5: 20
+			14: 20
+LVUS    :
+SLMBP   :
+VXUS    :
+LWAY    :
+LX      :
+RRC     :
+LXRX    :
+LXU     :
+MPWR    :
+LYL     :
+			1.62: 400
+PPEM    :
+LYV     :
+44: 50
+XSHD    :
+M       :
+24.57: 1	26: 3
+24.05: 1
+RTTR    :
+0.6003: 100	2: 200
+			2.12: 200
+MAA     :
+SPH     :
+MAA-I   :
+MAGA    :
+TECS    :
+MSCI    :
+120: 20
+MAMS    :
+MAN     :
+PRCP    :
+XSW     :
+MANT    :
+MSL     :
+MAR     :
+PRME    :
+MARK    :
+RVEN    :
+MASI    :
+MAT     :
+MATW    :
+TENB    :
+RUN     :
+RVNU    :
+YELP    :
+MAV     :
+XYL     :
+MAXR    :
+5: 20	7.97: 750
+4.8: 200
+XUSA    :
+MBB     :
+MBFI    :
+MBG     :
+RWLS    :
+MBII    :
+SPTM    :
+MBIN    :
+MBSD    :
+TGLS    :
+MTG     :
+MBUU    :
+MBWM    :
+PRSC    :
+MCA     :
+MNGA    :
+MCBC    :
+PLX     :
+0.3994: 15000	0.4681: 15000
+0.339: 5000
+0.3: 8000
+WVFC    :
+MCD     :
+181.72: 100	182.74: 100
+160.06: 4	190: 1
+155.65: 8
+151.25: 14
+146.84: 28
+135: 10
+RXD     :
+YMLP    :
+MCF     :
+WWE     :
+MCFT    :
+MCHI    :
+TAL     :
+			31: 50
+RWSL    :
+WTT     :
+MCHP    :
+THQ     :
+			18.58: 50
+MTUM    :
+RMBS    :
+8.25: 100
+MCI     :
+MCO     :
+130: 21
+TACT    :
+MTECW   :
+SNLN    :
+			18.15: 2000
+ZBZX    :
+MCRN    :
+MD      :
+TI.A    :
+4.56: 500	4.59: 4000
+4.55: 500	4.6: 500
+			4.61: 500
+RYB     :
+6.65: 200	6.95: 200
+6.56: 250	13: 10
+			100000: 1000
+PMR     :
+MDCO    :
+RNDB    :
+MDGL    :
+			188: 8
+			192: 25
+MVC     :
+ROAN    :
+MDJH    :
+MNTA    :
+SAFE    :
+MDP     :
+ROAD    :
+MDR     :
+MDRX    :
+TKKSU   :
+MWA     :
+ROBT    :
+ZION    :
+MDT     :
+MOFG    :
+ZG      :
+MDY     :
+PMTS    :
+MDYV    :
+SONA    :
+MED     :
+MELR    :
+TLGT    :
+SALM    :
+PPBI    :
+MERC    :
+13.85: 1000
+13.61: 1000
+ROLL    :
+MESA    :
+MRKR    :
+RPUT    :
+MET-E   :
+MPAA    :
+SBB     :
+ZTEST   :
+MFAC    :
+RPT     :
+XNET    :
+3.13: 50
+MFAC+   :
+NAC     :
+XLTY    :
+MFC     :
+PTLC    :
+28.8: 1000
+MFGP    :
+19.57: 1500	19.61: 1500
+19.56: 300	19.62: 200
+19.45: 1000	19.66: 1000
+14.5: 10
+NANO    :
+RTIX    :
+MFINL   :
+PUW     :
+MFM     :
+MRCCL   :
+SBNY    :
+102.52: 22
+MFO     :
+SBI     :
+MFT     :
+SBR     :
+30.28: 1
+MFV     :
+SCE-E   :
+MGLN    :
+STLD    :
+WRB-E   :
+MGM     :
+MGP     :
+SVXY    :
+46.32: 200	46.46: 200
+46.31: 200	46.47: 200
+46.3: 900	46.48: 200
+46.29: 400	46.49: 200
+46.28: 400	49.99: 3
+46.27: 200	50: 1
+46.26: 400
+46.25: 200
+RUTH    :
+NBR-A   :
+MGRC    :
+MGY     :
+SXE     :
+MSA     :
+PWC     :
+MGY+    :
+NCBS    :
+RWIU    :
+WRTC    :
+MH-A    :
+PXSG    :
+MH-D    :
+MSF     :
+SCHE    :
+MHF     :
+SCE-K   :
+WRN     :
+MHI     :
+SCHK    :
+MHLA    :
+SU      :
+MIE     :
+YTRA    :
+MILN    :
+SYNL    :
+13: 10
+RWX     :
+YMLI    :
+MIN     :
+PSA-E   :
+MINDP   :
+SCHW-C  :
+YORW    :
+31.35: 3
+MINI    :
+MITK    :
+RYT     :
+MITT-A  :
+MIXT    :
+MTL-    :
+MJCO    :
+MKC     :
+TAGS    :
+RYJ     :
+MKC.V   :
+MKL     :
+893: 5
+RYU     :
+MKSI    :
+MLCO    :
+TAP     :
+MTRX    :
+PSA-V   :
+WYND    :
+MLI     :
+SRRA    :
+MLN     :
+MLNT    :
+XDIV    :
+MLNX    :
+			100.7: 1000
+			103: 600
+			104.89: 40
+MLPC    :
+PSK     :
+XIN     :
+MLPI    :
+SACH    :
+MLPO    :
+MLPX    :
+SAN     :
+4.89: 5500	4.9: 5500
+4.88: 3200	4.94: 45900
+4.87: -6100	4.95: -1200
+4.86: 15100	4.96: 60900
+4.85: 67500	4.97: 70000
+4.84: 70000	5.05: 1
+4.83: 70000
+XHE     :
+73: 1
+MLPZ    :
+MLR     :
+MUSA    :
+MLVF    :
+MMAC    :
+TBLT    :
+SAMAW   :
+XHB     :
+MMC     :
+MMDM    :
+SAND    :
+MMDMR   :
+MMI     :
+TCBK    :
+MVIN    :
+PSMC    :
+MMIT    :
+SSWA    :
+MMM     :
+197.47: 100	198.48: 100
+195: 1	235: 2
+192.52: 2
+SBFGP   :
+XLV     :
+MMS     :
+MMSI    :
+TAIL    :
+MN      :
+MNA     :
+UOCT    :
+MNK     :
+20.25: 50	28.98: 200
+17.5: 100
+MNLO    :
+TAT     :
+MNP     :
+SFE     :
+MNR     :
+10.15: 200
+MOAT    :
+MOBL    :
+USAP    :
+MOD     :
+USG     :
+MOG.B   :
+TBIO    :
+MOGU    :
+MOH     :
+TAYD    :
+MOM     :
+SAIC    :
+TBLTW   :
+MOO     :
+MOR     :
+27.42: 300	27.69: 300
+27.17: 1200	28: 1200
+MORT    :
+MOSC    :
+MOSC=   :
+TCFC    :
+MOTI    :
+SGYP    :
+MOTS    :
+MPLX    :
+MPO     :
+USO     :
+11.2: 3000	11.22: 100
+11.19: 100	11.27: 4300
+11.14: 4300	11.28: 4300
+11.13: 4300	11.29: 4300
+11.12: 4300	11.3: 3900
+11.11: 4300	12: 2
+11.1: 4300	13.5: 54
+11.09: 4300
+MPVD    :
+XPH     :
+UGAZ    :
+38.6: 135	38.68: 100
+38.46: 100	38.7: 300
+38.44: 100	38.86: 300
+38.42: 100	39.96: 100
+38.4: 200	40.5: 29
+38: 100	42: 1
+36: 53	42.4: 40
+			44: 10
+			45: 275
+			45.8: 1
+			47: 100
+			50: 207
+			55: 2
+			58: 10
+			58.31: 56
+			65: 5
+			70: 2
+			90: 10
+			100: 10
+MQT     :
+TCRD    :
+MRBK    :
+MRC     :
+TCO     :
+MRCC    :
+RRR     :
+SUP     :
+			6.32: 200
+MRGR    :
+SCON    :
+MRO     :
+TDACW   :
+MRUS    :
+SBSI    :
+UJB     :
+MS-E    :
+SVM     :
+2.22: 4
+MS-F    :
+SXC     :
+MSD     :
+SXT     :
+MSG     :
+246.28: 10
+ULBI    :
+MSN     :
+SE      :
+MSTR    :
+			134.83: 90
+TER     :
+MTB-C   :
+SCHN    :
+UNP     :
+MTCH    :
+			54.95: 50
+SYMC    :
+MTD     :
+TACO    :
+MTH     :
+VEC     :
+MTR     :
+VFMV    :
+MTSI    :
+THFF    :
+MTX     :
+THST    :
+MU      :
+37.77: 100	38.37: 100
+37.76: 146	38.39: 100
+37.75: 100	38.68: 500
+37.64: 200	39: 50
+37.5: 100	39.5: 100
+37.16: 20	40.5: 75
+37: 40	41.72: 100
+36.6: 1000	43: 400
+34.6: 600	45.73: 50
+33: 620	46.17: 20
+32: 700	46.21: 50
+31: 800	59.8: 140
+30.85: 100	63.64: 100
+30.75: 80	65: 6
+30: 1220
+27.14: 1000
+26.84: 10
+25.69: 90
+14.95: 100
+TISA    :
+0.5: 1000	0.7488: 250
+			1: 200
+			1.05: 200
+			1.06: 500
+			1.08: 200
+MUI     :
+SMCP    :
+MUJ     :
+TBI     :
+MUR     :
+RNG     :
+VGT     :
+150: 100
+149.37: 100
+MVCD    :
+VIRC    :
+MVO     :
+			9.8: 4
+TJX     :
+1.01: 5000
+MXC     :
+TLDH    :
+MXDU    :
+SMTX    :
+MYFW    :
+TCPC    :
+MYI     :
+ROSE    :
+MYL     :
+UTMD    :
+MYNDW   :
+TLRA    :
+MYO     :
+MYOS    :
+			2.89: 100
+TDJ     :
+MYRG    :
+MYY     :
+TDI     :
+NACP    :
+RPV     :
+NAD     :
+NAIL    :
+TDS     :
+NAK     :
+UTX     :
+106: 800	122: 800
+			123: 40
+NAO     :
+SITC-A  :
+NAT     :
+NATI    :
+NATR    :
+7: 20
+6.5: 20
+NAVG    :
+WRE     :
+VAR     :
+NBB     :
+TECH    :
+NBEV    :
+NBHC    :
+TEX     :
+NBL     :
+NBN     :
+TEUM    :
+NBRV    :
+RVLT    :
+NBTB    :
+NBY     :
+TFIV    :
+NC      :
+VBFC    :
+NCLH    :
+SLDB    :
+NCNA    :
+WTFC    :
+TGT     :
+60: 150
+55: 250
+NCR     :
+NCS     :
+SPE-B   :
+NCZ     :
+NCZ-A   :
+TPGH=   :
+NDRAW   :
+NE      :
+SPLK    :
+97.54: 100
+NEAR    :
+RSP     :
+NEBU    :
+NEE-R   :
+NEED    :
+TRI     :
+NEN     :
+TRT     :
+NEOS    :
+SPOK    :
+NERV    :
+4.95: 100
+NES     :
+SPMD    :
+NESR    :
+SIZE    :
+SPR     :
+NETE    :
+NETS    :
+NEW     :
+NEWM    :
+NEWT    :
+SPXL    :
+38.33: 1000	38.36: 1200
+38.32: 1200	38.37: 1200
+38.31: 2200	38.38: 1200
+NEWTZ   :
+RWDE    :
+NEXA    :
+NFG     :
+NFJ     :
+			13.25: 2000
+TS      :
+24.73: -500	24.77: 2000
+24.72: 3400	24.78: 800
+24.71: -300	24.87: 2000
+24.69: -2800	40.89: 100
+24.66: 2000
+NFLX    :
+302.8: 20	390: 10
+WALA    :
+TMDI    :
+NFX     :
+SPYG    :
+NGE     :
+NGG     :
+53.6: 226	53.68: 600
+53.59: -88	53.69: 300
+53.39: 9000	53.7: 100
+			53.86: 9000
+SPXU    :
+39.01: 3100	39.05: 1100
+39: 1100	39.06: 2000
+			39.07: 2000
+			41.32: 5
+			42.85: 20
+			62.26: 20
+NGHC    :
+SF-A    :
+SNDR    :
+NGHCP   :
+RNDM    :
+NGVT    :
+SRAX    :
+NHLD    :
+SMAR    :
+TNAV    :
+NI      :
+SNHY    :
+NI-B    :
+SOGO    :
+NIQ     :
+SOHOO   :
+NJV     :
+TNK     :
+NKTR    :
+ROM     :
+NL      :
+SSFN    :
+NLY-C   :
+25.06: 40
+SMSI    :
+TPC     :
+NLY-H   :
+SON     :
+NM      :
+SPCB    :
+NML     :
+TYD     :
+NMZ     :
+UAUD    :
+NNDM    :
+1.01: 2000	1.11: 5000
+1: 100	1.5: 100
+STAR-I  :
+NNVC    :
+STIM    :
+NOA     :
+STON    :
+NOV     :
+SCA     :
+NOVN    :
+SPNS    :
+11.06: 860	12.8: 1500
+NOW     :
+185: 25	195.2: 2
+SCSC    :
+UBP-G   :
+NR      :
+UDOW    :
+83.3: 400	83.82: 400
+70: 1
+NRE     :
+STPZ    :
+NRO     :
+STT-E   :
+NRT     :
+SCHV    :
+NSL     :
+SPYD    :
+NSPR    :
+SEB     :
+NSPR+B  :
+TTAC    :
+NSTG    :
+SUI     :
+62.55: 50
+61.55: 50
+NSU     :
+NTAP    :
+1.01: 5000
+SRE     :
+NTC     :
+NTEC    :
+7.25: 30
+7.05: 50
+ZXZZT   :
+SRCL    :
+NTEST.B :
+SENS    :
+NTEST.C :
+NTGN    :
+SRE-B   :
+NTGR    :
+TTEC    :
+NTNX    :
+SAEX    :
+NTR     :
+NTRI    :
+NTRP    :
+NTWK    :
+VNE     :
+29.39: 200	29.62: 100
+29.31: 100	29.65: 200
+			29.71: 100
+TWI     :
+NUAG    :
+SRPT    :
+NUAN    :
+NUDM    :
+SSNT    :
+NUEM    :
+NULG    :
+SSLJ    :
+			1.16: 600
+NUMV    :
+SGLBW   :
+NUO     :
+NURO    :
+SSP     :
+NUROW   :
+TWLVR   :
+NUVA    :
+SB-D    :
+NVAX    :
+VOX     :
+STAG-C  :
+NVCR    :
+41.42: 450
+NVDA    :
+133.82: 200	134.1: 71
+133.62: 123	134.2: 200
+133.45: 300	134.23: 9
+133.4: 100	135.5: 10
+133.1: 550	135.88: 19
+132.1: 10	137: 270
+132.02: 650	137.3: 20
+132: 167	137.5: 100
+130.6: 10	138: 30
+130: 231	138.88: 25
+129: 5	139: 600
+128: 10	139.45: 100
+127: 51	140: 1
+126.87: 70	141.2: 100
+126.55: 40	142: 250
+125: 120	143.6: 4
+124.54: 50	144: 10
+118: 11	145: 85
+113: 1	170: 100
+105: 10	175.55: 5
+103.73: 200	178: 150
+100: 200	182.5: 100
+89: 1	185.54: 100
+73.15: 100	190.05: 100
+1.01: 5000	222.8: 36
+			228: 150
+			245: 400
+			5000: 40
+UPW     :
+NVGS    :
+NVIV    :
+			2.3: 100
+ZAYO    :
+T       :
+30.66: 187	30.8: 1
+30.51: 9	30.83: 50
+29.8: 100	31.27: 500
+29.74: 500	31.41: 6
+29.7: 10	31.85: 15
+29.5: 115	32.45: 500
+29.23: 100	33: 800
+29: 201	33.01: 200
+28.88: 1000	34: 500
+28.52: 140	34.18: 200
+27.53: 100	34.89: 1
+27.25: 10
+26.5: 10
+26: 10
+25.9: 5
+25.75: 125
+24.5: 14
+23.07: 40
+NVR     :
+2200: 1	5000: 1
+2000: 1
+NVS     :
+84.84: 750	84.9: 267
+84.82: 1500	84.91: 300
+84.8: 941	84.93: 200
+84.69: 1500	84.94: 1262
+84.02: 7	84.95: 100
+			84.96: 560
+			84.98: -126
+			85: -632
+			85.06: -50
+			85.09: 554
+			85.12: 1500
+			99.9: 30
+USAS    :
+NVTA    :
+QUMU    :
+WAGE    :
+NVTR    :
+WBIC    :
+NWLI    :
+NWN     :
+TAST    :
+NWS     :
+			13.2: 20
+TBRGU   :
+NXE     :
+			2.25: 2000
+USCI    :
+NXEOW   :
+NXGN    :
+ZHOK    :
+USB     :
+NXJ     :
+PSJ     :
+USDU    :
+NXP     :
+NXPI    :
+NXRT    :
+NXTD    :
+NXTM    :
+USOD    :
+WDIV    :
+NYCB-A  :
+RBIN    :
+NYCB-U  :
+NYNY    :
+WDR     :
+NYT     :
+TCF-D   :
+NZF     :
+SUSC    :
+OAK-B   :
+USWSW   :
+OBAS    :
+OBCI    :
+USRT    :
+OBE     :
+			0.58: 2
+PPSI    :
+UFI     :
+OBOR    :
+QADA    :
+OCN     :
+UTSI    :
+ODC     :
+PUMP    :
+SWK     :
+WHLM    :
+OEC     :
+UGL     :
+38.15: 30
+OEF     :
+ULH     :
+OFIX    :
+ULVM    :
+OFSSZ   :
+SWP     :
+OGS     :
+QLYS    :
+OHGI    :
+0.0001: 50000	34.49: 1200
+VB      :
+142: 2
+OIH     :
+PXR     :
+SZC     :
+OILD    :
+UN      :
+53.68: 2672	53.73: 1500
+53.67: 3906	53.75: 100
+53.66: 2200	54.57: 100
+53.62: 400
+53.54: 4500
+53.22: 100
+WLH     :
+OILK    :
+UPL     :
+0.7: 200	0.76: 200
+0.68: 200	0.78: 200
+			1.05: 400
+OLEM    :
+TGS     :
+OMAD=   :
+TIBRU   :
+VLY     :
+OMER    :
+VEGI    :
+OMI     :
+VFH     :
+62: 2	72.78: 300
+OMOM    :
+VGZ     :
+ONEQ    :
+RHS     :
+ONEV    :
+USB-P   :
+ONLN    :
+PME     :
+TIS     :
+1.3: 262	1.4: 255
+1.26: 200	1.77: 200
+1.25: 260	1.9: 100
+1.16: 1000
+1.05: 3000
+1.01: 1000
+0.9754: 50
+0.9123: 100
+0.8545: 100
+0.801: 100
+0.7789: 100
+0.7209: 100
+OPES    :
+TLI     :
+OPGNW   :
+VIA     :
+OPK     :
+3.54: 1887	3.57: 19417
+3.48: 400	3.62: 200
+VIOG    :
+VONV    :
+OPOF    :
+RLI     :
+ORBC    :
+USWS    :
+ORC     :
+6.73: 2	7.01: 80
+5.94: 5	7.02: 80
+5.89: 5	7.03: 80
+5.84: 1
+POPE    :
+ORG     :
+TDAC    :
+ORI     :
+VIV     :
+ORIT    :
+ORM     :
+UVE     :
+ORN     :
+VSDA    :
+ORRF    :
+WOW     :
+UUUU    :
+OSBCP   :
+PPLN    :
+OSCV    :
+OSIR    :
+UVV     :
+OSIS    :
+TDE     :
+OSN     :
+REI     :
+VSM     :
+OSS     :
+OSUR    :
+OTEL    :
+16.25: 10
+16: 30
+15.75: 20
+15.5: 20
+15.25: 20
+OTLK    :
+TENX    :
+			1.44: 2499
+OTTW    :
+UZB     :
+OUNZ    :
+12.88: 7500	12.89: 10000
+			12.92: 7500
+OUSM    :
+VBR     :
+OVBC    :
+OVLC    :
+VBLT    :
+OXBR    :
+PRI     :
+OXBRW   :
+VTVT    :
+			4.95: 1000
+OXLC    :
+VC      :
+VVI     :
+OXLCM   :
+TERP    :
+OXY     :
+RFDA    :
+OZK     :
+VECO    :
+P       :
+			10: 2
+PAA     :
+TPRE    :
+PACD    :
+PACQ    :
+WFE-A   :
+SPAQ=   :
+PAG     :
+PAGP    :
+TRIB    :
+PAH     :
+PQG     :
+XONE    :
+6.69: 480	10.84: 20
+			10.99: 150
+PAHC    :
+XSLV    :
+PAR     :
+PARR    :
+SPLG    :
+PATI    :
+17.5: 10	21: 10
+			22: 10
+SPSM    :
+PAVMW   :
+TRNS    :
+PAYC    :
+111: 50
+PAYX    :
+1.01: 5000
+WINS    :
+15.07: 100	76: 46
+			99.88: 1
+TRMB    :
+PB      :
+RENN    :
+			2.3: 335
+TRP     :
+PBB     :
+PBBI    :
+PBCTP   :
+PBDM    :
+PBEE    :
+TSBK    :
+YEXT    :
+12.9: 500	15: 10
+PBFX    :
+PRN     :
+PBH     :
+			31: 1
+PBP     :
+YGYI    :
+PBPB    :
+SPXE    :
+PBR.A   :
+SNGXW   :
+PBTP    :
+TSLX    :
+19.16: 1
+PBY     :
+PBYI    :
+TSE     :
+PCAR    :
+QTWO    :
+TLTE    :
+PCF     :
+PLYM-A  :
+PCG-G   :
+TTC     :
+PCM     :
+8.05: 1920
+RHE     :
+			1.32: 200
+			1.39: 9
+			1.4: 60
+			1.85: 45
+SNSS    :
+ZCAN    :
+PCQ     :
+TMHC    :
+PCRX    :
+TNP-C   :
+PDD     :
+TNXP    :
+PDLB    :
+SNY     :
+42.42: 563	42.45: -503
+42.4: 100	42.48: 500
+42.36: -592	42.61: 3000
+42.28: 3000	43.35: 100
+41.47: 100	43.46: 100
+41.45: 100
+PDS     :
+			1.95: 10
+PODD    :
+PDVW    :
+TWLO    :
+PEB-F   :
+RL      :
+SPA     :
+PEG     :
+TORC    :
+ZN      :
+PEGA    :
+TPIC    :
+PENN    :
+STAG    :
+PETS    :
+STL     :
+WPG-I   :
+PEX     :
+TYNS    :
+PFBI    :
+UAE     :
+PFE     :
+40.82: 393	40.96: 454
+40.46: 600	40.97: 600
+40.41: 600	40.98: 100
+40.36: 600	41.02: 600
+39.47: 1	41.07: 600
+37.7: 17	42.37: 2300
+27: 500	43.64: 1200
+			44.31: 120
+			45: 1
+UBP-H   :
+PFIE    :
+PVAL    :
+PFIG    :
+TRNO    :
+PFIS    :
+QAT     :
+STNLW   :
+PFPT    :
+STZ     :
+165.71: 1
+PFXF    :
+UBSI    :
+PGHY    :
+UCOM    :
+WST     :
+PGLC    :
+PXUS    :
+PHB     :
+TSLF    :
+PHD     :
+QQEW    :
+PHG     :
+37.55: 2500	37.61: 2400
+37.54: 1800	37.62: 2700
+37.53: 1500	37.63: 2000
+37.45: 1700	37.64: 600
+37.32: 3000	37.79: 3000
+SQQQ    :
+13.84: 3100	13.86: 2900
+13.83: 3100	13.87: 6100
+13.82: 3100	13.88: 300
+13.81: 3100	13.95: 1000
+13.78: 651	14: 50
+13.76: 300	14.1: 2020
+13.75: 2500	14.19: 1650
+13.7: 70	14.2: 108
+13.6: 3014	14.34: 2180
+13.5: 745	14.35: 210
+13.43: 60	14.38: 100
+13.4: 50	14.4: 200
+13.38: 100	14.5: 3208
+13.26: 50	14.6: 2100
+13.24: 60	14.94: 40
+13.2: 800	15.8: 100
+13.15: 50	17.96: 415
+13.1: 200	77.17: 650
+13.09: 60
+13: 100
+12.89: 500
+12.8: 541
+12.79: 60
+12.19: 100
+12.16: 1
+11.98: 5200
+PHIIK   :
+UEIC    :
+PHIO    :
+PHK     :
+7.36: 1
+TTMI    :
+PHO     :
+X       :
+21.15: 5
+21.02: 1
+PHUN    :
+VLRS    :
+TTI     :
+PHYS    :
+10.51: 11000	10.72: 11000
+10.5: 11000	10.74: 2200
+10.49: 11000	10.76: 2200
+10.46: 11000	10.77: 2200
+QTS     :
+25.51: 100
+PI      :
+PICK    :
+TTOO    :
+PICO    :
+SRC-A   :
+PII     :
+PSCI    :
+XBUY    :
+PIM     :
+PINC    :
+PIO     :
+PIY     :
+SSBI    :
+PJC     :
+TUR     :
+16.6: 5
+PJH     :
+PJT     :
+TWN     :
+PK      :
+PKBK    :
+TWM     :
+17.06: 2600	17.1: 2600
+PKO     :
+RAVE    :
+PKOH    :
+28: 10
+XKII    :
+PKX     :
+60.75: 70
+TWNKW   :
+XLK     :
+63.35: 300	65.29: 300
+63.34: 300	65.3: 340
+62: 5	65.94: 300
+37.93: 1	65.95: 400
+PLAB    :
+SSI     :
+PLCE    :
+85.7: 110
+PTEU    :
+PLD     :
+TYG     :
+PLL     :
+PLM     :
+0.6745: 25	0.785: 20
+			0.81: 1
+			0.85: 1
+PLT     :
+UNTY    :
+PLUS    :
+PLXS    :
+PMM     :
+PMO     :
+USFD    :
+PMT-A   :
+PNC-P   :
+PNI     :
+PNQI    :
+PNRG    :
+PNTR    :
+12.3: 527	14.04: 10
+			14.56: 1223
+POWI    :
+POWL    :
+22.5: 10
+UG      :
+PPDF    :
+3.35: 200	3.65: 200
+			3.78: 1091
+			33000: 33
+			100000: 5000
+PPL     :
+			30.77: 1
+XXII    :
+2.03: 500	2.5: 180
+			2.55: 150
+			2.6: 2
+			2.82: 9
+			4: 1
+UJUL    :
+PRK     :
+WY      :
+			26.85: 1
+VERU    :
+			2.56: 20000
+PS      :
+VICR    :
+PSDO    :
+PTI     :
+PTNQ    :
+PTVCA   :
+UTES    :
+PTY     :
+PUI     :
+PUK-    :
+PVG     :
+PVH     :
+PW      :
+PWS     :
+PXE     :
+VALQ    :
+PXI     :
+PXLG    :
+PXLW    :
+PYN     :
+PYZ     :
+TPGH    :
+PZD     :
+PZT     :
+QCOM    :
+49.86: 20	54.99: 100
+49.56: 100	55: 40
+39.35: 50	55.01: 100
+1.01: 500000	57: 6
+			57.39: 90
+			58.04: 100
+QCRH    :
+TRS     :
+QDF     :
+QEP     :
+QGRO    :
+QID     :
+42.16: 1500	42.18: 3500
+42.15: 1500	42.19: 2500
+42.14: 1500	42.2: 1500
+QIWI    :
+QLD     :
+74.32: 500	74.36: 1300
+74.3: 800	74.4: 500
+74.28: 500
+QQQX    :
+QQXT    :
+TMCXU   :
+QRVO    :
+QTRH    :
+WBS-F   :
+TNDM    :
+			47.03: 1301
+			47.58: 1401
+RBBN    :
+VRTSP   :
+TZACU   :
+RDCM    :
+UCFC    :
+RELX    :
+21.83: 800	21.86: 500
+21.82: 1100	21.9: 3000
+21.81: 0
+21.76: 3000
+RFFC    :
+RFUN    :
+RGEN    :
+TSN     :
+RGLD    :
+RGNX    :
+30: 100
+RGS     :
+			19.98: 1
+RIBT    :
+RICK    :
+RIGL    :
+RILYL   :
+RIO     :
+55.25: 400	55.29: 500
+55.24: 700	55.3: 400
+55.2: 100	55.32: 100
+55.18: 100	55.36: 100
+47.21: 20	55.37: -16
+			55.39: 247
+			55.4: 1500
+			55.41: 219
+			58: 1162
+TV      :
+RIV     :
+RJA     :
+RJI     :
+RLM     :
+RMCF    :
+SZNE    :
+RMI     :
+RMT     :
+RNMC    :
+RNN     :
+0.6452: 200	0.75: 100
+0.6205: 2000	0.9: 1
+			1: 763
+			1.01: 6
+			1.21: 32
+TBPH    :
+RNR-E   :
+ROAM    :
+ROCK    :
+ROG     :
+ROIC    :
+ROKU    :
+ROST    :
+1.01: 500000
+ROUS    :
+SUSA    :
+RPAI    :
+RPT-D   :
+SWM     :
+RVSB    :
+THOR    :
+RXL     :
+TKKSR   :
+SAFT    :
+SBBP    :
+SBGL    :
+3.29: 100	3.3: 3800
+2.44: 756	3.33: 100
+2.07: 14000	3.65: 40
+SBLK    :
+TCRZ    :
+25.15: 100	25.32: 100
+SBNA    :
+SBOT    :
+SBPH    :
+SCACU   :
+SCACW   :
+SCD     :
+SCE-H   :
+SCHA    :
+TEF     :
+8.7: 2500	8.72: 7700
+8.69: 2500	8.73: 5000
+8.65: -300	8.78: 4000
+8.64: 4000	8.79: 4000
+8.63: 3600
+SCHD    :
+SCHF    :
+SCHH    :
+SCHW-D  :
+SCIJ    :
+SPAQ    :
+SCIX    :
+SCM     :
+13.9: 1
+13.81: 1
+11.08: 1
+SCWX    :
+12.85: 150
+SCX     :
+			6.75: 100
+SPSB    :
+SDAG    :
+SDI     :
+SDOW    :
+15.91: 3000	16.29: 3000
+SDR     :
+			1.1: 15
+SDS     :
+38.28: 1700	38.32: 3900
+38.27: 1700	38.34: 1700
+			40.38: 5
+SDVY    :
+SEDG    :
+35.1: 1000	57.93: 100
+			65: 200
+SEE     :
+SNFCA   :
+SEIC    :
+SENEA   :
+SNV-D   :
+			25.24: 40
+SGOL    :
+STE     :
+SHW     :
+381.14: 150
+STRS    :
+SITO    :
+			2: 280
+SLGL    :
+SLNOW   :
+SLS     :
+SPYX    :
+SLV     :
+14.95: 5300	14.97: 5000
+14.91: 100	14.99: 100
+			16.63: 1000
+			18: 1000
+SLVP    :
+SLY     :
+SMDV    :
+SMED    :
+SMH     :
+63.64: 30
+SMIT    :
+SMLV    :
+SRTS    :
+SMMF    :
+SMMU    :
+SMN     :
+SNAP    :
+6.41: 100	7.49: 100
+6.39: 100	7.5: 75
+4.9: 200	7.51: 100
+			7.89: 860
+			8.6: 222
+			8.99: 55
+			9.89: 55
+			10.79: 60
+			11.39: 55
+			18: 500
+SNDX    :
+SNHNI   :
+SNPS    :
+1.01: 5000
+SNR     :
+SOHO    :
+SOHU    :
+SOJA    :
+SOJC    :
+SOLO    :
+			3.5: 52
+SOXX    :
+SOYB    :
+SPDN    :
+ST      :
+STAR-D  :
+STBA    :
+STG     :
+STI-A   :
+STML    :
+9.01: 700
+STMP    :
+STNG    :
+STOT    :
+STRL    :
+STT     :
+STT-D   :
+SUM     :
+SUPN    :
+25: 100
+SVA     :
+SWI     :
+SWIR    :
+SXCP    :
+SXTC    :
+SYE     :
+69.95: 1
+SYG     :
+SYKE    :
+SYV     :
+SYX     :
+TACOW   :
+TGP     :
+THC     :
+THGA    :
+THR     :
+THS     :
+TIGO    :
+62.82: 500	63.45: 500
+62.75: 1000	63.73: 1000
+TIK     :
+TIPT    :
+TITN    :
+			19.34: 65
+TKAT    :
+TKKSW   :
+TLC     :
+TLRD    :
+TLYS    :
+			12.9: 1000
+TMF     :
+TMUS    :
+TMV     :
+TNP-D   :
+TOCA    :
+TOLZ    :
+TOO-A   :
+TOO-E   :
+TOWN    :
+TOWR    :
+23: 10
+TPL     :
+TY      :
+TYL     :
+TYPE    :
+TZOO    :
+UAA     :
+UBFO    :
+UBG     :
+UBOH    :
+VSTM    :
+UBS     :
+13.06: 1500	13.08: 4500
+13.05: 100	13.1: 4500
+13.04: 4500	13.7: 5
+UBX     :
+UCI     :
+UCO     :
+17.62: 1600	17.63: 1600
+17.61: 1600	17.68: 100
+17.6: 2000	17.72: 2000
+17.5: 2000	17.74: 2000
+16.79: 370
+UEPS    :
+UFPI    :
+UGE     :
+UITB    :
+UIVM    :
+ULST    :
+UMBF    :
+			64.5: 100
+			68: 10
+UMH     :
+UMH-C   :
+UMPQ    :
+UNL     :
+UNM     :
+UPLD    :
+VEAC    :
+VEEV    :
+VER     :
+VETS    :
+VFC     :
+65: 150
+60: 200
+55: 200
+VGFO    :
+VGI     :
+VGM     :
+			12.28: 100000
+XEL     :
+VHI     :
+VIAV    :
+VIG     :
+101.01: 2
+VIIX    :
+16.09: 900	16.49: 900
+			16.5: 900
+			16.51: 900
+			16.52: 900
+			16.53: 900
+VIVE    :
+VJET    :
+VKI     :
+VKQ     :
+VKTX    :
+VKTXW   :
+VLGEA   :
+VLO     :
+VLRX    :
+0.35: 2000	0.435: 1000
+			2.59: 250
+VLU     :
+VLUE    :
+VLYPO   :
+VLYPP   :
+VMBS    :
+VMC     :
+VMI     :
+VMM     :
+VMOT    :
+VMW     :
+1.01: 5000
+VNDA    :
+VNET    :
+VNLA    :
+VNM     :
+VNO     :
+VNO-K   :
+VNO-L   :
+VNO-M   :
+VNOM    :
+29.36: 3
+VNRX    :
+VNTR    :
+VOC     :
+4: 1	7: 1000
+VOD     :
+17.79: 900	17.81: 1700
+17.78: 1700	17.82: 100
+17.76: 1400	17.83: 2300
+17.75: 2100	17.84: 1300
+17.68: 100	17.85: 1700
+16.05: 20	17.86: 700
+15.17: 100	26.5: 4
+VOE     :
+VONE    :
+VONG    :
+VOO     :
+242.91: 500	243.04: 500
+242.84: 500	243.06: 100
+			243.09: 500
+			243.11: 500
+			243.13: 500
+VOOG    :
+VOOV    :
+VOT     :
+VOXX    :
+VOYA    :
+VPG     :
+VPU     :
+110: 50	124: 100
+100: 100
+VPV     :
+VQT     :
+VRA     :
+VREX    :
+VRNS    :
+VRP     :
+VRRM    :
+VRS     :
+VRSN    :
+100: 100
+VRTS    :
+VRTU    :
+VRTX    :
+VSAT    :
+VSEC    :
+VSGX    :
+VSH     :
+VSI     :
+VSL     :
+VSLR    :
+			4.3: 42
+VSMV    :
+VSS     :
+VST+A   :
+VSTO    :
+VT      :
+VTA     :
+VTC     :
+VTEB    :
+VTGN    :
+VTHR    :
+VTI     :
+130: 2
+VTIQU   :
+VTIQW   :
+VTN     :
+VTNR    :
+VTR     :
+VTSI    :
+VTV     :
+100.01: 2
+VTWG    :
+VTWO    :
+VTWV    :
+VUG     :
+VUSE    :
+VUZI    :
+VV      :
+119: 2
+VVC     :
+VVPR    :
+			1.69: 200
+			1.77: 500
+			1.99: 300
+VVR     :
+VVUS    :
+VVV     :
+18: 10
+17.5: 10
+VWO     :
+38: 4
+VXF     :
+VXRT    :
+VXZB    :
+VYM     :
+80: 2	92: 27
+VYMI    :
+VZ      :
+53.21: 10	53.54: 60
+52.76: 100	53.9: 100
+52.01: 10	54.5: 1
+45.34: 100	54.6: 200
+			58.9: 2
+			65: 15
+W       :
+WAAS    :
+WAB     :
+WABC    :
+WAFD    :
+WAIR    :
+WAL     :
+WANT    :
+WASH    :
+WAT     :
+1.01: 5000
+WATT    :
+			8.13: 1000
+WB      :
+WBA     :
+WBAI    :
+WBAL    :
+WBC     :
+WBIB    :
+WBID    :
+WBIE    :
+WBIG    :
+WBIH    :
+WBII    :
+WBIL    :
+WBIR    :
+WBIY    :
+WBND    :
+WBS     :
+WBT     :
+			15.6: 200
+WCFB    :
+WCG     :
+WCHN    :
+WCN     :
+WD      :
+WDAY    :
+157.18: 163
+91.31: 100
+WDFC    :
+			190: 1
+WDRW    :
+WEA     :
+WEAT    :
+			6.99: 95
+WEBK    :
+WEC     :
+67.55: 15
+WEI     :
+WELL    :
+WERN    :
+WES     :
+WEX     :
+WFC-L   :
+1275.9: 1
+WFC-O   :
+WFC-P   :
+WFC-Q   :
+WFC-R   :
+WFC-T   :
+WFC-W   :
+WFC-X   :
+WFHY    :
+WFIG    :
+WFT     :
+0.59: 10	0.6349: 6
+			0.75: 28
+WGO     :
+WGP     :
+WH      :
+WHD     :
+WHF     :
+WHG     :
+WHLR    :
+WHLRD   :
+WHLRW   :
+WHR     :
+133.27: 50	135.83: 90
+133.26: 200	144.64: 20
+133.24: 200
+131.24: 75
+127.35: 173
+126.49: 1000
+126.27: 30
+126.02: 100
+125.02: 100
+124.02: 100
+123.02: 100
+WIA     :
+WIFI    :
+WIL     :
+WILC    :
+WINA    :
+WING    :
+WIP     :
+WISA    :
+WIT     :
+WIW     :
+WIX     :
+WK      :
+WKHS    :
+WLDR    :
+WLK     :
+WLKP    :
+WLL     :
+WLTW    :
+WM      :
+WMB     :
+WMC     :
+WMCR    :
+WMGIZ   :
+WMK     :
+WMS     :
+WMT     :
+96.77: 100	97.35: 100
+93: 30	100: 58
+WMW     :
+WNC     :
+WNEB    :
+WNS     :
+WOMN    :
+WOOD    :
+WOR     :
+WP      :
+81.83: 100	82.66: 100
+81.07: 77	100: 1
+WPG     :
+WPG-H   :
+WPM     :
+			22: 1
+WPP     :
+57.54: 400	57.62: 510
+57.53: 166	57.63: 613
+56.94: 3000	58.15: 3000
+WPRT    :
+1.44: 4404	1.99: 5000
+WPS     :
+WPX     :
+WRB     :
+WRB-C   :
+WRB-D   :
+WRD     :
+WREI    :
+WRI     :
+WRK     :
+WRLD    :
+WRLS    :
+WRLSR   :
+WRLSU   :
+WRLSW   :
+WSBC    :
+WSBF    :
+WSFS    :
+WSM     :
+WSO     :
+WSO.B   :
+WSR     :
+WSTG    :
+10: 10
+9.75: 10
+WSTL    :
+WTBA    :
+WTER    :
+3.15: 20
+WTFCM   :
+WTI     :
+			5.75: 45
+WTID    :
+WTM     :
+WTMF    :
+WTR     :
+WTRH    :
+			16.34: 3000
+			16.46: 500
+			16.51: 1000
+WTTR    :
+WVE     :
+WVVI    :
+WVVIP   :
+WWD     :
+WWR     :
+WWW     :
+WYDE    :
+WYNN    :
+WYY     :
+XAN     :
+XAN-C   :
+XAR     :
+XBI     :
+			80.55: 1
+XBIO    :
+XBIT    :
+XCEM    :
+XCOM    :
+XEC     :
+XELA    :
+1.55: 10000
+XELB    :
+XENE    :
+XENT    :
+XERS    :
+XES     :
+XFLT    :
+XGTI    :
+XHR     :
+XHS     :
+XINA    :
+XITK    :
+XKCP    :
+XKFF    :
+XKFS    :
+XKST    :
+XLB     :
+47.51: 400	54.99: 400
+47.5: 400
+XLC     :
+39.01: 500	44.12: 500
+39: 550	44.13: 500
+37.02: 500	44.14: 500
+35.5: 3	44.15: 500
+			44.18: 500
+XLE     :
+60.77: 300
+60.76: 300
+60.01: 2
+XLEY    :
+XLF     :
+25.75: 800	26.29: 800
+25.74: 800	26.3: 800
+25.73: 800
+25.72: 800
+XLG     :
+XLI     :
+64.79: 300	72.95: 300
+64.78: 300	72.96: 300
+XLNX    :
+1.01: 5000	111.89: 600
+XLP     :
+51.18: 400	52.76: 400
+51.17: 400	52.77: 400
+50.01: 2	52.83: 400
+			52.84: 400
+XLRE    :
+XLRN    :
+XLSY    :
+XLU     :
+53.04: 400	53.24: 400
+53.03: 400	53.25: 400
+53.02: 400	53.26: 400
+53.01: 400	53.31: 400
+52.98: 400
+XLUY    :
+XME     :
+XMPT    :
+XMX     :
+XNCR    :
+XNTK    :
+XOG     :
+			11.56: 30
+XOM     :
+70.02: 57
+XOMA    :
+XON     :
+XOP     :
+XPER    :
+XPL     :
+XPO     :
+XPP     :
+XRAY    :
+XRF     :
+XRLV    :
+XRT     :
+XRX     :
+XSD     :
+69.75: 1
+65.9: 1
+XSHQ    :
+XSOE    :
+XSPA    :
+			0.2799: 1200
+XT      :
+XTH     :
+XTL     :
+XTLB    :
+2.16: 2882	2.69: 3000
+XTN     :
+XTNT    :
+XVZ     :
+XWEB    :
+XYF     :
+Y       :
+YANG    :
+YAO     :
+YCL     :
+57.5: 500	57.63: 500
+			57.64: 500
+YCOM    :
+YCS     :
+YETI    :
+15: 2
+YI      :
+YIN     :
+6.44: 1000
+YINN    :
+11.8: 1000	22.3: 1000
+10.8: 1000	23: 200
+YLCO    :
+YLD     :
+YLDE    :
+YMAB    :
+YNDX    :
+32.42: 100	32.61: 1000
+32.41: 200
+32.39: 200
+32.21: 1000
+30: 50
+YOGA    :
+YPF     :
+YTEN    :
+YUM     :
+YUMA    :
+0.108: 20	0.124: 2
+0.09: 100	0.1248: 7000
+			0.127: 1200
+			0.14: 50
+			0.2: 1000
+			300: 11
+YUMC    :
+YVR     :
+YXI     :
+YYY     :
+Z       :
+ZAZZT   :
+ZB-A    :
+ZB-G    :
+ZB-H    :
+ZBH     :
+ZBIO    :
+ZBK     :
+ZBRA    :
+ZBZZT   :
+ZCZZT   :
+ZDEU    :
+ZEAL    :
+14.25: 100	14.31: 100
+14.23: 100	14.32: 100
+14.21: 1200	14.54: 5000
+14.11: 5000
+ZEN     :
+ZEUS    :
+ZEXIT   :
+ZF      :
+ZFGN    :
+ZGBR    :
+ZGNX    :
+ZIEXT   :
+ZIONW   :
+ZIOP    :
+ZIV     :
+			80.17: 100
+ZIXI    :
+ZJPN    :
+ZJZZT   :
+ZLAB    :
+ZNGA    :
+ZNH     :
+ZNWAA   :
+ZOM     :
+ZROZ    :
+ZS      :
+ZSAN    :
+ZSL     :
+35.07: 1100	35.26: 1100
+35.06: 1100	35.27: 1100
+ZTO     :
+ZTR     :
+ZTS     :
+ZUMZ    :
+ZUO     :
+20: 200	22: 70
+ZVV     :
+ZVZZC   :
+ZVZZT   :
+9.99: 500	10.02: 300
+9.97: 400	10.03: 200
+9.95: 300	10.05: 100
+9.91: 300	10.3: 200
+9: 300	10.5: 200
+			10.75: 100
+			11.37: 300
+			13: 100
+			14: 100
+			15: 300
+ZWZZT   :
+ZXIET   :
+ZXYZ.A  :
+ZYME    :

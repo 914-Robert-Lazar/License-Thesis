@@ -5,11 +5,16 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:ITCHDecodeBenchmark"
         xmlns:vm="clr-namespace:ITCHDecodeBenchmark.ViewModels"
+        xmlns:util="clr-namespace:ITCHDecodeBenchmark.Util"
         mc:Ignorable="d"
         Title="ITCH Decoder Benchmark" WindowState="Maximized">
     <Window.DataContext>
         <vm:MainWindowViewModel/>
     </Window.DataContext>
+    <Window.Resources>
+        <BooleanToVisibilityConverter x:Key="BoolToVisibilityConverter" />
+        <util:InverseBooleanToVisibilityConverter x:Key="InverseBoolToVisibilityConverter" />
+    </Window.Resources>
     <Grid Margin="10">
         <Grid.RowDefinitions>
             <RowDefinition Height="Auto"/>
@@ -23,26 +28,45 @@
             <TextBox Text="{Binding InputFile, Mode=OneWay}" IsReadOnly="True" Margin="0 0 10 0"
                      VerticalContentAlignment="Center"/>
             <Button Content="Select Input File" Margin="0 0 10 0" Command="{Binding SelectInputFileCommand}"/>
-            <Label Content="Number of order related messages to be executed:"/>
+            <Label Content="Number of runs to be benchmarked:"/>
             <TextBox Text="{Binding NumberOfMessagesToExecute, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}" Margin="0 0 10 0"
                 VerticalContentAlignment="Center" Width="150"/>
-            <Button Content="Run Benchmarks" Command="{Binding RunBenchmarkCommand}"/>
+            <Label Content="Number of order related messages to be executed per run:"/>
+            <TextBox Text="{Binding NumberOfMessagesToExecute, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}" Margin="0 0 10 0"
+                VerticalContentAlignment="Center" Width="150"/>
+            <Button Content="Run Benchmarks" Command="{Binding RunBenchmarksCommand}"/>
         </StackPanel>
 
         <DataGrid x:Name="ProgramsGrid" Grid.Row="1" AutoGenerateColumns="False" IsReadOnly="True" ItemsSource="{Binding Programs}">
             <DataGrid.Columns>
-                <DataGridTextColumn Header="Program Path" Binding="{Binding Path}" Width="Auto"/>
+                <DataGridTextColumn Header="Program Path" Binding="{Binding Path}" Width="200"/>
                 <DataGridTextColumn Header="Language" Binding="{Binding Language}" Width="100"/>
                 <DataGridTemplateColumn Header="Execution Type" >
                     <DataGridTemplateColumn.CellTemplate>
                         <DataTemplate>
-                            <ComboBox ItemsSource="{Binding DataContext.ExecutionTypes, RelativeSource={RelativeSource AncestorType=Window}}"
+                            <ComboBox ItemsSource="{Binding ExecutionTypes}"
                                       SelectedItem="{Binding ExecutionType, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}"/>
                         </DataTemplate>
                     </DataGridTemplateColumn.CellTemplate>
                 </DataGridTemplateColumn>
                 <DataGridTextColumn Header="Order Related Messages ran" Binding="{Binding NumberOfMessagesExecuted}" Width="Auto"/>
-                <DataGridTextColumn Header="Execution Time (s)" Binding="{Binding ExecutionTime}" Width="150"/>
+                <DataGridTemplateColumn Header="Execution Time (s)">
+                    <DataGridTemplateColumn.CellTemplate>
+                        <DataTemplate>
+                            <Grid>
+                                <TextBlock Text="{Binding ExecutionTime}" 
+                                    HorizontalAlignment="Center" 
+                                    VerticalAlignment="Center"
+                                    Visibility="{Binding IsRunning, Converter={StaticResource InverseBoolToVisibilityConverter},
+                                        Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}" />
+                                <ProgressBar IsIndeterminate="True" Width="20" Height="20"
+                                    HorizontalAlignment="Center" VerticalAlignment="Center"
+                                    Visibility="{Binding IsRunning, Converter={StaticResource BoolToVisibilityConverter},
+                                        Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}" />
+                            </Grid>
+                        </DataTemplate>
+                    </DataGridTemplateColumn.CellTemplate>
+                </DataGridTemplateColumn>
                 <DataGridTemplateColumn Header="Run Benchmark">
                     <DataGridTemplateColumn.CellTemplate>
                         <DataTemplate>
@@ -50,9 +74,8 @@
                         </DataTemplate>
                     </DataGridTemplateColumn.CellTemplate>
                 </DataGridTemplateColumn>
+                <DataGridTextColumn Header="Notes" Binding="{Binding Notes}" Width="*"/>
             </DataGrid.Columns>
         </DataGrid>
-
-        <TextBlock x:Name="StatusText" Grid.Row="2" Margin="0 10 0 0" FontWeight="Bold" Text="{Binding Status}"/>
     </Grid>
 </Window>
